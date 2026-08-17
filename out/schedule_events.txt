@@ -1,0 +1,2595 @@
+3915	2018-01-01	BIRTHDAY	Melati Putri Rahel Sesilia	4306melati-putri-rahel-sesilia
+3921	2018-01-02	BIRTHDAY	Devi Kinal Putri	4313devi-kinal-putri
+3916	2018-01-04	BIRTHDAY	Violeta Burhan	4307violeta-burhan
+3909	2018-01-05	SHOW	Sekarang Sedang Jatuh Cinta	4300sekarang-sedang-jatuh-cinta
+3917	2018-01-05	BIRTHDAY	Aninditha Rahma Cahyadi	4308aninditha-rahma-cahyadi
+3918	2018-01-05	BIRTHDAY	Diani Amalia Ramadhani	4309diani-amalia-ramadhani
+3935	2018-01-05	GENERAL	Janji Suci Raffi & Gigi - TransTV (Melody & Kinal)	4328janji-suci-raffi-gigi-transtv-melody-kinal
+3910	2018-01-06	SHOW	Team KIII B•E•L•I•E•V•E Show	4301team-kiii-believe-show
+3911	2018-01-06	SHOW	Demi Seseorang	4302demi-seseorang
+3912	2018-01-07	SHOW	Team KIII B•E•L•I•E•V•E Show	4303team-kiii-believe-show
+3913	2018-01-07	SHOW	Sekarang Sedang Jatuh Cinta	4304sekarang-sedang-jatuh-cinta
+3923	2018-01-09	SHOW	Demi Seseorang	4315demi-seseorang
+3924	2018-01-10	SHOW	Team KIII B•E•L•I•E•V•E Show	4316team-kiii-believe-show
+3925	2018-01-11	SHOW	Sekarang Sedang Jatuh Cinta	4317sekarang-sedang-jatuh-cinta
+3926	2018-01-12	SHOW	Demi Seseorang	4318demi-seseorang
+3927	2018-01-13	SHOW	Team KIII B•E•L•I•E•V•E Show	4319team-kiii-believe-show
+3928	2018-01-13	SHOW	Sekarang Sedang Jatuh Cinta	4320sekarang-sedang-jatuh-cinta
+3919	2018-01-14	BIRTHDAY	Cindy Yuvia	4310cindy-yuvia
+3929	2018-01-14	SHOW	Demi Seseorang	4321demi-seseorang
+3930	2018-01-14	SHOW	Team KIII B•E•L•I•E•V•E Show	4322team-kiii-believe-show
+3953	2018-01-15	GENERAL	Bahagia Cara Uya (Live) GTV - Kinal	4347bahagia-cara-uya-live-gtv-kinal
+3920	2018-01-16	BIRTHDAY	Feni Fitriyanti	4311feni-fitriyanti
+3936	2018-01-16	SHOW	Sekarang Sedang Jatuh Cinta	4329sekarang-sedang-jatuh-cinta
+3954	2018-01-16	GENERAL	Bahagia Cara Uya (Live) GTV - Kinal	4348bahagia-cara-uya-live-gtv-kinal
+3937	2018-01-17	SHOW	Demi Seseorang	4330demi-seseorang
+3938	2018-01-18	SHOW	Team KIII B•E•L•I•E•V•E Show	4331team-kiii-believe-show
+3939	2018-01-19	SHOW	Demi Seseorang	4332demi-seseorang
+3956	2018-01-19	GENERAL	Bahagia Cara Uya - GTV (Kinal)	4350bahagia-cara-uya-gtv-kinal
+3942	2018-01-20	SHOW	Team KIII B•E•L•I•E•V•E Show	4336team-kiii-believe-show
+7020	2018-01-20	SHOW	Sekarang Sedang Jatuh Cinta	4335sekarang-sedang-jatuh-cinta
+3943	2018-01-21	SHOW	Team KIII B•E•L•I•E•V•E Show	4337team-kiii-believe-show
+3944	2018-01-21	SHOW	Demi Seseorang	4338demi-seseorang
+3947	2018-01-23	SHOW	Team KIII B•E•L•I•E•V•E Show	4341team-kiii-believe-show
+3948	2018-01-24	SHOW	Sekarang Sedang Jatuh Cinta	4342sekarang-sedang-jatuh-cinta
+3949	2018-01-25	SHOW	Demi Seseorang	4343demi-seseorang
+3957	2018-01-25	GENERAL	Bahagia Cara Uya - GTV (Kinal)	4351bahagia-cara-uya-gtv-kinal
+3969	2018-01-25	GENERAL	Dahsyat Awards - RCTI	4365dahsyat-awards-rcti
+3950	2018-01-26	SHOW	Team KIII B•E•L•I•E•V•E Show	4344team-kiii-believe-show
+3970	2018-01-27	SHOW	Demi Seseorang	4366demi-seseorang
+3951	2018-01-28	SHOW	Demi Seseorang	4345demi-seseorang
+3952	2018-01-28	SHOW	Sekarang Sedang Jatuh Cinta	4346sekarang-sedang-jatuh-cinta
+3961	2018-01-30	SHOW	Demi Seseorang	4357demi-seseorang
+3972	2018-01-30	GENERAL	Pagi-pagi NET TV (Shani)	4368pagipagi-net-tv-shani
+3962	2018-01-31	SHOW	Team KIII B•E•L•I•E•V•E Show	4358team-kiii-believe-show
+3963	2018-02-01	SHOW	Demi Seseorang	4359demi-seseorang
+7021	2018-02-01	GENERAL	Pagi-pagi NET TV (Sonia)	4377pagipagi-net-tv-sonia
+3964	2018-02-02	SHOW	Team KIII B•E•L•I•E•V•E Show	4360team-kiii-believe-show
+3965	2018-02-03	SHOW	Sekarang Sedang Jatuh Cinta	4361sekarang-sedang-jatuh-cinta
+3966	2018-02-03	SHOW	Team KIII B•E•L•I•E•V•E Show	4362team-kiii-believe-show
+3967	2018-02-04	SHOW	Demi Seseorang	4363demi-seseorang
+3968	2018-02-04	SHOW	Sekarang Sedang Jatuh Cinta	4364sekarang-sedang-jatuh-cinta
+3981	2018-02-04	GENERAL	Konser Luar Biasa Indosiar	4378konser-luar-biasa-indosiar
+3982	2018-02-05	GENERAL	OK-JEK NET (Melody)	4379okjek-net-melody
+3973	2018-02-06	SHOW	Team KIII B•E•L•I•E•V•E Show	4369team-kiii-believe-show
+3983	2018-02-06	GENERAL	Pagi-pagi NET TV (Naomi)	4380pagipagi-net-tv-naomi
+3974	2018-02-07	SHOW	Demi Seseorang	4370demi-seseorang
+3975	2018-02-08	SHOW	Sekarang Sedang Jatuh Cinta	4371sekarang-sedang-jatuh-cinta
+3976	2018-02-09	SHOW	Team KIII B•E•L•I•E•V•E Show	4372team-kiii-believe-show
+3992	2018-02-09	GENERAL	Rumah Uya TRANS7 - LIVE (Desy)	4389rumah-uya-trans7-live-desy
+3977	2018-02-10	SHOW	Demi Seseorang	4373demi-seseorang
+3978	2018-02-10	SHOW	Sekarang Sedang Jatuh Cinta	4374sekarang-sedang-jatuh-cinta
+3979	2018-02-11	SHOW	Team KIII B•E•L•I•E•V•E Show	4375team-kiii-believe-show
+3980	2018-02-11	SHOW	Demi Seseorang	4376demi-seseorang
+3986	2018-02-13	SHOW	Demi Seseorang	4383demi-seseorang
+3996	2018-02-13	GENERAL	Waktu Indonesia Bercanda NET TV (Melody)	4394waktu-indonesia-bercanda-net-tv-melody
+3958	2018-02-14	BIRTHDAY	Elizabeth Gloria Setiawan	4354elizabeth-gloria-setiawan
+3984	2018-02-14	EVENT	JKT48 Valentine Event	4381jkt48-valentine-event
+4006	2018-02-14	GENERAL	Lazada Live Streaming (Shania & Saktia)	4404lazada-live-streaming-shania-saktia
+3987	2018-02-15	SHOW	Team KIII B•E•L•I•E•V•E Show	4384team-kiii-believe-show
+4005	2018-02-15	GENERAL	Kaskus Live Streaming (Melody)	4403kaskus-live-streaming-melody
+3988	2018-02-16	SHOW	Sekarang Sedang Jatuh Cinta	4385sekarang-sedang-jatuh-cinta
+3985	2018-02-17	EVENT	Team T Mulai Sekarang Sungguh2 Part 2: Center Single	4382team-t-mulai-sekarang-sungguh2-part-2-center-single
+3989	2018-02-17	SHOW	Team KIII B•E•L•I•E•V•E Show	4386team-kiii-believe-show
+3990	2018-02-18	SHOW	Sekarang Sedang Jatuh Cinta	4387sekarang-sedang-jatuh-cinta
+3991	2018-02-18	SHOW	Team KIII B•E•L•I•E•V•E Show	4388team-kiii-believe-show
+3997	2018-02-20	SHOW	Sekarang Sedang Jatuh Cinta	4395sekarang-sedang-jatuh-cinta
+3998	2018-02-21	SHOW	Demi Seseorang	4396demi-seseorang
+4015	2018-02-21	GENERAL	Rumah Uya TRANS7 - Live (Kinal)	4413rumah-uya-trans7-live-kinal
+3999	2018-02-22	SHOW	Sekarang Sedang Jatuh Cinta	4397sekarang-sedang-jatuh-cinta
+4016	2018-02-22	GENERAL	Ini Talkshow NET TV - LIVE (Zara)	4414ini-talkshow-net-tv-live-zara
+3959	2018-02-23	BIRTHDAY	Ratu Vienny Fitrilya	4355ratu-vienny-fitrilya
+4000	2018-02-23	SHOW	Team KIII B•E•L•I•E•V•E Show	4398team-kiii-believe-show
+4027	2018-02-23	GENERAL	Rumah Uya TRANS7 - Live (Kinal)	4425rumah-uya-trans7-live-kinal
+3960	2018-02-24	BIRTHDAY	Fransisca Saraswati Puspa Dewi	4356fransisca-saraswati-puspa-dewi
+4001	2018-02-24	SHOW	Demi Seseorang	4399demi-seseorang
+4002	2018-02-24	SHOW	Team KIII B•E•L•I•E•V•E Show	4400team-kiii-believe-show
+4003	2018-02-25	SHOW	Sekarang Sedang Jatuh Cinta	4401sekarang-sedang-jatuh-cinta
+4004	2018-02-25	SHOW	Demi Seseorang	4402demi-seseorang
+4009	2018-02-25	GENERAL	Anak Cerdas Indonesia TRANS7 (Melody)	4407anak-cerdas-indonesia-trans7-melody
+4011	2018-02-27	SHOW	Team KIII B•E•L•I•E•V•E Show	4409team-kiii-believe-show
+4031	2018-02-27	GENERAL	Rumah Uya TRANS7 - Live (Kinal)	4429rumah-uya-trans7-live-kinal
+4012	2018-02-28	SHOW	Sekarang Sedang Jatuh Cinta	4410sekarang-sedang-jatuh-cinta
+4033	2018-02-28	GENERAL	Rumah Uya TRANS7 - Live (Kinal)	4431rumah-uya-trans7-live-kinal
+4013	2018-03-01	SHOW	Demi Seseorang	4411demi-seseorang
+4042	2018-03-01	GENERAL	Rumah Uya TRANS7 - Live (Kinal)	4440rumah-uya-trans7-live-kinal
+4043	2018-03-01	GENERAL	Family 100 Indonesia GTV (Sonia, Beby, Gaby, Kinal)	4441family-100-indonesia-gtv-sonia-beby-gaby-kinal
+4014	2018-03-02	SHOW	Sekarang Sedang Jatuh Cinta	4412sekarang-sedang-jatuh-cinta
+4028	2018-03-03	SHOW	Demi Seseorang	4426demi-seseorang
+4029	2018-03-03	SHOW	Demi Seseorang	4427demi-seseorang
+4046	2018-03-03	GENERAL	Comedy Night Live NET TV (Melody)	4444comedy-night-live-net-tv-melody
+4047	2018-03-03	GENERAL	Rumah Uya TRANS7 - Live (Kinal)	4445rumah-uya-trans7-live-kinal
+4017	2018-03-04	BIRTHDAY	Frieska Anastasia	4415frieska-anastasia
+4030	2018-03-04	SHOW	Saka Agari	4428saka-agari
+4048	2018-03-04	GENERAL	Rumah Uya TRANS7 - Live (Kinal)	4446rumah-uya-trans7-live-kinal
+4049	2018-03-05	GENERAL	Rumah Uya TRANS7 - Live (Kinal)	4447rumah-uya-trans7-live-kinal
+4051	2018-03-05	GENERAL	Gen Fm (Melody)	4449gen-fm-melody
+4052	2018-03-05	GENERAL	Zora Radio (Melody)	4450zora-radio-melody
+4034	2018-03-06	SHOW	Sekarang Sedang Jatuh Cinta	4432sekarang-sedang-jatuh-cinta
+4053	2018-03-06	GENERAL	Waktu Indonesia Bercanda NET TV (Kinal & Desy)	4451waktu-indonesia-bercanda-net-tv-kinal-desy
+4054	2018-03-06	GENERAL	The Comment NET TV (Sonia)	4452the-comment-net-tv-sonia
+4035	2018-03-07	SHOW	Demi Seseorang	4433demi-seseorang
+4036	2018-03-08	SHOW	Saka Agari	4434saka-agari
+4055	2018-03-08	GENERAL	MGTRadio (Melody)	4453mgtradio-melody
+4037	2018-03-09	SHOW	Sekarang Sedang Jatuh Cinta	4435sekarang-sedang-jatuh-cinta
+4065	2018-03-09	GENERAL	Jawa Pos Live Streaming (Melody, Ikha, Acha)	4463jawa-pos-live-streaming-melody-ikha-acha
+4067	2018-03-09	GENERAL	Rumah Uya TRANS7 - Live (Kinal)	4465rumah-uya-trans7-live-kinal
+4038	2018-03-10	SHOW	Demi Seseorang	4436demi-seseorang
+4039	2018-03-10	SHOW	Saka Agari	4437saka-agari
+4050	2018-03-10	GENERAL	Rumah Uya TRANS7 (Kinal)	4448rumah-uya-trans7-kinal
+4064	2018-03-10	GENERAL	People & Inspiration - Berita Satu (Melody)	4462people-inspiration-berita-satu-melody
+4069	2018-03-10	GENERAL	OZ Radio Bandung (Melody)	4467oz-radio-bandung-melody
+4040	2018-03-11	SHOW	Demi Seseorang	4438demi-seseorang
+4041	2018-03-11	SHOW	Sekarang Sedang Jatuh Cinta	4439sekarang-sedang-jatuh-cinta
+4075	2018-03-11	GENERAL	Urban Radio Bandung (Melody)	4473urban-radio-bandung-melody
+4076	2018-03-11	GENERAL	Rumah Uya TRANS7 (Kinal)	4474rumah-uya-trans7-kinal
+4056	2018-03-13	SHOW	Sekarang Sedang Jatuh Cinta	4454sekarang-sedang-jatuh-cinta
+4081	2018-03-13	GENERAL	IDN Times Live Facebook (Melody)	4479idn-times-live-facebook-melody
+4057	2018-03-14	SHOW	Demi Seseorang	4455demi-seseorang
+4018	2018-03-15	BIRTHDAY	Dena Siti Rohyati	4416dena-siti-rohyati
+4058	2018-03-15	SHOW	Sekarang Sedang Jatuh Cinta	4456sekarang-sedang-jatuh-cinta
+4059	2018-03-16	SHOW	Demi Seseorang	4457demi-seseorang
+4060	2018-03-17	SHOW	Bel Terakhir Berbunyi	4458bel-terakhir-berbunyi
+4061	2018-03-17	SHOW	Saka Agari	4459saka-agari
+4019	2018-03-18	BIRTHDAY	Beby Chaesara Anadila	4417beby-chaesara-anadila
+4062	2018-03-18	SHOW	Sekarang Sedang Jatuh Cinta	4460sekarang-sedang-jatuh-cinta
+4063	2018-03-18	SHOW	Saka Agari	4461saka-agari
+4020	2018-03-19	BIRTHDAY	Fidly Immanda Azzahra	4418fidly-immanda-azzahra
+4021	2018-03-19	BIRTHDAY	Rona Anggreani	4419rona-anggreani
+4068	2018-03-20	SHOW	Saka Agari	4466saka-agari
+4084	2018-03-20	GENERAL	Trax FM (Live)	4484trax-fm-live
+4022	2018-03-22	BIRTHDAY	Riskha Fairunissa	4420riskha-fairunissa
+4093	2018-03-23	GENERAL	Pagi-pagi NET TV (Zara)	4493pagipagi-net-tv-zara
+4023	2018-03-24	BIRTHDAY	Amanda Dwi Arista	4421amanda-dwi-arista
+4024	2018-03-24	BIRTHDAY	Melody Nurramdhani Laksani	4422melody-nurramdhani-laksani
+4088	2018-03-27	SHOW	Sekarang Sedang Jatuh Cinta	4488sekarang-sedang-jatuh-cinta
+4095	2018-03-27	GENERAL	Komunikata GTV (Kinal, Gaby, Lidya, Ikha, Cindy)	4495komunikata-gtv-kinal-gaby-lidya-ikha-cindy
+4096	2018-03-27	GENERAL	Rumah Uya TRANS7 - Live (Kinal)	4496rumah-uya-trans7-live-kinal
+4089	2018-03-28	SHOW	Demi Seseorang	4489demi-seseorang
+4097	2018-03-28	GENERAL	Rumah Uya TRANS7 - Live (Kinal)	4497rumah-uya-trans7-live-kinal
+4090	2018-03-29	SHOW	Saka Agari	4490saka-agari
+4098	2018-03-29	GENERAL	Rumah Uya TRANS7 - Live (Kinal)	4498rumah-uya-trans7-live-kinal
+4091	2018-03-31	SHOW	Demi Seseorang	4491demi-seseorang
+4092	2018-03-31	SHOW	Sekarang Sedang Jatuh Cinta	4492sekarang-sedang-jatuh-cinta
+4102	2018-04-03	SHOW	Demi Seseorang	4502demi-seseorang
+4103	2018-04-04	SHOW	Saka Agari	4503saka-agari
+4104	2018-04-05	SHOW	Sekarang Sedang Jatuh Cinta	4504sekarang-sedang-jatuh-cinta
+4108	2018-04-05	BIRTHDAY	Priscillia Sari Dewi	4508priscillia-sari-dewi
+4105	2018-04-06	SHOW	Saka Agari	4505saka-agari
+4106	2018-04-07	SHOW	Demi Seseorang	4506demi-seseorang
+4107	2018-04-07	SHOW	Sekarang Sedang Jatuh Cinta	4507sekarang-sedang-jatuh-cinta
+4114	2018-04-08	SHOW	Sekarang Sedang Jatuh Cinta	4516sekarang-sedang-jatuh-cinta
+4115	2018-04-08	SHOW	Saka Agari	4517saka-agari
+4109	2018-04-10	BIRTHDAY	Jennifer Rachel Natasya	4511jennifer-rachel-natasya
+4116	2018-04-10	SHOW	Saka Agari	4518saka-agari
+4110	2018-04-11	BIRTHDAY	Gabriela Margareth Warouw	4512gabriela-margareth-warouw
+4117	2018-04-11	SHOW	Sekarang Sedang Jatuh Cinta	4519sekarang-sedang-jatuh-cinta
+4118	2018-04-12	SHOW	Demi Seseorang	4520demi-seseorang
+4111	2018-04-13	BIRTHDAY	Viviyona Apriani	4513viviyona-apriani
+4119	2018-04-13	SHOW	Saka Agari	4521saka-agari
+4123	2018-04-14	SHOW	Sekarang Sedang Jatuh Cinta	4525sekarang-sedang-jatuh-cinta
+4124	2018-04-14	SHOW	Saka Agari	4526saka-agari
+4125	2018-04-15	SHOW	Sekarang Sedang Jatuh Cinta	4527sekarang-sedang-jatuh-cinta
+4126	2018-04-15	SHOW	Demi Seseorang	4528demi-seseorang
+4127	2018-04-17	SHOW	Sekarang Sedang Jatuh Cinta	4529sekarang-sedang-jatuh-cinta
+4128	2018-04-18	SHOW	Demi Seseorang	4530demi-seseorang
+4129	2018-04-19	SHOW	Saka Agari	4531saka-agari
+4135	2018-04-20	SHOW	Gadis Gadis Remaja	4537gadis-gadis-remaja
+4136	2018-04-21	SHOW	Saka Agari	4538saka-agari
+4137	2018-04-21	SHOW	Saka Agari	4539saka-agari
+4138	2018-04-22	SHOW	Sekarang Sedang Jatuh Cinta	4540sekarang-sedang-jatuh-cinta
+4139	2018-04-22	SHOW	Gadis Gadis Remaja	4541gadis-gadis-remaja
+4141	2018-04-24	SHOW	Saka Agari	4543saka-agari
+4149	2018-04-24	GENERAL	Ini Talkshow NET TV - Live (Desy)	4551ini-talkshow-net-tv-live-desy
+4142	2018-04-25	SHOW	Sekarang Sedang Jatuh Cinta	4544sekarang-sedang-jatuh-cinta
+4150	2018-04-25	GENERAL	Ini Talkshow NET TV - Live (Desy)	4552ini-talkshow-net-tv-live-desy
+4143	2018-04-26	SHOW	Gadis Gadis Remaja	4545gadis-gadis-remaja
+4151	2018-04-26	GENERAL	Ini Talkshow NET TV - Live (Desy)	4553ini-talkshow-net-tv-live-desy
+4144	2018-04-27	SHOW	Saka Agari	4546saka-agari
+4145	2018-04-28	SHOW	Gadis Gadis Remaja	4547gadis-gadis-remaja
+4146	2018-04-28	SHOW	Sekarang Sedang Jatuh Cinta	4548sekarang-sedang-jatuh-cinta
+4159	2018-04-28	GENERAL	Zaman Now - Trans TV (Della)	4561zaman-now-trans-tv-della
+4147	2018-04-29	SHOW	Saka Agari	4549saka-agari
+4148	2018-04-29	SHOW	Sekarang Sedang Jatuh Cinta	4550sekarang-sedang-jatuh-cinta
+4152	2018-05-01	SHOW	Gadis Gadis Remaja	4554gadis-gadis-remaja
+4153	2018-05-02	SHOW	Saka Agari	4555saka-agari
+4154	2018-05-03	SHOW	Sekarang Sedang Jatuh Cinta	4556sekarang-sedang-jatuh-cinta
+4155	2018-05-04	SHOW	Gadis Gadis Remaja	4557gadis-gadis-remaja
+4175	2018-05-04	GENERAL	Ini Talkshow - NET TV (Kinal) Live	4578ini-talkshow-net-tv-kinal-live
+4156	2018-05-05	SHOW	Saka Agari	4558saka-agari
+4157	2018-05-05	SHOW	Sekarang Sedang Jatuh Cinta	4559sekarang-sedang-jatuh-cinta
+4158	2018-05-06	SHOW	Saka Agari	4560saka-agari
+4166	2018-05-08	SHOW	Sekarang Sedang Jatuh Cinta	4569sekarang-sedang-jatuh-cinta
+4167	2018-05-09	SHOW	Saka Agari	4570saka-agari
+4178	2018-05-09	GENERAL	Ini Talkshow - NET TV (Desy) Live	4581ini-talkshow-net-tv-desy-live
+4162	2018-05-10	BIRTHDAY	Adriani Elisabeth	4564adriani-elisabeth
+4168	2018-05-10	SHOW	Gadis Gadis Remaja	4571gadis-gadis-remaja
+4169	2018-05-11	SHOW	Sekarang Sedang Jatuh Cinta	4572sekarang-sedang-jatuh-cinta
+4170	2018-05-12	SHOW	Gadis Gadis Remaja	4573gadis-gadis-remaja
+4171	2018-05-12	SHOW	Saka Agari	4574saka-agari
+4172	2018-05-13	SHOW	Sekarang Sedang Jatuh Cinta	4575sekarang-sedang-jatuh-cinta
+4173	2018-05-13	SHOW	Saka Agari	4576saka-agari
+4174	2018-05-13	GENERAL	SCTV INBOX - Monumen Nasional (Monas)	4577sctv-inbox-monumen-nasional-monas
+4179	2018-05-14	GENERAL	Ini Talkshow - NET TV (Desy) Live	4582ini-talkshow-net-tv-desy-live
+4181	2018-05-14	SHOW	Gadis Gadis Remaja	4584gadis-gadis-remaja
+4184	2018-05-17	EVENT	JKT48 School 2018 #1	4593jkt48-school-2018-1
+4195	2018-05-17	GENERAL	Ini Sahur - NET TV (Shania) LIVE	4604ini-sahur-net-tv-shania-live
+4182	2018-05-18	EVENT	JKT48 Battle Team #1	4591jkt48-battle-team-1
+4183	2018-05-19	EVENT	JKT48 School 2018 #2	4592jkt48-school-2018-2
+4185	2018-05-19	EVENT	Team T Charity	4594team-t-charity
+4163	2018-05-20	BIRTHDAY	Hasyakyla Utami Kusumawardhani	4565hasyakyla-utami-kusumawardhani
+4193	2018-05-20	EVENT	JKT48 Parody #1	4602jkt48-parody-1
+4194	2018-05-20	EVENT	JKT48 School 2018 #3	4603jkt48-school-2018-3
+4186	2018-05-21	GENERAL	Rumah Uya - Trans 7 (Kinal) LIVE	4595rumah-uya-trans-7-kinal-live
+4196	2018-05-22	EVENT	JKT48 Battle Team #2	4605jkt48-battle-team-2
+4197	2018-05-23	EVENT	JKT48 School 2018 #4	4606jkt48-school-2018-4
+4164	2018-05-24	BIRTHDAY	Alicia Chanzia	4567alicia-chanzia
+4198	2018-05-24	EVENT	JKT48 Parody #2	4607jkt48-parody-2
+4199	2018-05-25	EVENT	JKT48 School 2018 #5	4608jkt48-school-2018-5
+4200	2018-05-26	EVENT	JKT48 Drama Ramadhan #1	4609jkt48-drama-ramadhan-1
+4201	2018-05-26	EVENT	JKT48 Charity #2	4610jkt48-charity-2
+4202	2018-05-27	EVENT	JKT48 Battle Team #3	4611jkt48-battle-team-3
+4203	2018-05-27	EVENT	JKT48 School 2018 #6	4612jkt48-school-2018-6
+4187	2018-05-28	GENERAL	Rumah Uya - Trans 7 (Kinal) LIVE	4596rumah-uya-trans-7-kinal-live
+4188	2018-05-29	GENERAL	Rumah Uya - Trans 7 (Kinal) LIVE	4597rumah-uya-trans-7-kinal-live
+4189	2018-05-30	GENERAL	Rumah Uya - Trans 7 (Kinal) LIVE	4598rumah-uya-trans-7-kinal-live
+4222	2018-05-30	GENERAL	Ini Sahur NET TV - Kinal (LIVE)	4634ini-sahur-net-tv-kinal-live
+4190	2018-06-02	GENERAL	Rumah Uya - Trans 7 (Kinal) LIVE	4599rumah-uya-trans-7-kinal-live
+4223	2018-06-02	GENERAL	Comedy Night Live NET TV - Desy	4635comedy-night-live-net-tv-desy
+4191	2018-06-03	GENERAL	Rumah Uya - Trans 7 (Kinal) LIVE	4600rumah-uya-trans-7-kinal-live
+4208	2018-06-03	BIRTHDAY	Ayana Shahab	4619ayana-shahab
+4224	2018-06-03	GENERAL	Comedy Night Live NET TV - Desy	4636comedy-night-live-net-tv-desy
+4192	2018-06-04	GENERAL	Rumah Uya - Trans 7 (Kinal) LIVE	4601rumah-uya-trans-7-kinal-live
+4209	2018-06-04	BIRTHDAY	Shinta Naomi	4620shinta-naomi
+4216	2018-06-05	EVENT	JKT48 Parody #2	4628jkt48-parody-2
+4217	2018-06-06	EVENT	JKT48 Battle Team #4	4629jkt48-battle-team-4
+4212	2018-06-07	BIRTHDAY	Puti Nadhira Azalia	4624puti-nadhira-azalia
+4218	2018-06-07	EVENT	JKT48 School #7	4630jkt48-school-7
+4213	2018-06-08	BIRTHDAY	Jinan Safa Safira	4625jinan-safa-safira
+4219	2018-06-08	EVENT	JKT48 Battle Team #5	4631jkt48-battle-team-5
+4220	2018-06-09	EVENT	JKT48 Parody #3	4632jkt48-parody-3
+4221	2018-06-09	EVENT	Team J Charity	4633team-j-charity
+4229	2018-06-10	EVENT	JKT48 Battle Team #6	4641jkt48-battle-team-6
+4230	2018-06-10	EVENT	JKT48 School #8	4642jkt48-school-8
+4214	2018-06-21	BIRTHDAY	Adhisty Zara	4626adhisty-zara
+4235	2018-06-21	SHOW	Gadis Gadis Remaja	4647gadis-gadis-remaja
+4236	2018-06-22	SHOW	Saka Agari	4648saka-agari
+4237	2018-06-23	SHOW	Sekarang Sedang Jatuh Cinta	4649sekarang-sedang-jatuh-cinta
+4238	2018-06-23	SHOW	Gadis Gadis Remaja	4650gadis-gadis-remaja
+4239	2018-06-24	SHOW	Saka Agari	4651saka-agari
+4240	2018-06-24	SHOW	Gadis Gadis Remaja	4653gadis-gadis-remaja
+4248	2018-06-25	GENERAL	Jawa Pos (Instagram & Facebook LIVE)	4661jawa-pos-instagram-facebook-live
+4244	2018-06-26	SHOW	Saka Agari	4657saka-agari
+4247	2018-06-26	GENERAL	Kompas Selebrasi (Live Streaming Kompas.com)	4660kompas-selebrasi-live-streaming-kompascom
+4210	2018-06-27	BIRTHDAY	Shania Junianatha	4621shania-junianatha
+4232	2018-06-27	EVENT	Devi Kinal Putri Graduation Event ~Forever Jeanne d’Arc ~ (VIP)	4644devi-kinal-putri-graduation-event-forever-jeanne-darc-vip
+4233	2018-06-27	EVENT	Devi Kinal Putri Graduation Event ~Forever Jeanne d’Arc ~ (Reguler)	4645devi-kinal-putri-graduation-event-forever-jeanne-darc-reguler
+4245	2018-06-28	SHOW	Sekarang Sedang Jatuh Cinta	4658sekarang-sedang-jatuh-cinta
+4211	2018-06-29	BIRTHDAY	Thalia Ivanka Elizabeth	4623thalia-ivanka-elizabeth
+4246	2018-06-29	SHOW	Sekarang Sedang Jatuh Cinta	4659sekarang-sedang-jatuh-cinta
+4263	2018-07-01	GENERAL	SCTV INBOX (LIVE) - Monumen Nasional (Monas)	4676sctv-inbox-live-monumen-nasional-monas
+4264	2018-07-01	EVENT	JKT48 RE:BOOST Launching Event	4677jkt48-reboost-launching-event
+4273	2018-07-01	SHOW	Saka Agari	4686saka-agari
+4265	2018-07-03	SHOW	Saka Agari	4678saka-agari
+4274	2018-07-03	GENERAL	Kiss 96.2 FM Jember	4687kiss-962-fm-jember
+4252	2018-07-04	BIRTHDAY	Sinka Juliani	4665sinka-juliani
+4266	2018-07-04	SHOW	Gadis Gadis Remaja	4679gadis-gadis-remaja
+4275	2018-07-04	GENERAL	Elfara FM Malang	4688elfara-fm-malang
+4267	2018-07-05	SHOW	Saka Agari	4680saka-agari
+4268	2018-07-06	SHOW	Gadis Gadis Remaja	4681gadis-gadis-remaja
+4269	2018-07-07	SHOW	Gadis Gadis Remaja	4682gadis-gadis-remaja
+4270	2018-07-07	SHOW	Gadis Gadis Remaja	4683gadis-gadis-remaja
+4288	2018-07-07	GENERAL	Trax FM Semarang LIVE	4701trax-fm-semarang-live
+4271	2018-07-08	SHOW	Sekarang Sedang Jatuh Cinta	4684sekarang-sedang-jatuh-cinta
+4272	2018-07-08	SHOW	Sekarang Sedang Jatuh Cinta	4685sekarang-sedang-jatuh-cinta
+4276	2018-07-10	SHOW	Gadis Gadis Remaja	4689gadis-gadis-remaja
+4285	2018-07-10	GENERAL	Ini Talk Show - Gaby	4698ini-talk-show-gaby
+4290	2018-07-10	GENERAL	92.9 FM Solo Radio LIVE	4703929-fm-solo-radio-live
+4277	2018-07-11	SHOW	Sekarang Sedang Jatuh Cinta	4690sekarang-sedang-jatuh-cinta
+4278	2018-07-12	SHOW	Saka Agari	4691saka-agari
+4279	2018-07-13	SHOW	Sekarang Sedang Jatuh Cinta	4692sekarang-sedang-jatuh-cinta
+4280	2018-07-14	SHOW	Saka Agari	4693saka-agari
+4281	2018-07-14	SHOW	Sekarang Sedang Jatuh Cinta	4694sekarang-sedang-jatuh-cinta
+4291	2018-07-14	GENERAL	Zora Radio 90.1 FM Bandung LIVE	4704zora-radio-901-fm-bandung-live
+4282	2018-07-15	SHOW	Sekarang Sedang Jatuh Cinta	4695sekarang-sedang-jatuh-cinta
+4283	2018-07-15	SHOW	Saka Agari	4696saka-agari
+4301	2018-07-16	GENERAL	101.1FM MGTRadio Bandung	47141011fm-mgtradio-bandung
+4292	2018-07-17	SHOW	Gadis Gadis Remaja	4705gadis-gadis-remaja
+4286	2018-07-18	BIRTHDAY	Sania Julia Montolalu	4699sania-julia-montolalu
+4293	2018-07-18	SHOW	Saka Agari	4706saka-agari
+4294	2018-07-19	SHOW	Sekarang Sedang Jatuh Cinta	4707sekarang-sedang-jatuh-cinta
+4295	2018-07-20	SHOW	Gadis Gadis Remaja	4708gadis-gadis-remaja
+4296	2018-07-21	SHOW	Saka Agari	4709saka-agari
+4297	2018-07-21	SHOW	Sekarang Sedang Jatuh Cinta	4710sekarang-sedang-jatuh-cinta
+4312	2018-07-21	GENERAL	Stand Up Comedy - Kompas TV (Desy)	4726stand-up-comedy-kompas-tv-desy
+4298	2018-07-22	SHOW	Saka Agari	4711saka-agari
+4299	2018-07-22	SHOW	Gadis Gadis Remaja	4712gadis-gadis-remaja
+4311	2018-07-22	GENERAL	INBOX SCTV - PMPP TNI, Sentul	4725inbox-sctv-pmpp-tni-sentul
+4313	2018-07-23	GENERAL	Opera van Java Trans7 - Desy (LIVE)	4727opera-van-java-trans7-desy-live
+4303	2018-07-24	SHOW	Saka Agari	4716saka-agari
+4304	2018-07-25	SHOW	Sekarang Sedang Jatuh Cinta	4717sekarang-sedang-jatuh-cinta
+4305	2018-07-26	SHOW	Gadis Gadis Remaja	4718gadis-gadis-remaja
+4306	2018-07-27	SHOW	Saka Agari	4719saka-agari
+4307	2018-07-28	SHOW	Sekarang Sedang Jatuh Cinta	4720sekarang-sedang-jatuh-cinta
+4308	2018-07-28	SHOW	Gadis Gadis Remaja	4721gadis-gadis-remaja
+4309	2018-07-29	SHOW	Saka Agari	4722saka-agari
+4310	2018-07-29	SHOW	Sekarang Sedang Jatuh Cinta	4723sekarang-sedang-jatuh-cinta
+4315	2018-07-31	SHOW	Gadis Gadis Remaja	4729gadis-gadis-remaja
+4316	2018-08-01	SHOW	Saka Agari	4730saka-agari
+4317	2018-08-02	SHOW	Sekarang Sedang Jatuh Cinta	4731sekarang-sedang-jatuh-cinta
+4318	2018-08-03	SHOW	Gadis Gadis Remaja	4732gadis-gadis-remaja
+4320	2018-08-04	SHOW	Sekarang Sedang Jatuh Cinta	4734sekarang-sedang-jatuh-cinta
+4321	2018-08-04	SHOW	Saka Agari	4735saka-agari
+4322	2018-08-05	SHOW	Sekarang Sedang Jatuh Cinta	4736sekarang-sedang-jatuh-cinta
+4323	2018-08-05	SHOW	Gadis Gadis Remaja	4737gadis-gadis-remaja
+4330	2018-08-07	SHOW	Sekarang Sedang Jatuh Cinta	4744sekarang-sedang-jatuh-cinta
+4324	2018-08-08	BIRTHDAY	Ni Made Ayu Vania Aurellia	4738ni-made-ayu-vania-aurellia
+4331	2018-08-08	SHOW	Saka Agari	4745saka-agari
+4332	2018-08-09	SHOW	Gadis Gadis Remaja	4746gadis-gadis-remaja
+4333	2018-08-10	SHOW	Sekarang Sedang Jatuh Cinta	4747sekarang-sedang-jatuh-cinta
+4334	2018-08-11	SHOW	Saka Agari	4748saka-agari
+4335	2018-08-11	SHOW	Gadis Gadis Remaja	4749gadis-gadis-remaja
+4336	2018-08-12	SHOW	Sekarang Sedang Jatuh Cinta	4750sekarang-sedang-jatuh-cinta
+4337	2018-08-12	SHOW	Saka Agari	4752saka-agari
+4348	2018-08-12	GENERAL	Waktu Indonesia Timur (Beby & Shania)	4763waktu-indonesia-timur-beby-shania
+4340	2018-08-14	SHOW	Saka Agari	4755saka-agari
+4341	2018-08-15	SHOW	Gadis Gadis Remaja	4756gadis-gadis-remaja
+4342	2018-08-16	SHOW	Sekarang Sedang Jatuh Cinta	4757sekarang-sedang-jatuh-cinta
+4351	2018-08-16	GENERAL	Ini Talk Show NET TV - LIVE (Shani)	4766ini-talk-show-net-tv-live-shani
+4325	2018-08-17	BIRTHDAY	Lidya Maulida Djuhandar	4739lidya-maulida-djuhandar
+4343	2018-08-17	SHOW	Gadis Gadis Remaja	4758gadis-gadis-remaja
+4344	2018-08-18	SHOW	Sekarang Sedang Jatuh Cinta	4759sekarang-sedang-jatuh-cinta
+4345	2018-08-18	SHOW	Gadis Gadis Remaja	4760gadis-gadis-remaja
+4346	2018-08-19	SHOW	Sekarang Sedang Jatuh Cinta	4761sekarang-sedang-jatuh-cinta
+4347	2018-08-19	SHOW	Saka Agari	4762saka-agari
+4328	2018-08-20	BIRTHDAY	Amanda Priscella	4742amanda-priscella
+4326	2018-08-21	BIRTHDAY	Tan Zhi Hui Celine	4740tan-zhi-hui-celine
+4352	2018-08-21	SHOW	Gadis Gadis Remaja	4767gadis-gadis-remaja
+4361	2018-08-21	GENERAL	Ini Talk Show NET TV - LIVE (Gracia)	4777ini-talk-show-net-tv-live-gracia
+4353	2018-08-23	SHOW	Sekarang Sedang Jatuh Cinta	4768sekarang-sedang-jatuh-cinta
+4354	2018-08-24	SHOW	Saka Agari	4769saka-agari
+4355	2018-08-25	SHOW	Sekarang Sedang Jatuh Cinta	4770sekarang-sedang-jatuh-cinta
+4356	2018-08-25	SHOW	Gadis Gadis Remaja	4771gadis-gadis-remaja
+4357	2018-08-26	SHOW	Saka Agari	4772saka-agari
+4358	2018-08-26	SHOW	Sekarang Sedang Jatuh Cinta	4774sekarang-sedang-jatuh-cinta
+4366	2018-08-28	SHOW	Sekarang Sedang Jatuh Cinta	4782sekarang-sedang-jatuh-cinta
+4367	2018-08-29	SHOW	Saka Agari	4783saka-agari
+4368	2018-08-30	SHOW	Sekarang Sedang Jatuh Cinta	4784sekarang-sedang-jatuh-cinta
+4327	2018-08-31	BIRTHDAY	Shania Gracia	4741shania-gracia
+4369	2018-08-31	SHOW	Saka Agari	4785saka-agari
+4370	2018-09-01	SHOW	Saka Agari	4786saka-agari
+4371	2018-09-01	SHOW	Sekarang Sedang Jatuh Cinta	4787sekarang-sedang-jatuh-cinta
+4373	2018-09-02	SHOW	Dewi Theater	4789dewi-theater
+4383	2018-09-04	SHOW	Saka Agari	4801saka-agari
+4384	2018-09-05	SHOW	Sekarang Sedang Jatuh Cinta	4802sekarang-sedang-jatuh-cinta
+4379	2018-09-06	BIRTHDAY	Gabryela Marcelina	4797gabryela-marcelina
+4385	2018-09-09	SHOW	Dewi Theater	4806dewi-theater
+4389	2018-09-11	EVENT	JKT48 Acoustic 1st Anniversary Event - Happy First Coustic	4813jkt48-acoustic-1st-anniversary-event-happy-first-coustic
+4391	2018-09-12	SHOW	Sekarang Sedang Jatuh Cinta	4815sekarang-sedang-jatuh-cinta
+4403	2018-09-12	GENERAL	Kilau DMD - MNCTV (Desy)	4827kilau-dmd-mnctv-desy
+4380	2018-09-13	BIRTHDAY	Cindy Hapsari Maharani Pujiantoro Putri	4798cindy-hapsari-maharani-pujiantoro-putri
+4381	2018-09-13	BIRTHDAY	Rinanda Syahputri	4799rinanda-syahputri
+4392	2018-09-13	SHOW	Saka Agari	4816saka-agari
+4404	2018-09-13	GENERAL	Kilau DMD - MNCTV (Desy)	4828kilau-dmd-mnctv-desy
+4393	2018-09-14	SHOW	Dewi Theater	4817dewi-theater
+4414	2018-09-14	GENERAL	Kilau DMD - MNCTV (Desy)	4838kilau-dmd-mnctv-desy
+4394	2018-09-15	SHOW	Saka Agari	4818saka-agari
+4395	2018-09-15	SHOW	Sekarang Sedang Jatuh Cinta	4819sekarang-sedang-jatuh-cinta
+4364	2018-09-16	EVENT	JKT48 Sports Competition [A Class]	4780jkt48-sports-competition-a-class
+4365	2018-09-16	EVENT	JKT48 Sports Competition [S Class]	4781jkt48-sports-competition-s-class
+4415	2018-09-16	GENERAL	WIT NET TV - Desy & Gracia	4839wit-net-tv-desy-gracia
+4416	2018-09-17	GENERAL	WIB NET TV - Desy	4840wib-net-tv-desy
+4406	2018-09-18	SHOW	Dewi Theater	4830dewi-theater
+4417	2018-09-18	GENERAL	DMD Juara - MNC TV (LIVE)	4841dmd-juara-mnc-tv-live
+4418	2018-09-18	GENERAL	OVJ Trans7 - Della (LIVE)	4842ovj-trans7-della-live
+4407	2018-09-19	SHOW	Sekarang Sedang Jatuh Cinta	4831sekarang-sedang-jatuh-cinta
+4408	2018-09-20	SHOW	Saka Agari	4832saka-agari
+4409	2018-09-21	SHOW	Dewi Theater	4833dewi-theater
+4424	2018-09-21	GENERAL	Kilau DMD - MNCTV (Desy)	4850kilau-dmd-mnctv-desy
+4410	2018-09-22	SHOW	Saka Agari	4834saka-agari
+4411	2018-09-22	SHOW	Sekarang Sedang Jatuh Cinta	4835sekarang-sedang-jatuh-cinta
+4382	2018-09-23	BIRTHDAY	Nadila Cindi Wantari	4800nadila-cindi-wantari
+4412	2018-09-23	SHOW	Dewi Theater	4836dewi-theater
+4413	2018-09-23	SHOW	Saka Agari	4837saka-agari
+4431	2018-09-24	GENERAL	Kilau DMD - MNCTV (Desy)	4857kilau-dmd-mnctv-desy
+4425	2018-09-25	SHOW	Dewi Theater	4851dewi-theater
+4440	2018-09-25	GENERAL	Pagi Pagi NET TV - Desy	4866pagi-pagi-net-tv-desy
+4441	2018-09-25	GENERAL	Mimpi Metropolitan - Shania	4867mimpi-metropolitan-shania
+4426	2018-09-26	SHOW	Sekarang Sedang Jatuh Cinta	4852sekarang-sedang-jatuh-cinta
+4442	2018-09-26	GENERAL	Mimpi Metropolitan - Shania	4868mimpi-metropolitan-shania
+4445	2018-09-26	GENERAL	Kilau DMD - MNCTV (Desy)	4871kilau-dmd-mnctv-desy
+4446	2018-09-26	GENERAL	Ini Talkshow NET TV - Sayaya	4872ini-talkshow-net-tv-sayaya
+4427	2018-09-27	SHOW	Dewi Theater	4853dewi-theater
+4443	2018-09-27	GENERAL	Mimpi Metropolitan - Shania	4869mimpi-metropolitan-shania
+4447	2018-09-27	GENERAL	Kilau DMD - MNCTV (Desy)	4873kilau-dmd-mnctv-desy
+4428	2018-09-28	SHOW	Saka Agari	4854saka-agari
+4444	2018-09-28	GENERAL	Mimpi Metropolitan - Shania	4870mimpi-metropolitan-shania
+4456	2018-09-28	GENERAL	Kilau DMD - MNCTV (Desy)	4882kilau-dmd-mnctv-desy
+4429	2018-09-30	SHOW	Saka Agari	4855saka-agari
+4430	2018-09-30	SHOW	Sekarang Sedang Jatuh Cinta	4856sekarang-sedang-jatuh-cinta
+4432	2018-10-01	BIRTHDAY	Saktia Oktapyani	4858saktia-oktapyani
+4433	2018-10-01	BIRTHDAY	Ayu Safira Oktaviani	4859ayu-safira-oktaviani
+4457	2018-10-01	GENERAL	Kapan Lagi Youniverse (Live Streaming)	4883kapan-lagi-youniverse-live-streaming
+4448	2018-10-02	SHOW	Saka Agari	4874saka-agari
+4458	2018-10-02	GENERAL	Jawapos (Live Streaming)	4884jawapos-live-streaming
+4468	2018-10-02	GENERAL	IDN TIMES (Live Streaming)	4894idn-times-live-streaming
+4449	2018-10-03	SHOW	Dewi Theater	4875dewi-theater
+4467	2018-10-03	GENERAL	Pagi Pagi NET TV - Desy	4893pagi-pagi-net-tv-desy
+4450	2018-10-04	SHOW	Sekarang Sedang Jatuh Cinta	4876sekarang-sedang-jatuh-cinta
+4478	2018-10-04	GENERAL	YouTube Live - Rachel	4904youtube-live-rachel
+4479	2018-10-04	GENERAL	YouTube Live - Zara	4905youtube-live-zara
+4482	2018-10-04	GENERAL	Instagram Live - Yuvia & Feni	4908instagram-live-yuvia-feni
+4434	2018-10-05	BIRTHDAY	Shani Indira Natio	4860shani-indira-natio
+4451	2018-10-05	SHOW	Saka Agari	4877saka-agari
+4480	2018-10-05	GENERAL	YouTube Live - Aya	4906youtube-live-aya
+4481	2018-10-05	GENERAL	YouTube Live - Kyla	4907youtube-live-kyla
+4483	2018-10-05	GENERAL	Instagram Live - Natalia & Beby	4909instagram-live-natalia-beby
+4452	2018-10-06	SHOW	Saka Agari	4878saka-agari
+4453	2018-10-06	SHOW	Sekarang Sedang Jatuh Cinta	4879sekarang-sedang-jatuh-cinta
+4484	2018-10-06	GENERAL	YouTube Live - Anin	4910youtube-live-anin
+4485	2018-10-06	GENERAL	YouTube Live - Indy	4911youtube-live-indy
+4490	2018-10-06	GENERAL	Instagram Live - Shania & Aya	4916instagram-live-shania-aya
+4435	2018-10-07	BIRTHDAY	Shalza Grasita	4861shalza-grasita
+4454	2018-10-07	SHOW	Sekarang Sedang Jatuh Cinta	4880sekarang-sedang-jatuh-cinta
+4455	2018-10-07	SHOW	Saka Agari	4881saka-agari
+4486	2018-10-07	GENERAL	YouTube Live - Feni	4912youtube-live-feni
+4487	2018-10-07	GENERAL	YouTube Live - Sintia	4913youtube-live-sintia
+4491	2018-10-07	GENERAL	Instagram Live - Michelle & Saktia	4917instagram-live-michelle-saktia
+4492	2018-10-07	GENERAL	ONIX Radio 88.7FM (10:00 WITA) - LIVE	4918onix-radio-887fm-1000-wita-live
+4488	2018-10-08	GENERAL	YouTube Live - Rona	4914youtube-live-rona
+4489	2018-10-08	GENERAL	YouTube Live - Melati	4915youtube-live-melati
+4493	2018-10-08	GENERAL	Instagram Live - Indy & Ciel	4919instagram-live-indy-ciel
+4494	2018-10-08	GENERAL	Kilau DMD - MNCTV (Desy)	4920kilau-dmd-mnctv-desy
+4470	2018-10-09	SHOW	Dewi Theater	4896dewi-theater
+4495	2018-10-09	GENERAL	Kilau DMD - MNCTV (Desy)	4921kilau-dmd-mnctv-desy
+4499	2018-10-09	GENERAL	YouTube Live - Sinka	4925youtube-live-sinka
+4500	2018-10-09	GENERAL	YouTube Live - Nadila	4926youtube-live-nadila
+4505	2018-10-09	GENERAL	Instagram Live - Zara & Lisa	4931instagram-live-zara-lisa
+4471	2018-10-10	SHOW	Sekarang Sedang Jatuh Cinta	4897sekarang-sedang-jatuh-cinta
+4496	2018-10-10	GENERAL	Kilau DMD - MNCTV (Desy)	4922kilau-dmd-mnctv-desy
+4501	2018-10-10	GENERAL	YouTube Live - Shani	4927youtube-live-shani
+4502	2018-10-10	GENERAL	YouTube Live - Jinan	4928youtube-live-jinan
+4506	2018-10-10	GENERAL	Instagram Live - Della & Julie	4932instagram-live-della-julie
+4472	2018-10-11	SHOW	Saka Agari	4898saka-agari
+4497	2018-10-11	GENERAL	Kilau DMD - MNCTV (Desy)	4923kilau-dmd-mnctv-desy
+4503	2018-10-11	GENERAL	YouTube Live - Julie	4929youtube-live-julie
+4504	2018-10-11	GENERAL	YouTube Live - Pucchi	4930youtube-live-pucchi
+4507	2018-10-11	GENERAL	Instagram Live - Yona & Anin	4933instagram-live-yona-anin
+4473	2018-10-12	SHOW	Dewi Theater	4899dewi-theater
+4498	2018-10-12	GENERAL	Kilau DMD - MNCTV (Desy)	4924kilau-dmd-mnctv-desy
+4518	2018-10-12	GENERAL	YouTube Live - Acha	4944youtube-live-acha
+4519	2018-10-12	GENERAL	YouTube Live - Shalza	4945youtube-live-shalza
+4524	2018-10-12	GENERAL	Instagram Live - Okta & Eve	4950instagram-live-okta-eve
+4474	2018-10-13	SHOW	Saka Agari	4900saka-agari
+4475	2018-10-13	SHOW	Dewi Theater	4901dewi-theater
+4516	2018-10-13	GENERAL	Madama Radio 87.7FM (10:00 WITA) - LIVE	4942madama-radio-877fm-1000-wita-live
+4520	2018-10-13	GENERAL	YouTube Live - Sisca	4946youtube-live-sisca
+4521	2018-10-13	GENERAL	YouTube Live - Ella	4947youtube-live-ella
+4525	2018-10-13	GENERAL	Instagram Live - Fia & Kyla	4951instagram-live-fia-kyla
+4476	2018-10-14	SHOW	Dewi Theater	4902dewi-theater
+4477	2018-10-14	SHOW	Saka Agari	4903saka-agari
+4522	2018-10-14	GENERAL	YouTube Live - Erika	4948youtube-live-erika
+4523	2018-10-14	GENERAL	YouTube Live - Amel	4949youtube-live-amel
+4526	2018-10-14	GENERAL	Instagram Live - Jinan & Melati	4952instagram-live-jinan-melati
+4527	2018-10-14	GENERAL	Weekend List - NET TV (Pucchi)	4953weekend-list-net-tv-pucchi
+4528	2018-10-14	GENERAL	I Want To Know - MNC TV (Desy & JKT48 Acoustic)	4954i-want-to-know-mnc-tv-desy-jkt48-acoustic
+4436	2018-10-15	BIRTHDAY	Erika Ebisawa Kuswan	4862erika-ebisawa-kuswan
+4529	2018-10-15	GENERAL	YouTube Live - Vienny	4955youtube-live-vienny
+4530	2018-10-15	GENERAL	YouTube Live - Fia	4956youtube-live-fia
+4508	2018-10-16	SHOW	Sekarang Sedang Jatuh Cinta	4934sekarang-sedang-jatuh-cinta
+4531	2018-10-16	GENERAL	YouTube Live - Aurel	4957youtube-live-aurel
+4532	2018-10-16	GENERAL	YouTube Live - Vanka	4958youtube-live-vanka
+4535	2018-10-16	GENERAL	Instagram Live - Diani & Gaby	4961instagram-live-diani-gaby
+4437	2018-10-17	BIRTHDAY	Eve Antoinette Ichwan	4863eve-antoinette-ichwan
+4509	2018-10-17	SHOW	Saka Agari	4935saka-agari
+4533	2018-10-17	GENERAL	YouTube Live - Michelle	4959youtube-live-michelle
+4534	2018-10-17	GENERAL	YouTube Live - Eve	4960youtube-live-eve
+4536	2018-10-17	GENERAL	Instagram Live - Sisca & Rachel	4962instagram-live-sisca-rachel
+4438	2018-10-18	BIRTHDAY	Nurhayati	4864nurhayati
+4510	2018-10-18	SHOW	Sekarang Sedang Jatuh Cinta	4936sekarang-sedang-jatuh-cinta
+4543	2018-10-18	GENERAL	YouTube Live - Yona	4969youtube-live-yona
+4544	2018-10-18	GENERAL	YouTube Live - Lisa	4970youtube-live-lisa
+4549	2018-10-18	GENERAL	Instagram Live - Sinka & Ariel	4975instagram-live-sinka-ariel
+4511	2018-10-19	SHOW	Dewi Theater	4937dewi-theater
+4545	2018-10-19	GENERAL	YouTube Live - Cindy	4971youtube-live-cindy
+4546	2018-10-19	GENERAL	YouTube Live - Gaby	4972youtube-live-gaby
+4550	2018-10-19	GENERAL	Instagram Live - Pucchi & Sonia	4976instagram-live-pucchi-sonia
+4512	2018-10-20	SHOW	Sekarang Sedang Jatuh Cinta	4938sekarang-sedang-jatuh-cinta
+4513	2018-10-20	SHOW	Dewi Theater	4939dewi-theater
+4547	2018-10-20	GENERAL	YouTube Live - Frieska	4973youtube-live-frieska
+4548	2018-10-20	GENERAL	YouTube Live - Tasya	4974youtube-live-tasya
+4551	2018-10-20	GENERAL	Instagram Live - Angel & Celine	4977instagram-live-angel-celine
+4559	2018-10-20	GENERAL	I-Radio Banjarmasin (11:00 WITA)	4985iradio-banjarmasin-1100-wita
+4514	2018-10-21	SHOW	Sekarang Sedang Jatuh Cinta	4940sekarang-sedang-jatuh-cinta
+4515	2018-10-21	SHOW	Dewi Theater	4941dewi-theater
+4560	2018-10-21	GENERAL	YouTube Live - Stefi	4986youtube-live-stefi
+4561	2018-10-21	GENERAL	YouTube Live - Ayana	4987youtube-live-ayana
+4562	2018-10-22	GENERAL	YouTube Live - Gracia	4988youtube-live-gracia
+4563	2018-10-22	GENERAL	YouTube Live - Sonia	4989youtube-live-sonia
+4566	2018-10-22	GENERAL	Instagram Live - Gita & Ella	4992instagram-live-gita-ella
+4555	2018-10-23	SHOW	Saka Agari	4981saka-agari
+4564	2018-10-23	GENERAL	YouTube Live - Diani	4990youtube-live-diani
+4565	2018-10-23	GENERAL	YouTube Live - Saktia	4991youtube-live-saktia
+4571	2018-10-23	GENERAL	Instagram Live - Shani & Nadila	4997instagram-live-shani-nadila
+4556	2018-10-24	SHOW	Sekarang Sedang Jatuh Cinta	4982sekarang-sedang-jatuh-cinta
+4572	2018-10-24	GENERAL	YouTube Live - Natalia	4998youtube-live-natalia
+4573	2018-10-24	GENERAL	YouTube Live - Celine	4999youtube-live-celine
+4557	2018-10-25	SHOW	Saka Agari	4983saka-agari
+4574	2018-10-25	GENERAL	YouTube Live - Desy	5000youtube-live-desy
+4575	2018-10-25	GENERAL	YouTube Live - Angel	5001youtube-live-angel
+4576	2018-10-25	GENERAL	Instagram Live - Aurel & Vienny	5002instagram-live-aurel-vienny
+4558	2018-10-26	SHOW	Dewi Theater	4984dewi-theater
+4577	2018-10-26	GENERAL	YouTube Live - Ariel	5003youtube-live-ariel
+4578	2018-10-26	GENERAL	YouTube Live - Beby	5004youtube-live-beby
+4579	2018-10-26	GENERAL	Instagram Live - Ayana, Vanka, Nanda	5005instagram-live-ayana-vanka-nanda
+4567	2018-10-27	SHOW	Pajama Drive	4993pajama-drive
+4568	2018-10-27	SHOW	Saka Agari	4994saka-agari
+4595	2018-10-27	GENERAL	Instagram Live - Rona & Gracia	5024instagram-live-rona-gracia
+4598	2018-10-27	GENERAL	YouTube Live - Yupi	5027youtube-live-yupi
+4599	2018-10-27	GENERAL	YouTube Live - Aby	5028youtube-live-aby
+4439	2018-10-28	BIRTHDAY	Michelle Christo Kusnadi	4865michelle-christo-kusnadi
+4569	2018-10-28	SHOW	Dewi Theater	4995dewi-theater
+4570	2018-10-28	SHOW	Sekarang Sedang Jatuh Cinta	4996sekarang-sedang-jatuh-cinta
+4597	2018-10-28	GENERAL	Weekend List - NET TV (Pucchi)	5026weekend-list-net-tv-pucchi
+4600	2018-10-29	GENERAL	Instagram Live - Desy	5029instagram-live-desy
+4585	2018-10-30	SHOW	Saka Agari	5011saka-agari
+4593	2018-10-30	GENERAL	YouTube Live - Okta	5022youtube-live-okta
+4594	2018-10-30	GENERAL	YouTube Live - Nanda	5023youtube-live-nanda
+4596	2018-10-30	GENERAL	Instagram Live - Acha	5025instagram-live-acha
+4586	2018-10-31	SHOW	Dewi Theater	5012dewi-theater
+4601	2018-10-31	GENERAL	YouTube Live - Shania	5030youtube-live-shania
+4602	2018-10-31	GENERAL	YouTube Live - Della	5031youtube-live-della
+4587	2018-11-01	SHOW	Sekarang Sedang Jatuh Cinta	5013sekarang-sedang-jatuh-cinta
+4588	2018-11-02	SHOW	Saka Agari	5014saka-agari
+4589	2018-11-03	SHOW	Sekarang Sedang Jatuh Cinta	5015sekarang-sedang-jatuh-cinta
+4590	2018-11-03	SHOW	Dewi Theater	5016dewi-theater
+4591	2018-11-04	SHOW	Dewi Theater	5017dewi-theater
+4592	2018-11-04	SHOW	Sekarang Sedang Jatuh Cinta	5018sekarang-sedang-jatuh-cinta
+4613	2018-11-04	GENERAL	Instagram Live - Aby & Amel	5042instagram-live-aby-amel
+4614	2018-11-05	GENERAL	YouTube Live - Zee	5043youtube-live-zee
+4615	2018-11-05	GENERAL	YouTube Live - Christy	5044youtube-live-christy
+4616	2018-11-05	GENERAL	Instagram Live - Chika & Vivi	5045instagram-live-chika-vivi
+4603	2018-11-06	SHOW	Saka Agari	5032saka-agari
+4617	2018-11-06	GENERAL	YouTube Live - Ciel	5046youtube-live-ciel
+4618	2018-11-06	GENERAL	YouTube Live - Gita	5047youtube-live-gita
+4623	2018-11-06	GENERAL	Instagram Live - Tasya & Ella	5052instagram-live-tasya-ella
+4604	2018-11-07	SHOW	Dewi Theater	5033dewi-theater
+4619	2018-11-07	GENERAL	YouTube Live - Dey	5048youtube-live-dey
+4620	2018-11-07	GENERAL	YouTube Live - Febi	5049youtube-live-febi
+4624	2018-11-07	GENERAL	Instagram Live - Christy & Yori	5053instagram-live-christy-yori
+4605	2018-11-08	SHOW	Sekarang Sedang Jatuh Cinta	5034sekarang-sedang-jatuh-cinta
+4612	2018-11-08	BIRTHDAY	Viona Fadrin	5041viona-fadrin
+4621	2018-11-08	GENERAL	YouTube Live - Rifa	5050youtube-live-rifa
+4622	2018-11-08	GENERAL	YouTube Live - Chika	5051youtube-live-chika
+4625	2018-11-08	GENERAL	Instagram Live - Shalza & Brielle	5054instagram-live-shalza-brielle
+4606	2018-11-09	SHOW	Dewi Theater	5035dewi-theater
+4631	2018-11-09	GENERAL	YouTube Live - Muthe	5060youtube-live-muthe
+4632	2018-11-09	GENERAL	YouTube Live - Lala	5061youtube-live-lala
+4637	2018-11-09	GENERAL	Instagram Live - Dey & Eli	5066instagram-live-dey-eli
+4607	2018-11-10	SHOW	Sekarang Sedang Jatuh Cinta	5036sekarang-sedang-jatuh-cinta
+4608	2018-11-10	SHOW	Saka Agari	5037saka-agari
+4633	2018-11-10	GENERAL	YouTube Live - Eli	5062youtube-live-eli
+4634	2018-11-10	GENERAL	YouTube Live - Vivi	5063youtube-live-vivi
+4638	2018-11-10	GENERAL	Instagram Live - Muthe & Zee	5067instagram-live-muthe-zee
+4609	2018-11-11	SHOW	Dewi Theater	5038dewi-theater
+4610	2018-11-11	SHOW	Sekarang Sedang Jatuh Cinta	5039sekarang-sedang-jatuh-cinta
+4635	2018-11-11	GENERAL	YouTube Live - Brielle	5064youtube-live-brielle
+4636	2018-11-11	GENERAL	YouTube Live - Yori	5065youtube-live-yori
+4639	2018-11-11	GENERAL	Instagram Live - Febi, Lala & Rifa	5068instagram-live-febi-lala-rifa
+4626	2018-11-13	SHOW	Dewi Theater	5055dewi-theater
+4627	2018-11-14	SHOW	Saka Agari	5056saka-agari
+4580	2018-11-15	BIRTHDAY	Della Delila	5006della-delila
+4628	2018-11-15	SHOW	Sekarang Sedang Jatuh Cinta	5057sekarang-sedang-jatuh-cinta
+4643	2018-11-16	GENERAL	Swaragama 101.7FM Jogja!	5072swaragama-1017fm-jogja
+4539	2018-11-17	EVENT	Event Pengumuman Hasil Pemilihan Member Single ke-20 JKT48 & Pre-Event Live Concert [DIAMOND]	4965event-pengumuman-hasil-pemilihan-member-single-ke20-jkt48-preevent-live-concert-diamond
+4540	2018-11-17	EVENT	Event Pengumuman Hasil Pemilihan Member Single ke-20 JKT48 & Pre-Event Live Concert [GOLD]	4966event-pengumuman-hasil-pemilihan-member-single-ke20-jkt48-preevent-live-concert-gold
+4541	2018-11-17	EVENT	Event Pengumuman Hasil Pemilihan Member Single ke-20 JKT48 & Pre-Event Live Concert [SILVER]	4967event-pengumuman-hasil-pemilihan-member-single-ke20-jkt48-preevent-live-concert-silver
+4542	2018-11-17	EVENT	Event Pengumuman Hasil Pemilihan Member Single ke-20 JKT48 & Pre-Event Live Concert [BRONZE]	4968event-pengumuman-hasil-pemilihan-member-single-ke20-jkt48-preevent-live-concert-bronze
+4581	2018-11-18	BIRTHDAY	Made Devi Ranita Ningtara	5007made-devi-ranita-ningtara
+4582	2018-11-19	BIRTHDAY	Stephanie Pricilla Indarto Putri	5008stephanie-pricilla-indarto-putri
+4644	2018-11-20	SHOW	Dewi Theater	5073dewi-theater
+4649	2018-11-21	SHOW	Sekarang Sedang Jatuh Cinta	5078sekarang-sedang-jatuh-cinta
+4645	2018-11-22	SHOW	Saka Agari	5074saka-agari
+4654	2018-11-22	GENERAL	Ini Talkshow - NET TV (Shania)	5084ini-talkshow-net-tv-shania
+4646	2018-11-23	SHOW	Dewi Theater	5075dewi-theater
+4647	2018-11-24	SHOW	Sekarang Sedang Jatuh Cinta	5076sekarang-sedang-jatuh-cinta
+4648	2018-11-24	SHOW	Saka Agari	5077saka-agari
+4651	2018-11-25	SHOW	Sekarang Sedang Jatuh Cinta	5080sekarang-sedang-jatuh-cinta
+4652	2018-11-25	SHOW	Dewi Theater	5081dewi-theater
+4664	2018-11-25	GENERAL	OVJ - Desy	5094ovj-desy
+4656	2018-11-27	SHOW	Saka Agari	5086saka-agari
+4657	2018-11-28	SHOW	Dewi Theater	5087dewi-theater
+4658	2018-11-29	SHOW	Sekarang Sedang Jatuh Cinta	5088sekarang-sedang-jatuh-cinta
+4677	2018-11-29	GENERAL	Tonight Show - NET TV LIVE (JKT48 Acoustic)	5108tonight-show-net-tv-live-jkt48-acoustic
+4659	2018-11-30	SHOW	Dewi Theater	5089dewi-theater
+4665	2018-11-30	GENERAL	SCTV AWARDS 2018 - Studio 6 Emtek City (Live)	5095sctv-awards-2018-studio-6-emtek-city-live
+4660	2018-12-01	SHOW	Saka Agari	5090saka-agari
+4661	2018-12-01	SHOW	Sekarang Sedang Jatuh Cinta	5091sekarang-sedang-jatuh-cinta
+4662	2018-12-02	SHOW	Saka Agari	5092saka-agari
+4663	2018-12-02	SHOW	Sekarang Sedang Jatuh Cinta	5093sekarang-sedang-jatuh-cinta
+4693	2018-12-03	GENERAL	Ini Talkshow - NET TV (Naomi)	5124ini-talkshow-net-tv-naomi
+4674	2018-12-04	SHOW	Dewi Theater	5105dewi-theater
+4668	2018-12-05	BIRTHDAY	Angelina Christy	5098angelina-christy
+4675	2018-12-05	SHOW	Saka Agari	5106saka-agari
+4676	2018-12-06	SHOW	Sekarang Sedang Jatuh Cinta	5107sekarang-sedang-jatuh-cinta
+4694	2018-12-11	SHOW	Sekarang Sedang Jatuh Cinta	5125sekarang-sedang-jatuh-cinta
+4695	2018-12-12	SHOW	Dewi Theater	5126dewi-theater
+4696	2018-12-14	SHOW	Saka Agari	5127saka-agari
+4697	2018-12-15	SHOW	Sekarang Sedang Jatuh Cinta	5128sekarang-sedang-jatuh-cinta
+4698	2018-12-15	SHOW	Saka Agari	5129saka-agari
+4699	2018-12-16	SHOW	Dewi Theater	5130dewi-theater
+4700	2018-12-16	SHOW	Dewi Theater	5131dewi-theater
+4669	2018-12-17	BIRTHDAY	Sonia Natalia	5099sonia-natalia
+4704	2018-12-17	GENERAL	DA ASIA - INDOSIAR (LIVE)	5135da-asia-indosiar-live
+4703	2018-12-18	SHOW	Dewi Theater	5134dewi-theater
+4670	2018-12-20	BIRTHDAY	Syahfira Angela Nurhaliza	5100syahfira-angela-nurhaliza
+4678	2018-12-22	EVENT	JKT48 7th Anniversary - Performance Battle [Platinum 1]	5109jkt48-7th-anniversary-performance-battle-platinum-1
+4679	2018-12-22	EVENT	JKT48 7th Anniversary - Performance Battle [Platinum 2]	5110jkt48-7th-anniversary-performance-battle-platinum-2
+4680	2018-12-22	EVENT	JKT48 7th Anniversary - Performance Battle [Gold]	5111jkt48-7th-anniversary-performance-battle-gold
+4681	2018-12-22	EVENT	JKT48 7th Anniversary - Performance Battle [Silver]	5112jkt48-7th-anniversary-performance-battle-silver
+4682	2018-12-22	EVENT	JKT48 7th Anniversary - Performance Battle [Standing]	5113jkt48-7th-anniversary-performance-battle-standing
+4683	2018-12-22	EVENT	JKT48 7th Anniversary - Thanksgiving Festival [Platinum 1]	5114jkt48-7th-anniversary-thanksgiving-festival-platinum-1
+4684	2018-12-22	EVENT	JKT48 7th Anniversary - Thanksgiving Festival [Platinum 2]	5115jkt48-7th-anniversary-thanksgiving-festival-platinum-2
+4685	2018-12-22	EVENT	JKT48 7th Anniversary - Thanksgiving Festival [Gold]	5116jkt48-7th-anniversary-thanksgiving-festival-gold
+4686	2018-12-22	EVENT	JKT48 7th Anniversary - Thanksgiving Festival [Silver]	5117jkt48-7th-anniversary-thanksgiving-festival-silver
+4687	2018-12-22	EVENT	JKT48 7th Anniversary - Thanksgiving Festival [Standing]	5118jkt48-7th-anniversary-thanksgiving-festival-standing
+4688	2018-12-22	EVENT	JKT48 7th Anniversary - Performance Battle & Thanksgiving Festival [Platinum 1]	5119jkt48-7th-anniversary-performance-battle-thanksgiving-festival-platinum-1
+4689	2018-12-22	EVENT	JKT48 7th Anniversary - Performance Battle & Thanksgiving Festival [Platinum 2]	5120jkt48-7th-anniversary-performance-battle-thanksgiving-festival-platinum-2
+4690	2018-12-22	EVENT	JKT48 7th Anniversary - Performance Battle & Thanksgiving Festival [Gold]	5121jkt48-7th-anniversary-performance-battle-thanksgiving-festival-gold
+4691	2018-12-22	EVENT	JKT48 7th Anniversary - Performance Battle & Thanksgiving Festival [Silver]	5122jkt48-7th-anniversary-performance-battle-thanksgiving-festival-silver
+4692	2018-12-22	EVENT	JKT48 7th Anniversary - Performance Battle & Thanksgiving Festival [Standing]	5123jkt48-7th-anniversary-performance-battle-thanksgiving-festival-standing
+4673	2018-12-25	BIRTHDAY	Maria Genoveva Natalia Desy Purnamasari Gunawan	5104maria-genoveva-natalia-desy-purnamasari-gunawan
+4706	2018-12-26	SHOW	Sekarang Sedang Jatuh Cinta	5137sekarang-sedang-jatuh-cinta
+4707	2018-12-27	SHOW	Dewi Theater	5138dewi-theater
+4716	2018-12-27	GENERAL	DA ASIA - INDOSIAR (LIVE)	5147da-asia-indosiar-live
+4671	2018-12-28	BIRTHDAY	Natalia	5102natalia
+4708	2018-12-28	SHOW	Saka Agari	5139saka-agari
+4672	2018-12-29	BIRTHDAY	Nabila Fitriana	5103nabila-fitriana
+4709	2018-12-29	SHOW	Sekarang Sedang Jatuh Cinta	5140sekarang-sedang-jatuh-cinta
+4710	2018-12-29	SHOW	Saka Agari	5141saka-agari
+4711	2018-12-30	SHOW	Dewi Theater	5142dewi-theater
+4712	2018-12-30	SHOW	Sekarang Sedang Jatuh Cinta	5143sekarang-sedang-jatuh-cinta
+4720	2019-01-01	BIRTHDAY	Melati Putri Rahel Sesilia	5151melati-putri-rahel-sesilia
+4741	2019-01-04	GENERAL	Opera Van Java - TRANS 7 (Desy)	5176opera-van-java-trans-7-desy
+4721	2019-01-05	BIRTHDAY	Aninditha Rahma Cahyadi	5152aninditha-rahma-cahyadi
+4722	2019-01-05	BIRTHDAY	Diani Amalia Ramadhani	5153diani-amalia-ramadhani
+4725	2019-01-05	SHOW	Saka Agari	5160saka-agari
+4726	2019-01-05	SHOW	Dewi Theater	5161dewi-theater
+4727	2019-01-06	SHOW	Dewi Theater	5162dewi-theater
+4728	2019-01-06	SHOW	Sekarang Sedang Jatuh Cinta	5163sekarang-sedang-jatuh-cinta
+4743	2019-01-06	GENERAL	I WANT TO KNOW - MNCTV (Desy)	5178i-want-to-know-mnctv-desy
+4744	2019-01-07	GENERAL	DMD MNCTV (Live)	5179dmd-mnctv-live
+4732	2019-01-08	SHOW	Saka Agari	5167saka-agari
+4733	2019-01-09	SHOW	Dewi Theater	5168dewi-theater
+4745	2019-01-09	GENERAL	JOOX Live	5180joox-live
+4734	2019-01-10	SHOW	Sekarang Sedang Jatuh Cinta	5169sekarang-sedang-jatuh-cinta
+4735	2019-01-11	SHOW	Dewi Theater	5170dewi-theater
+4736	2019-01-12	SHOW	Saka Agari	5171saka-agari
+4737	2019-01-12	SHOW	Sekarang Sedang Jatuh Cinta	5172sekarang-sedang-jatuh-cinta
+4738	2019-01-13	SHOW	Sekarang Sedang Jatuh Cinta	5173sekarang-sedang-jatuh-cinta
+4739	2019-01-13	SHOW	Saka Agari	5174saka-agari
+4723	2019-01-14	BIRTHDAY	Cindy Yuvia	5154cindy-yuvia
+4746	2019-01-15	SHOW	Dewi Theater	5181dewi-theater
+4724	2019-01-16	BIRTHDAY	Feni Fitriyanti	5155feni-fitriyanti
+4747	2019-01-16	SHOW	Saka Agari	5182saka-agari
+4748	2019-01-17	SHOW	Sekarang Sedang Jatuh Cinta	5183sekarang-sedang-jatuh-cinta
+4764	2019-01-17	GENERAL	Anak Milenial - TRANSTV (Desy)	5199anak-milenial-transtv-desy
+4749	2019-01-18	SHOW	Saka Agari	5184saka-agari
+4750	2019-01-19	SHOW	Dewi Theater	5185dewi-theater
+4751	2019-01-19	SHOW	Sekarang Sedang Jatuh Cinta	5186sekarang-sedang-jatuh-cinta
+4752	2019-01-20	SHOW	Sekarang Sedang Jatuh Cinta	5187sekarang-sedang-jatuh-cinta
+4753	2019-01-20	SHOW	Dewi Theater	5188dewi-theater
+4765	2019-01-20	GENERAL	I WANT TO KNOW - MNCTV (Desy)	5200i-want-to-know-mnctv-desy
+4756	2019-01-22	SHOW	Saka Agari	5191saka-agari
+4757	2019-01-23	SHOW	Dewi Theater	5192dewi-theater
+4758	2019-01-24	SHOW	Sekarang Sedang Jatuh Cinta	5193sekarang-sedang-jatuh-cinta
+4759	2019-01-25	SHOW	Dewi Theater	5194dewi-theater
+4760	2019-01-26	SHOW	Saka Agari	5195saka-agari
+4761	2019-01-26	SHOW	Dewi Theater	5196dewi-theater
+4779	2019-01-26	GENERAL	OVJ - Desy	5215ovj-desy
+4762	2019-01-27	SHOW	Dewi Theater	5197dewi-theater
+4763	2019-01-27	SHOW	Saka Agari	5198saka-agari
+4780	2019-01-28	GENERAL	Mobile Legend President Cup - GTV (Live)	5216mobile-legend-president-cup-gtv-live
+4766	2019-01-29	SHOW	Dewi Theater	5201dewi-theater
+4767	2019-01-30	SHOW	Sekarang Sedang Jatuh Cinta	5202sekarang-sedang-jatuh-cinta
+4768	2019-01-31	SHOW	Saka Agari	5203saka-agari
+4769	2019-02-01	SHOW	Dewi Theater	5204dewi-theater
+4770	2019-02-02	SHOW	Saka Agari	5205saka-agari
+4771	2019-02-02	SHOW	Sekarang Sedang Jatuh Cinta	5206sekarang-sedang-jatuh-cinta
+4772	2019-02-03	SHOW	Dewi Theater	5207dewi-theater
+4773	2019-02-03	SHOW	Saka Agari	5208saka-agari
+4774	2019-02-03	BIRTHDAY	Febi Komaril	5209febi-komaril
+4790	2019-02-03	GENERAL	I WANT TO KNOW - MNCTV (Desy)	5226i-want-to-know-mnctv-desy
+4791	2019-02-03	GENERAL	Q&A - Metro TV (Zara)	5227qa-metro-tv-zara
+4782	2019-02-05	SHOW	Dewi Theater	5218dewi-theater
+4783	2019-02-06	SHOW	Saka Agari	5219saka-agari
+4784	2019-02-07	SHOW	Sekarang Sedang Jatuh Cinta	5220sekarang-sedang-jatuh-cinta
+4785	2019-02-08	SHOW	Saka Agari	5221saka-agari
+4786	2019-02-09	SHOW	Dewi Theater	5222dewi-theater
+4787	2019-02-09	SHOW	Sekarang Sedang Jatuh Cinta	5223sekarang-sedang-jatuh-cinta
+4788	2019-02-10	SHOW	Dewi Theater	5224dewi-theater
+4789	2019-02-10	SHOW	Saka Agari	5225saka-agari
+4793	2019-02-12	SHOW	Dewi Theater	5229dewi-theater
+4794	2019-02-13	SHOW	Saka Agari	5230saka-agari
+4803	2019-02-13	BIRTHDAY	Freya Jayawardana	5239freya-jayawardana
+4795	2019-02-14	SHOW	Sekarang Sedang Jatuh Cinta	5231sekarang-sedang-jatuh-cinta
+4796	2019-02-15	SHOW	Dewi Theater	5232dewi-theater
+4797	2019-02-16	SHOW	Saka Agari	5233saka-agari
+4798	2019-02-16	SHOW	Sekarang Sedang Jatuh Cinta	5234sekarang-sedang-jatuh-cinta
+4812	2019-02-16	GENERAL	#BiSAae - NET TV (Desy)	5248bisaae-net-tv-desy
+4775	2019-02-17	BIRTHDAY	Febrina Diponegoro	5210febrina-diponegoro
+4799	2019-02-17	SHOW	Sekarang Sedang Jatuh Cinta	5235sekarang-sedang-jatuh-cinta
+4800	2019-02-17	SHOW	Dewi Theater	5236dewi-theater
+4810	2019-02-17	GENERAL	I WANT TO KNOW - MNCTV (Desy)	5246i-want-to-know-mnctv-desy
+4811	2019-02-17	GENERAL	THE EAST - NET TV (Desy)	5247the-east-net-tv-desy
+4805	2019-02-19	SHOW	Saka Agari	5241saka-agari
+4806	2019-02-20	SHOW	Sekarang Sedang Jatuh Cinta	5242sekarang-sedang-jatuh-cinta
+4807	2019-02-21	SHOW	Saka Agari	5243saka-agari
+4808	2019-02-22	SHOW	Sekarang Sedang Jatuh Cinta	5244sekarang-sedang-jatuh-cinta
+4776	2019-02-23	BIRTHDAY	Ratu Vienny Fitrilya	5211ratu-vienny-fitrilya
+4813	2019-02-23	SHOW	Sambil Menggandeng Erat Tanganku	5249sambil-menggandeng-erat-tanganku
+4814	2019-02-23	SHOW	Saka Agari	5250saka-agari
+4832	2019-02-23	GENERAL	#BiSAae - NET TV (Desy)	5269bisaae-net-tv-desy
+4777	2019-02-24	BIRTHDAY	Fransisca Saraswati Puspa Dewi	5212fransisca-saraswati-puspa-dewi
+4815	2019-02-24	SHOW	Sekarang Sedang Jatuh Cinta	5251sekarang-sedang-jatuh-cinta
+4816	2019-02-24	SHOW	Saka Agari	5252saka-agari
+4833	2019-02-24	GENERAL	#BiSAae - NET TV (Desy)	5270bisaae-net-tv-desy
+4834	2019-02-25	GENERAL	Family 100 Indonesia - GTV	5271family-100-indonesia-gtv
+4778	2019-02-26	BIRTHDAY	Febriola Sinambela	5214febriola-sinambela
+4819	2019-02-26	SHOW	Sambil Menggandeng Erat Tanganku	5255sambil-menggandeng-erat-tanganku
+4820	2019-02-27	SHOW	Saka Agari	5256saka-agari
+4821	2019-02-28	SHOW	Sambil Menggandeng Erat Tanganku	5257sambil-menggandeng-erat-tanganku
+4829	2019-03-01	SHOW	Sekarang Sedang Jatuh Cinta	5266sekarang-sedang-jatuh-cinta
+4830	2019-03-02	SHOW	Sambil Menggandeng Erat Tanganku	5267sambil-menggandeng-erat-tanganku
+4831	2019-03-02	SHOW	Saka Agari	5268saka-agari
+4835	2019-03-03	SHOW	Fajar Sang Idola	5272fajar-sang-idola
+4822	2019-03-04	BIRTHDAY	Frieska Anastasia Laksani	5258frieska-anastasia-laksani
+4863	2019-03-04	GENERAL	Insert - TransTV (Yuvia & Shani)	5302insert-transtv-yuvia-shani
+4823	2019-03-05	BIRTHDAY	Graciella Ruth Wiranto	5259graciella-ruth-wiranto
+4837	2019-03-05	SHOW	Saka Agari	5274saka-agari
+4849	2019-03-06	SHOW	Sambil Menggandeng Erat Tanganku	5288sambil-menggandeng-erat-tanganku
+4851	2019-03-06	GENERAL	Netijen TransTV (Ayana)	5290netijen-transtv-ayana
+4848	2019-03-07	SHOW	Fajar Sang Idola	5287fajar-sang-idola
+4838	2019-03-08	SHOW	Saka Agari	5277saka-agari
+4839	2019-03-09	SHOW	Sambil Menggandeng Erat Tanganku	5278sambil-menggandeng-erat-tanganku
+4840	2019-03-09	SHOW	Saka Agari	5279saka-agari
+4862	2019-03-09	GENERAL	Let's Play - MNC (Feni & Sisca)	5301lets-play-mnc-feni-sisca
+4841	2019-03-10	SHOW	Fajar Sang Idola	5280fajar-sang-idola
+4842	2019-03-10	SHOW	Sambil Menggandeng Erat Tanganku	5281sambil-menggandeng-erat-tanganku
+4861	2019-03-10	GENERAL	Insert - TransTV (Yuvia & Shani)	5300insert-transtv-yuvia-shani
+4852	2019-03-12	SHOW	Sambil Menggandeng Erat Tanganku	5291sambil-menggandeng-erat-tanganku
+4853	2019-03-13	SHOW	Saka Agari	5292saka-agari
+4854	2019-03-14	SHOW	Fajar Sang Idola	5293fajar-sang-idola
+4856	2019-03-15	EVENT	Lima Tahun Bersama Generasi Tiga	5295lima-tahun-bersama-generasi-tiga
+4857	2019-03-16	SHOW	Fajar Sang Idola	5296fajar-sang-idola
+4858	2019-03-16	SHOW	Sambil Menggandeng Erat Tanganku	5297sambil-menggandeng-erat-tanganku
+4859	2019-03-17	SHOW	Sambil Menggandeng Erat Tanganku	5298sambil-menggandeng-erat-tanganku
+4860	2019-03-17	SHOW	Saka Agari	5299saka-agari
+4824	2019-03-18	BIRTHDAY	Beby Chaesara Anadila	5260beby-chaesara-anadila
+4825	2019-03-18	BIRTHDAY	Riska Amelia Putri	5261riska-amelia-putri
+4826	2019-03-19	BIRTHDAY	Fidly Immanda Azzahra	5263fidly-immanda-azzahra
+4827	2019-03-19	BIRTHDAY	Rona Anggreani	5264rona-anggreani
+4865	2019-03-19	SHOW	Sambil Menggandeng Erat Tanganku	5304sambil-menggandeng-erat-tanganku
+4866	2019-03-20	SHOW	Saka Agari	5305saka-agari
+4867	2019-03-21	SHOW	Fajar Sang Idola	5306fajar-sang-idola
+4868	2019-03-22	SHOW	Saka Agari	5307saka-agari
+4828	2019-03-23	BIRTHDAY	Aiko Harumi	5265aiko-harumi
+4872	2019-03-23	SHOW	Pajama Drive	5311pajama-drive
+4873	2019-03-23	SHOW	Sambil Menggandeng Erat Tanganku	5312sambil-menggandeng-erat-tanganku
+4874	2019-03-24	SHOW	Fajar Sang Idola	5313fajar-sang-idola
+4875	2019-03-24	SHOW	Pajama Drive	5314pajama-drive
+4886	2019-03-24	GENERAL	Takeshi's Castle (Desy)	5325takeshis-castle-desy
+4880	2019-03-26	SHOW	Saka Agari	5319saka-agari
+4881	2019-03-27	SHOW	Sambil Menggandeng Erat Tanganku	5320sambil-menggandeng-erat-tanganku
+4882	2019-03-28	SHOW	Fajar Sang Idola	5321fajar-sang-idola
+4883	2019-03-29	SHOW	Pajama Drive	5322pajama-drive
+4897	2019-03-30	GENERAL	Let's Play - MNCTV (Melati)	5336lets-play-mnctv-melati
+4884	2019-03-31	SHOW	Sambil Menggandeng Erat Tanganku	5323sambil-menggandeng-erat-tanganku
+4885	2019-03-31	SHOW	Fajar Sang Idola	5324fajar-sang-idola
+4898	2019-03-31	GENERAL	Takeshi's Castle - MNCTV (Desy)	5337takeshis-castle-mnctv-desy
+4889	2019-04-02	SHOW	Saka Agari	5328saka-agari
+4890	2019-04-03	SHOW	Sambil Menggandeng Erat Tanganku	5329sambil-menggandeng-erat-tanganku
+4891	2019-04-04	SHOW	Fajar Sang Idola	5330fajar-sang-idola
+4892	2019-04-05	SHOW	Pajama Drive	5331pajama-drive
+4906	2019-04-05	GENERAL	I Can See Your Voice Indonesia Season 4 - MNCTV	5345i-can-see-your-voice-indonesia-season-4-mnctv
+4893	2019-04-06	SHOW	Pajama Drive	5332pajama-drive
+4894	2019-04-06	SHOW	Sambil Menggandeng Erat Tanganku	5333sambil-menggandeng-erat-tanganku
+4895	2019-04-07	SHOW	Pajama Drive	5334pajama-drive
+4896	2019-04-07	SHOW	Sambil Menggandeng Erat Tanganku	5335sambil-menggandeng-erat-tanganku
+4902	2019-04-09	SHOW	Fajar Sang Idola	5341fajar-sang-idola
+4876	2019-04-10	BIRTHDAY	Jennifer Rachel Natasya	5315jennifer-rachel-natasya
+4903	2019-04-10	SHOW	Saka Agari	5342saka-agari
+4877	2019-04-11	BIRTHDAY	Gabriela Margareth Warouw	5316gabriela-margareth-warouw
+4904	2019-04-11	SHOW	Fajar Sang Idola	5343fajar-sang-idola
+4905	2019-04-12	SHOW	Sambil Menggandeng Erat Tanganku	5344sambil-menggandeng-erat-tanganku
+4878	2019-04-13	BIRTHDAY	Viviyona Apriani	5317viviyona-apriani
+4907	2019-04-13	SHOW	Pajama Drive	5346pajama-drive
+4908	2019-04-13	SHOW	Romansa Sang Gadis	5347romansa-sang-gadis
+4909	2019-04-14	SHOW	Sambil Menggandeng Erat Tanganku	5348sambil-menggandeng-erat-tanganku
+4910	2019-04-14	SHOW	Romansa Sang Gadis	5349romansa-sang-gadis
+4914	2019-04-16	SHOW	Pajama Drive	5353pajama-drive
+4915	2019-04-18	SHOW	Romansa Sang Gadis	5354romansa-sang-gadis
+4879	2019-04-20	BIRTHDAY	Jesslyn Callista	5318jesslyn-callista
+4916	2019-04-20	SHOW	Fajar Sang Idola	5355fajar-sang-idola
+4917	2019-04-20	SHOW	Sambil Menggandeng Erat Tanganku	5356sambil-menggandeng-erat-tanganku
+4923	2019-04-20	GENERAL	Let's Play - MNCTV (Melati & Sisca)	5362lets-play-mnctv-melati-sisca
+4919	2019-04-23	SHOW	Romansa Sang Gadis	5358romansa-sang-gadis
+4920	2019-04-24	SHOW	Sambil Menggandeng Erat Tanganku	5359sambil-menggandeng-erat-tanganku
+4921	2019-04-25	SHOW	Fajar Sang Idola	5360fajar-sang-idola
+4843	2019-04-27	EVENT	JKT48 Request Hour 2019 - Platinum I	5282jkt48-request-hour-2019-platinum-i
+4844	2019-04-27	EVENT	JKT48 Request Hour 2019 - Platinum II	5283jkt48-request-hour-2019-platinum-ii
+4846	2019-04-27	EVENT	JKT48 Request Hour 2019 - Silver	5285jkt48-request-hour-2019-silver
+4922	2019-04-28	SHOW	Fajar Sang Idola	5361fajar-sang-idola
+4932	2019-04-28	SHOW	Pajama Drive	5371pajama-drive
+4933	2019-04-30	SHOW	Romansa Sang Gadis	5372romansa-sang-gadis
+4934	2019-05-01	SHOW	Sambil Menggandeng Erat Tanganku	5373sambil-menggandeng-erat-tanganku
+4935	2019-05-02	SHOW	Fajar Sang Idola	5374fajar-sang-idola
+4936	2019-05-03	SHOW	Pajama Drive	5375pajama-drive
+4937	2019-05-04	SHOW	Romansa Sang Gadis	5376romansa-sang-gadis
+4938	2019-05-04	SHOW	Fajar Sang Idola	5377fajar-sang-idola
+4941	2019-05-08	EVENT	JKT48 SCHOOL #1 (Academy)	5380jkt48-school-1-academy
+4942	2019-05-09	EVENT	JKT48 BATTLE TEAM #1 (Old vs Young)	5381jkt48-battle-team-1-old-vs-young
+4924	2019-05-10	BIRTHDAY	Adriani Elisabeth	5363adriani-elisabeth
+4925	2019-05-10	BIRTHDAY	Rifa Fatmasari	5364rifa-fatmasari
+4943	2019-05-10	EVENT	JKT48 CHARITY #1 (Academy A)	5382jkt48-charity-1-academy-a
+4944	2019-05-11	EVENT	JKT48 SCHOOL #2	5383jkt48-school-2
+4945	2019-05-11	EVENT	JKT48 VARIETY SHOW #1	5384jkt48-variety-show-1
+4955	2019-05-11	GENERAL	Let's Play - MNCTV (Sisca)	5394lets-play-mnctv-sisca
+4926	2019-05-12	BIRTHDAY	Ariella Calista Ichwan	5365ariella-calista-ichwan
+4946	2019-05-12	EVENT	JKT48 BATTLE TEAM #2 (Tall Team vs Short Team)	5385jkt48-battle-team-2-tall-team-vs-short-team
+4947	2019-05-12	EVENT	JKT48 SCHOOL #3	5386jkt48-school-3
+4956	2019-05-12	GENERAL	Takeshi's Castle - MNCTV (Desy)	5395takeshis-castle-mnctv-desy
+4927	2019-05-14	BIRTHDAY	Kandiya Rafa Maulidita	5366kandiya-rafa-maulidita
+4928	2019-05-14	BIRTHDAY	Aurel Mayori	5367aurel-mayori
+4929	2019-05-16	BIRTHDAY	Azizi Asadel	5368azizi-asadel
+4950	2019-05-17	EVENT	JKT48 BATTLE TEAM #3 (Fried Noodle Lovers Team vs Rame Soup Noodle Lovers Team)	5389jkt48-battle-team-3-fried-noodle-lovers-team-vs-rame-soup-noodle-lovers-team
+4951	2019-05-18	EVENT	JKT48 SCHOOL #4	5390jkt48-school-4
+4952	2019-05-18	EVENT	JKT48 CHARITY #2 (Team T)	5391jkt48-charity-2-team-t
+4953	2019-05-19	EVENT	JKT48 BATTLE TEAM #4 (Dog Lovers Team vs Cat Lovers Team)	5392jkt48-battle-team-4-dog-lovers-team-vs-cat-lovers-team
+4954	2019-05-19	EVENT	JKT48 SCHOOL #5	5393jkt48-school-5
+4930	2019-05-20	BIRTHDAY	Hasyakyla Utami Kusumawardhani	5369hasyakyla-utami-kusumawardhani
+4959	2019-05-21	EVENT	JKT48 SCHOOL #6	5398jkt48-school-6
+4960	2019-05-22	EVENT	JKT48 BATTLE TEAM #5 (Bubur Diaduk va Bubur Gak Diaduk)	5399jkt48-battle-team-5-bubur-diaduk-va-bubur-gak-diaduk
+4961	2019-05-23	EVENT	JKT48 SCHOOL #7	5400jkt48-school-7
+4931	2019-05-24	BIRTHDAY	Alicia Chanzia	5370alicia-chanzia
+4962	2019-05-24	EVENT	JKT48 VARIETY SHOW #2	5401jkt48-variety-show-2
+4963	2019-05-25	EVENT	JKT48 SCHOOL #8	5402jkt48-school-8
+4964	2019-05-25	EVENT	JKT48 CHARITY #3 (Team KIII)	5403jkt48-charity-3-team-kiii
+4965	2019-05-26	EVENT	JKT48 BATTLE TEAM #5 (Long Hair vs Short Hair)	5404jkt48-battle-team-5-long-hair-vs-short-hair
+4966	2019-05-26	EVENT	JKT48 SCHOOL #9	5405jkt48-school-9
+4970	2019-05-28	EVENT	JKT48 SCHOOL #10	5409jkt48-school-10
+4971	2019-05-29	EVENT	JKT48 BATTLE TEAM #6 (Bubur Diaduk va Bubur Gak Diaduk)	5410jkt48-battle-team-6-bubur-diaduk-va-bubur-gak-diaduk
+4972	2019-05-30	EVENT	JKT48 CHARITY #3 (Team J)	5411jkt48-charity-3-team-j
+4973	2019-05-31	EVENT	Valkyrie48 Champions Cup Feat RRQ	5412valkyrie48-champions-cup-feat-rrq
+4974	2019-06-01	EVENT	JKT48 VARIETY SHOW #3	5413jkt48-variety-show-3
+4975	2019-06-01	EVENT	JKT48 SCHOOL #11	5414jkt48-school-11
+4977	2019-06-03	BIRTHDAY	Ayana Shahab	5416ayana-shahab
+4978	2019-06-07	BIRTHDAY	Puti Nadhira Azalia	5417puti-nadhira-azalia
+4979	2019-06-08	BIRTHDAY	Jinan Safa Safira	5418jinan-safa-safira
+4976	2019-06-11	SHOW	Romansa Sang Gadis	5415romansa-sang-gadis
+4984	2019-06-12	SHOW	Fajar Sang Idola	5423fajar-sang-idola
+4985	2019-06-13	SHOW	Sambil Menggandeng Erat Tanganku	5424sambil-menggandeng-erat-tanganku
+4986	2019-06-14	SHOW	Pajama Drive	5425pajama-drive
+4980	2019-06-15	BIRTHDAY	Helisma Putri	5419helisma-putri
+4987	2019-06-15	SHOW	Fajar Sang Idola	5426fajar-sang-idola
+4988	2019-06-15	SHOW	Romansa Sang Gadis	5427romansa-sang-gadis
+4981	2019-06-16	BIRTHDAY	Anastasya Narwastu Tety Handuran	5420anastasya-narwastu-tety-handuran
+4990	2019-06-16	SHOW	Fajar Sang Idola	5429fajar-sang-idola
+4991	2019-06-16	SHOW	Sambil Menggandeng Erat Tanganku	5430sambil-menggandeng-erat-tanganku
+4995	2019-06-18	SHOW	Romansa Sang Gadis	5434romansa-sang-gadis
+4996	2019-06-19	SHOW	Fajar Sang Idola	5435fajar-sang-idola
+4997	2019-06-20	SHOW	Sambil Menggandeng Erat Tanganku	5436sambil-menggandeng-erat-tanganku
+4982	2019-06-21	BIRTHDAY	Adhisty Zara	5421adhisty-zara
+4998	2019-06-21	SHOW	Romansa Sang Gadis	5437romansa-sang-gadis
+4999	2019-06-22	SHOW	Pajama Drive	5438pajama-drive
+5000	2019-06-22	SHOW	Saka Agari	5439saka-agari
+5001	2019-06-23	SHOW	Fajar Sang Idola	5440fajar-sang-idola
+5002	2019-06-23	SHOW	Sambil Menggandeng Erat Tanganku	5441sambil-menggandeng-erat-tanganku
+5004	2019-06-25	SHOW	Fajar Sang Idola	5443fajar-sang-idola
+5005	2019-06-26	SHOW	Sambil Menggandeng Erat Tanganku	5444sambil-menggandeng-erat-tanganku
+5006	2019-06-27	SHOW	Pajama Drive	5445pajama-drive
+5007	2019-06-28	SHOW	Saka Agari	5446saka-agari
+4983	2019-06-29	BIRTHDAY	Thalia Ivanka Elizabeth	5422thalia-ivanka-elizabeth
+5008	2019-06-29	SHOW	Pajama Drive	5447pajama-drive
+5009	2019-06-29	SHOW	Fajar Sang Idola	5448fajar-sang-idola
+5010	2019-06-30	SHOW	Fajar Sang Idola	5449fajar-sang-idola
+5011	2019-06-30	SHOW	Saka Agari	5450saka-agari
+5045	2019-06-30	BIRTHDAY	Gita Sekar Andarini	5484gita-sekar-andarini
+5037	2019-07-01	BIRTHDAY	Nyimas Ratu Rafa	5476nyimas-ratu-rafa
+5019	2019-07-02	SHOW	Fajar Sang Idola	5458fajar-sang-idola
+5020	2019-07-03	SHOW	Pajama Drive	5459pajama-drive
+5021	2019-07-04	SHOW	Saka Agari	5460saka-agari
+5038	2019-07-04	BIRTHDAY	Sinka Juliani	5477sinka-juliani
+5022	2019-07-05	SHOW	Sambil Menggandeng Erat Tanganku	5461sambil-menggandeng-erat-tanganku
+5023	2019-07-06	SHOW	Saka Agari	5462saka-agari
+5024	2019-07-06	SHOW	Sambil Menggandeng Erat Tanganku	5463sambil-menggandeng-erat-tanganku
+5025	2019-07-07	SHOW	Pajama Drive	5464pajama-drive
+5026	2019-07-07	SHOW	Saka Agari	5465saka-agari
+5047	2019-07-09	SHOW	Sambil Menggandeng Erat Tanganku	5486sambil-menggandeng-erat-tanganku
+5048	2019-07-10	SHOW	Pajama Drive	5487pajama-drive
+5049	2019-07-11	SHOW	Fajar Sang Idola	5488fajar-sang-idola
+5039	2019-07-12	BIRTHDAY	Mutiara Azzahra	5478mutiara-azzahra
+5050	2019-07-12	SHOW	Sambil Menggandeng Erat Tanganku	5489sambil-menggandeng-erat-tanganku
+5051	2019-07-13	SHOW	Pajama Drive	5490pajama-drive
+5052	2019-07-13	SHOW	Fajar Sang Idola	5491fajar-sang-idola
+5040	2019-07-14	BIRTHDAY	Reva Fidela	5479reva-fidela
+5053	2019-07-14	SHOW	Fajar Sang Idola	5492fajar-sang-idola
+5054	2019-07-14	SHOW	Sambil Menggandeng Erat Tanganku	5493sambil-menggandeng-erat-tanganku
+5065	2019-07-15	GENERAL	DSTAR - INDOSIAR	5504dstar-indosiar
+5066	2019-07-15	GENERAL	Family 100 - GTV	5505family-100-gtv
+5057	2019-07-16	SHOW	Pajama Drive	5496pajama-drive
+5041	2019-07-17	BIRTHDAY	Gabriel Angelina	5480gabriel-angelina
+5058	2019-07-17	SHOW	Saka Agari	5497saka-agari
+5042	2019-07-18	BIRTHDAY	Sania Julia Montolalu	5481sania-julia-montolalu
+5059	2019-07-18	SHOW	Fajar Sang Idola	5498fajar-sang-idola
+5060	2019-07-19	SHOW	Sambil Menggandeng Erat Tanganku	5499sambil-menggandeng-erat-tanganku
+5014	2019-07-21	EVENT	Team J Solo Concert, “J Paradise” & Cindy Yuvia Graduation Concert, “Idol’s Decision” - Platinum	5453team-j-solo-concert-j-paradise-cindy-yuvia-graduation-concert-idols-decision-platinum
+5015	2019-07-21	EVENT	Team J Solo Concert, “J Paradise” & Cindy Yuvia Graduation Concert, “Idol’s Decision” - Gold	5454team-j-solo-concert-j-paradise-cindy-yuvia-graduation-concert-idols-decision-gold
+5016	2019-07-21	EVENT	Team J Solo Concert, “J Paradise” & Cindy Yuvia Graduation Concert, “Idol’s Decision” - Silver	5455team-j-solo-concert-j-paradise-cindy-yuvia-graduation-concert-idols-decision-silver
+5073	2019-07-21	EVENT	Team J Solo Concert, “J Paradise” & Cindy Yuvia Graduation Concert, “Idol’s Decision” - Silver (Standing)	5512team-j-solo-concert-j-paradise-cindy-yuvia-graduation-concert-idols-decision-silver-standing
+5069	2019-07-23	SHOW	Pajama Drive	5508pajama-drive
+5070	2019-07-24	SHOW	Sambil Menggandeng Erat Tanganku	5509sambil-menggandeng-erat-tanganku
+5071	2019-07-25	SHOW	Saka Agari	5510saka-agari
+5043	2019-07-26	BIRTHDAY	Cornelia Vanisa	5482cornelia-vanisa
+5072	2019-07-26	SHOW	Pajama Drive	5511pajama-drive
+5074	2019-07-27	SHOW	Saka Agari	5513saka-agari
+5075	2019-07-27	SHOW	Fajar Sang Idola	5514fajar-sang-idola
+5076	2019-07-28	SHOW	Sambil Menggandeng Erat Tanganku	5515sambil-menggandeng-erat-tanganku
+5077	2019-07-28	SHOW	Fajar Sang Idola	5516fajar-sang-idola
+5079	2019-07-30	SHOW	Pajama Drive	5518pajama-drive
+5080	2019-07-31	SHOW	Sambil Menggandeng Erat Tanganku	5519sambil-menggandeng-erat-tanganku
+5081	2019-08-01	SHOW	Fajar Sang Idola	5520fajar-sang-idola
+5082	2019-08-02	SHOW	Saka Agari	5521saka-agari
+5083	2019-08-03	SHOW	Fajar Sang Idola	5522fajar-sang-idola
+5084	2019-08-03	SHOW	Pajama Drive	5523pajama-drive
+5085	2019-08-04	SHOW	Sambil Menggandeng Erat Tanganku	5524sambil-menggandeng-erat-tanganku
+5086	2019-08-04	SHOW	Saka Agari	5525saka-agari
+5087	2019-08-05	BIRTHDAY	Zahra Nur	5526zahra-nur
+5093	2019-08-06	SHOW	Pajama Drive	5532pajama-drive
+5094	2019-08-07	SHOW	Saka Agari	5533saka-agari
+5088	2019-08-08	BIRTHDAY	Ni Made Ayu Vania Aurellia	5527ni-made-ayu-vania-aurellia
+5095	2019-08-08	SHOW	Sambil Menggandeng Erat Tanganku	5534sambil-menggandeng-erat-tanganku
+5096	2019-08-09	SHOW	Fajar Sang Idola	5535fajar-sang-idola
+5097	2019-08-10	SHOW	Saka Agari	5536saka-agari
+5098	2019-08-10	SHOW	Fajar Sang Idola	5537fajar-sang-idola
+5101	2019-08-13	SHOW	Sambil Menggandeng Erat Tanganku	5541sambil-menggandeng-erat-tanganku
+5102	2019-08-14	SHOW	Pajama Drive	5542pajama-drive
+5103	2019-08-15	SHOW	Saka Agari	5543saka-agari
+5089	2019-08-16	BIRTHDAY	Salma Annisa	5528salma-annisa
+5104	2019-08-16	SHOW	Fajar Sang Idola	5544fajar-sang-idola
+5105	2019-08-17	SHOW	Sambil Menggandeng Erat Tanganku	5545sambil-menggandeng-erat-tanganku
+5106	2019-08-17	SHOW	Pajama Drive	5546pajama-drive
+5090	2019-08-18	BIRTHDAY	Dhea Angelia	5529dhea-angelia
+5107	2019-08-18	SHOW	Saka Agari	5547saka-agari
+5108	2019-08-18	SHOW	Fajar Sang Idola	5548fajar-sang-idola
+5110	2019-08-20	SHOW	Pajama Drive	5550pajama-drive
+5091	2019-08-21	BIRTHDAY	Tan Zhi Hui Celine	5530tan-zhi-hui-celine
+5111	2019-08-21	SHOW	Fajar Sang Idola	5551fajar-sang-idola
+5112	2019-08-22	SHOW	Sambil Menggandeng Erat Tanganku	5552sambil-menggandeng-erat-tanganku
+5113	2019-08-23	SHOW	Saka Agari	5553saka-agari
+5114	2019-08-24	SHOW	Pajama Drive	5554pajama-drive
+5115	2019-08-24	SHOW	Pajama Drive	5555pajama-drive
+5116	2019-08-25	SHOW	Fajar Sang Idola	5556fajar-sang-idola
+5117	2019-08-25	SHOW	Saka Agari	5557saka-agari
+5121	2019-08-27	SHOW	Sambil Menggandeng Erat Tanganku	5562sambil-menggandeng-erat-tanganku
+5122	2019-08-28	SHOW	Saka Agari	5563saka-agari
+5123	2019-08-29	SHOW	Fajar Sang Idola	5564fajar-sang-idola
+5124	2019-08-30	SHOW	Sambil Menggandeng Erat Tanganku	5565sambil-menggandeng-erat-tanganku
+5092	2019-08-31	BIRTHDAY	Shania Gracia	5531shania-gracia
+5125	2019-08-31	SHOW	Fajar Sang Idola	5566fajar-sang-idola
+5126	2019-08-31	SHOW	Saka Agari	5567saka-agari
+5128	2019-09-01	SHOW	Tunas di Balik Seragam	5569tunas-di-balik-seragam
+5143	2019-09-02	GENERAL	Kontes KDI - MNC TV (Live)	5584kontes-kdi-mnc-tv-live
+5137	2019-09-03	SHOW	Saka Agari	5578saka-agari
+5138	2019-09-04	SHOW	Fajar Sang Idola	5579fajar-sang-idola
+5139	2019-09-05	SHOW	Pajama Drive	5580pajama-drive
+5129	2019-09-06	BIRTHDAY	Gabryela Marcelina	5570gabryela-marcelina
+5140	2019-09-06	SHOW	Tunas di Balik Seragam	5581tunas-di-balik-seragam
+5141	2019-09-07	SHOW	Saka Agari	5582saka-agari
+5142	2019-09-07	SHOW	Fajar Sang Idola	5583fajar-sang-idola
+5145	2019-09-08	EVENT	JKT48 Theater 7th Anniversary Special Show	5586jkt48-theater-7th-anniversary-special-show
+5144	2019-09-10	GENERAL	Konser Korean Wave 2019 - TransTV (Live)	5585konser-korean-wave-2019-transtv-live
+5151	2019-09-10	SHOW	Pajama Drive	5592pajama-drive
+5152	2019-09-11	SHOW	Tunas di Balik Seragam	5593tunas-di-balik-seragam
+5162	2019-09-11	GENERAL	Tonight Show - NET (Desy)	5604tonight-show-net-desy
+5153	2019-09-12	SHOW	Fajar Sang Idola	5594fajar-sang-idola
+5130	2019-09-13	BIRTHDAY	Cindy Hapsari Maharani Pujiantoro Putri	5571cindy-hapsari-maharani-pujiantoro-putri
+5131	2019-09-13	BIRTHDAY	Rinanda Syahputri	5572rinanda-syahputri
+5154	2019-09-13	SHOW	Saka Agari	5595saka-agari
+5155	2019-09-14	SHOW	Saka Agari	5596saka-agari
+5156	2019-09-14	SHOW	Fajar Sang Idola	5597fajar-sang-idola
+5157	2019-09-15	SHOW	Fajar Sang Idola	5598fajar-sang-idola
+5158	2019-09-15	SHOW	Tunas di Balik Seragam	5599tunas-di-balik-seragam
+5166	2019-09-17	SHOW	Saka Agari	5608saka-agari
+5167	2019-09-18	SHOW	Tunas di Balik Seragam	5609tunas-di-balik-seragam
+5168	2019-09-19	SHOW	Fajar Sang Idola	5610fajar-sang-idola
+5169	2019-09-20	SHOW	Pajama Drive	5611pajama-drive
+5170	2019-09-21	SHOW	Pajama Drive	5612pajama-drive
+5171	2019-09-21	SHOW	Tunas di Balik Seragam	5613tunas-di-balik-seragam
+5191	2019-09-21	GENERAL	Konser Berkah Energi Pertamina - TransTV (Live)	5634konser-berkah-energi-pertamina-transtv-live
+5172	2019-09-22	SHOW	Pajama Drive	5614pajama-drive
+5173	2019-09-22	SHOW	Saka Agari	5615saka-agari
+5132	2019-09-23	BIRTHDAY	Nadila Cindi Wantari	5573nadila-cindi-wantari
+5133	2019-09-23	BIRTHDAY	Jessica Chandra	5574jessica-chandra
+5134	2019-09-24	BIRTHDAY	Yessica Tamara	5575yessica-tamara
+5179	2019-09-24	SHOW	Tunas di Balik Seragam	5621tunas-di-balik-seragam
+5180	2019-09-25	SHOW	Fajar Sang Idola	5622fajar-sang-idola
+5181	2019-09-26	SHOW	Saka Agari	5623saka-agari
+5182	2019-09-27	SHOW	Pajama Drive	5624pajama-drive
+5185	2019-09-28	SHOW	Tunas di Balik Seragam	5628tunas-di-balik-seragam
+5186	2019-09-28	SHOW	Saka Agari	5629saka-agari
+5187	2019-09-29	SHOW	Fajar Sang Idola	5630fajar-sang-idola
+5188	2019-09-29	EVENT	Sinka Juliani Special Graduation Show	5631sinka-juliani-special-graduation-show
+5201	2019-10-01	SHOW	Pajama Drive	5644pajama-drive
+5202	2019-10-02	SHOW	Tunas di Balik Seragam	5645tunas-di-balik-seragam
+5210	2019-10-02	GENERAL	Tonight Show - NET TV (Sisca)	5653tonight-show-net-tv-sisca
+5192	2019-10-03	BIRTHDAY	Pamela Krysanthe	5635pamela-krysanthe
+5203	2019-10-03	SHOW	Saka Agari	5646saka-agari
+5204	2019-10-04	SHOW	Fajar Sang Idola	5647fajar-sang-idola
+5193	2019-10-05	BIRTHDAY	Shani Indira Natio	5636shani-indira-natio
+5205	2019-10-06	SHOW	Pajama Drive	5648pajama-drive
+5206	2019-10-06	SHOW	Saka Agari	5649saka-agari
+5194	2019-10-07	BIRTHDAY	Shalza Grasita	5637shalza-grasita
+5211	2019-10-08	SHOW	Fajar Sang Idola	5654fajar-sang-idola
+5212	2019-10-09	SHOW	Saka Agari	5655saka-agari
+5213	2019-10-10	SHOW	Tunas di Balik Seragam	5656tunas-di-balik-seragam
+5214	2019-10-11	SHOW	Fajar Sang Idola	5657fajar-sang-idola
+5195	2019-10-12	BIRTHDAY	Amirah Fatin	5638amirah-fatin
+5215	2019-10-12	SHOW	Pajama Drive	5658pajama-drive
+5216	2019-10-12	SHOW	Tunas di Balik Seragam	5659tunas-di-balik-seragam
+5217	2019-10-13	SHOW	Saka Agari	5660saka-agari
+5218	2019-10-13	SHOW	Tunas di Balik Seragam	5661tunas-di-balik-seragam
+5220	2019-10-15	SHOW	Pajama Drive	5663pajama-drive
+5221	2019-10-16	SHOW	Saka Agari	5664saka-agari
+5196	2019-10-17	BIRTHDAY	Eve Antoinette Ichwan	5639eve-antoinette-ichwan
+5222	2019-10-17	SHOW	Fajar Sang Idola	5665fajar-sang-idola
+5197	2019-10-18	BIRTHDAY	Nurhayati	5640nurhayati
+5223	2019-10-18	SHOW	Pajama Drive	5666pajama-drive
+5224	2019-10-19	SHOW	Tunas di Balik Seragam	5667tunas-di-balik-seragam
+5225	2019-10-19	SHOW	Fajar Sang Idola	5668fajar-sang-idola
+5226	2019-10-20	SHOW	Pajama Drive	5669pajama-drive
+5227	2019-10-20	SHOW	Tunas di Balik Seragam	5670tunas-di-balik-seragam
+5229	2019-10-22	SHOW	Saka Agari	5672saka-agari
+5198	2019-10-23	BIRTHDAY	Lulu Salsabila	5641lulu-salsabila
+5230	2019-10-23	SHOW	Fajar Sang Idola	5673fajar-sang-idola
+5231	2019-10-24	SHOW	Tunas di Balik Seragam	5674tunas-di-balik-seragam
+5232	2019-10-25	SHOW	Saka Agari	5675saka-agari
+5233	2019-10-26	SHOW	Tunas di Balik Seragam	5676tunas-di-balik-seragam
+5234	2019-10-26	SHOW	Fajar Sang Idola	5677fajar-sang-idola
+5235	2019-10-27	SHOW	Pajama Drive	5678pajama-drive
+5236	2019-10-27	SHOW	Fajar Sang Idola	5679fajar-sang-idola
+5199	2019-10-28	BIRTHDAY	Michelle Christo Kusnadi	5642michelle-christo-kusnadi
+5240	2019-10-29	SHOW	Tunas di Balik Seragam	5683tunas-di-balik-seragam
+5241	2019-10-30	SHOW	Pajama Drive	5684pajama-drive
+5242	2019-10-31	SHOW	Tunas di Balik Seragam	5685tunas-di-balik-seragam
+5243	2019-11-01	SHOW	Saka Agari	5686saka-agari
+5244	2019-11-02	SHOW	Fajar Sang Idola	5687fajar-sang-idola
+5245	2019-11-02	SHOW	Pajama Drive	5688pajama-drive
+5246	2019-11-03	SHOW	Fajar Sang Idola	5689fajar-sang-idola
+5247	2019-11-03	SHOW	Saka Agari	5690saka-agari
+5252	2019-11-03	BIRTHDAY	Reva Adriana	5695reva-adriana
+5256	2019-11-05	SHOW	Pajama Drive	5699pajama-drive
+5257	2019-11-06	SHOW	Fajar Sang Idola	5700fajar-sang-idola
+5258	2019-11-07	SHOW	Saka Agari	5701saka-agari
+5253	2019-11-08	BIRTHDAY	Viona Fadrin	5696viona-fadrin
+5259	2019-11-08	SHOW	Tunas di Balik Seragam	5702tunas-di-balik-seragam
+5260	2019-11-09	SHOW	Saka Agari	5703saka-agari
+5261	2019-11-09	SHOW	Fajar Sang Idola	5704fajar-sang-idola
+5254	2019-11-10	BIRTHDAY	Keisya Ramadhani	5697keisya-ramadhani
+5265	2019-11-10	SHOW	Fajar Sang Idola	5708fajar-sang-idola
+5266	2019-11-10	SHOW	Tunas di Balik Seragam	5709tunas-di-balik-seragam
+5267	2019-11-12	SHOW	Tunas di Balik Seragam	5710tunas-di-balik-seragam
+5268	2019-11-13	SHOW	Saka Agari	5711saka-agari
+5269	2019-11-14	SHOW	Fajar Sang Idola	5712fajar-sang-idola
+5270	2019-11-15	SHOW	Pajama Drive	5713pajama-drive
+5271	2019-11-16	SHOW	Saka Agari	5714saka-agari
+5272	2019-11-16	SHOW	Fajar Sang Idola	5715fajar-sang-idola
+5273	2019-11-17	SHOW	Saka Agari	5716saka-agari
+5274	2019-11-17	SHOW	Tunas di Balik Seragam	5717tunas-di-balik-seragam
+5277	2019-11-19	SHOW	Pajama Drive	5720pajama-drive
+5278	2019-11-20	SHOW	Tunas di Balik Seragam	5721tunas-di-balik-seragam
+5279	2019-11-21	SHOW	Saka Agari	5722saka-agari
+5255	2019-11-22	BIRTHDAY	Devytha Maharani	5698devytha-maharani
+5280	2019-11-22	SHOW	Fajar Sang Idola	5723fajar-sang-idola
+5281	2019-11-23	SHOW	Saka Agari	5724saka-agari
+5282	2019-11-23	SHOW	Tunas di Balik Seragam	5725tunas-di-balik-seragam
+5283	2019-11-24	SHOW	Fajar Sang Idola	5726fajar-sang-idola
+5284	2019-11-24	SHOW	Saka Agari	5727saka-agari
+5285	2019-11-26	SHOW	Tunas di Balik Seragam	5728tunas-di-balik-seragam
+5286	2019-11-27	SHOW	Saka Agari	5729saka-agari
+5287	2019-11-28	SHOW	Fajar Sang Idola	5730fajar-sang-idola
+5249	2019-11-30	EVENT	Hasil Akhir Pemilihan Member Single Original JKT48 & Wisuda Kelopak-kelopak Bunga Sakura (Platinum)	5692hasil-akhir-pemilihan-member-single-original-jkt48-wisuda-kelopakkelopak-bunga-sakura-platinum
+5250	2019-11-30	EVENT	Hasil Akhir Pemilihan Member Single Original JKT48 & Wisuda Kelopak-kelopak Bunga Sakura (Gold)	5693hasil-akhir-pemilihan-member-single-original-jkt48-wisuda-kelopakkelopak-bunga-sakura-gold
+5251	2019-11-30	EVENT	Hasil Akhir Pemilihan Member Single Original JKT48 & Wisuda Kelopak-kelopak Bunga Sakura (Silver)	5694hasil-akhir-pemilihan-member-single-original-jkt48-wisuda-kelopakkelopak-bunga-sakura-silver
+5292	2019-12-03	SHOW	Saka Agari	5735saka-agari
+5293	2019-12-04	SHOW	Tunas di Balik Seragam	5736tunas-di-balik-seragam
+5294	2019-12-05	SHOW	Pajama Drive	5737pajama-drive
+5300	2019-12-05	BIRTHDAY	Angelina Christy	5743angelina-christy
+5295	2019-12-06	SHOW	Tunas di Balik Seragam	5738tunas-di-balik-seragam
+5296	2019-12-07	SHOW	Saka Agari	5739saka-agari
+5297	2019-12-07	SHOW	Tunas di Balik Seragam	5740tunas-di-balik-seragam
+5298	2019-12-08	SHOW	Fajar Sang Idola	5741fajar-sang-idola
+5299	2019-12-08	SHOW	Tunas di Balik Seragam	5742tunas-di-balik-seragam
+5309	2019-12-10	SHOW	Fajar Sang Idola	5752fajar-sang-idola
+5310	2019-12-11	SHOW	Saka Agari	5753saka-agari
+5311	2019-12-12	SHOW	Fajar Sang Idola	5754fajar-sang-idola
+5312	2019-12-13	SHOW	Tunas di Balik Seragam	5755tunas-di-balik-seragam
+5313	2019-12-14	SHOW	Pajama Drive	5756pajama-drive
+5314	2019-12-14	SHOW	Pajama Drive	5757pajama-drive
+5319	2019-12-14	GENERAL	HUT TRANSTV - TRANS Studio Cibubur	5762hut-transtv-trans-studio-cibubur
+5315	2019-12-15	SHOW	Romansa Sang Gadis	5758romansa-sang-gadis
+5316	2019-12-15	SHOW	Saka Agari	5759saka-agari
+5321	2019-12-17	SHOW	Pajama Drive	5764pajama-drive
+5322	2019-12-18	SHOW	Fajar Sang Idola	5765fajar-sang-idola
+5288	2019-12-22	EVENT	JKT48 8th Anniversary Concert (Platinum)	5731jkt48-8th-anniversary-concert-platinum
+5289	2019-12-22	EVENT	JKT48 8th Anniversary Concert (Gold)	5732jkt48-8th-anniversary-concert-gold
+5290	2019-12-22	EVENT	JKT48 8th Anniversary Concert (Silver)	5733jkt48-8th-anniversary-concert-silver
+5301	2019-12-25	BIRTHDAY	Maria Genoveva Natalia Desy Purnamasari Gunawan	5744maria-genoveva-natalia-desy-purnamasari-gunawan
+5326	2019-12-26	SHOW	Saka Agari	5769saka-agari
+5327	2019-12-27	SHOW	Pajama Drive	5770pajama-drive
+5328	2019-12-28	SHOW	Tunas di Balik Seragam	5771tunas-di-balik-seragam
+5329	2019-12-28	SHOW	Fajar Sang Idola	5772fajar-sang-idola
+5302	2019-12-29	BIRTHDAY	Nabila Fitriana	5745nabila-fitriana
+5330	2019-12-29	SHOW	Saka Agari	5773saka-agari
+5331	2019-12-29	SHOW	Tunas di Balik Seragam	5774tunas-di-balik-seragam
+5339	2019-12-31	GENERAL	Blockbuster Viva JKT48 - MNCTV	5782blockbuster-viva-jkt48-mnctv
+5332	2020-01-01	BIRTHDAY	Melati Putri Rahel Sesilia	5775melati-putri-rahel-sesilia
+5341	2020-01-04	SHOW	Pajama Drive	5784pajama-drive
+5342	2020-01-04	SHOW	Fajar Sang Idola	5785fajar-sang-idola
+5333	2020-01-05	BIRTHDAY	Aninditha Rahma Cahyadi	5776aninditha-rahma-cahyadi
+5334	2020-01-05	BIRTHDAY	Diani Amalia Ramadhani	5777diani-amalia-ramadhani
+5343	2020-01-05	SHOW	Fajar Sang Idola	5786fajar-sang-idola
+5344	2020-01-05	SHOW	Saka Agari	5787saka-agari
+5335	2020-01-06	BIRTHDAY	Amanina Afiqah	5778amanina-afiqah
+5346	2020-01-07	SHOW	Pajama Drive	5789pajama-drive
+5355	2020-01-07	GENERAL	Ini Talk Show - NET TV (Frieska)	5798ini-talk-show-net-tv-frieska
+5347	2020-01-08	SHOW	Saka Agari	5790saka-agari
+5348	2020-01-09	SHOW	Fajar Sang Idola	5791fajar-sang-idola
+5361	2020-01-09	GENERAL	Opera van Java (Desy)	5804opera-van-java-desy
+5349	2020-01-10	SHOW	Pajama Drive	5792pajama-drive
+5356	2020-01-10	GENERAL	Konser Luar Biasa: Indonesian Soccer Awards - Indosiar (Live)	5799konser-luar-biasa-indonesian-soccer-awards-indosiar-live
+5350	2020-01-11	SHOW	Fajar Sang Idola	5793fajar-sang-idola
+5351	2020-01-11	SHOW	Saka Agari	5794saka-agari
+5352	2020-01-12	SHOW	Saka Agari	5795saka-agari
+5353	2020-01-12	SHOW	Fajar Sang Idola	5796fajar-sang-idola
+5367	2020-01-13	GENERAL	Ini Talk Show - NET TV (Desy)	5810ini-talk-show-net-tv-desy
+5357	2020-01-14	SHOW	Saka Agari	5800saka-agari
+5358	2020-01-15	SHOW	Pajama Drive	5801pajama-drive
+5336	2020-01-16	BIRTHDAY	Feni Fitriyanti	5779feni-fitriyanti
+5359	2020-01-16	SHOW	Fajar Sang Idola	5802fajar-sang-idola
+5360	2020-01-17	SHOW	Saka Agari	5803saka-agari
+5363	2020-01-18	SHOW	Sekarang Sedang Jatuh Cinta	5806sekarang-sedang-jatuh-cinta
+5364	2020-01-18	SHOW	Fajar Sang Idola	5807fajar-sang-idola
+5365	2020-01-19	SHOW	Pajama Drive	5808pajama-drive
+5366	2020-01-19	SHOW	Saka Agari	5809saka-agari
+5369	2020-01-21	SHOW	Pajama Drive	5812pajama-drive
+5370	2020-01-22	SHOW	Fajar Sang Idola	5813fajar-sang-idola
+5371	2020-01-23	SHOW	Saka Agari	5814saka-agari
+5373	2020-01-24	SHOW	Pajama Drive	5816pajama-drive
+5374	2020-01-25	SHOW	Fajar Sang Idola	5817fajar-sang-idola
+5375	2020-01-25	SHOW	Saka Agari	5818saka-agari
+5378	2020-01-28	SHOW	Fajar Sang Idola	5821fajar-sang-idola
+5379	2020-01-29	SHOW	Pajama Drive	5822pajama-drive
+5380	2020-01-30	SHOW	Saka Agari	5823saka-agari
+5381	2020-01-31	SHOW	Fajar Sang Idola	5824fajar-sang-idola
+5382	2020-02-01	SHOW	Saka Agari	5825saka-agari
+5383	2020-02-01	SHOW	Pajama Drive	5826pajama-drive
+5384	2020-02-02	SHOW	Saka Agari	5827saka-agari
+5385	2020-02-02	SHOW	Fajar Sang Idola	5828fajar-sang-idola
+5386	2020-02-03	BIRTHDAY	Febi Komaril	5829febi-komaril
+5387	2020-02-04	BIRTHDAY	Fiony Alveria	5830fiony-alveria
+5393	2020-02-04	SHOW	Pajama Drive	5836pajama-drive
+5394	2020-02-05	SHOW	Fajar Sang Idola	5837fajar-sang-idola
+5395	2020-02-06	SHOW	Saka Agari	5838saka-agari
+5396	2020-02-07	SHOW	Fajar Sang Idola	5839fajar-sang-idola
+5397	2020-02-08	SHOW	Saka Agari	5840saka-agari
+5398	2020-02-08	SHOW	Pajama Drive	5841pajama-drive
+5399	2020-02-09	SHOW	Fajar Sang Idola	5842fajar-sang-idola
+5400	2020-02-09	SHOW	Saka Agari	5843saka-agari
+5408	2020-02-10	GENERAL	Tonight Show - NET TV	5851tonight-show-net-tv
+5401	2020-02-11	SHOW	Saka Agari	5844saka-agari
+5402	2020-02-12	SHOW	Pajama Drive	5845pajama-drive
+5388	2020-02-13	BIRTHDAY	Freya Jayawardana	5831freya-jayawardana
+5403	2020-02-13	SHOW	Fajar Sang Idola	5846fajar-sang-idola
+5376	2020-02-14	EVENT	Konser KIII VS KIII	5819konser-kiii-vs-kiii
+5404	2020-02-15	SHOW	Fajar Sang Idola	5847fajar-sang-idola
+5405	2020-02-15	SHOW	Pajama Drive	5848pajama-drive
+5406	2020-02-16	SHOW	Pajama Drive	5849pajama-drive
+5407	2020-02-16	SHOW	Saka Agari	5850saka-agari
+5389	2020-02-17	BIRTHDAY	Febrina Diponegoro	5832febrina-diponegoro
+5410	2020-02-18	SHOW	Fajar Sang Idola	5853fajar-sang-idola
+5419	2020-02-18	GENERAL	Ini Baru Empat Mata - Trans7	5862ini-baru-empat-mata-trans7
+5411	2020-02-19	SHOW	Saka Agari	5854saka-agari
+5412	2020-02-20	SHOW	Fajar Sang Idola	5855fajar-sang-idola
+5413	2020-02-21	SHOW	Pajama Drive	5856pajama-drive
+5414	2020-02-22	SHOW	Saka Agari	5857saka-agari
+5415	2020-02-22	SHOW	Fajar Sang Idola	5858fajar-sang-idola
+5390	2020-02-23	BIRTHDAY	Ratu Vienny Fitrilya	5833ratu-vienny-fitrilya
+5416	2020-02-23	SHOW	Pajama Drive	5859pajama-drive
+5417	2020-02-23	SHOW	Saka Agari	5860saka-agari
+5391	2020-02-24	BIRTHDAY	Fransisca Saraswati	5834fransisca-saraswati
+5422	2020-02-25	SHOW	Pajama Drive	5865pajama-drive
+5392	2020-02-26	BIRTHDAY	Febriola Sinambela	5835febriola-sinambela
+5423	2020-02-26	SHOW	Saka Agari	5866saka-agari
+5424	2020-02-27	SHOW	Fajar Sang Idola	5867fajar-sang-idola
+5425	2020-02-28	SHOW	Matahari Milikku	5868matahari-milikku
+5426	2020-03-01	SHOW	Saka Agari	5869saka-agari
+5427	2020-03-01	SHOW	Matahari Milikku	5870matahari-milikku
+5432	2020-03-01	BIRTHDAY	Chalista Ellysia	5875chalista-ellysia
+5428	2020-03-03	SHOW	Saka Agari	5871saka-agari
+5429	2020-03-04	SHOW	Fajar Sang Idola	5872fajar-sang-idola
+5433	2020-03-04	BIRTHDAY	Frieska Anastasia Laksani	5876frieska-anastasia-laksani
+5430	2020-03-05	SHOW	Matahari Milikku	5873matahari-milikku
+5448	2020-03-05	GENERAL	Opera van Java - Trans7 (Live)	5891opera-van-java-trans7-live
+5431	2020-03-06	SHOW	Saka Agari	5874saka-agari
+5443	2020-03-07	SHOW	Matahari Milikku	5886matahari-milikku
+5444	2020-03-07	SHOW	Fajar Sang Idola	5887fajar-sang-idola
+5445	2020-03-08	SHOW	Fajar Sang Idola	5888fajar-sang-idola
+5446	2020-03-08	SHOW	Saka Agari	5889saka-agari
+5449	2020-03-10	SHOW	Pajama Drive	5892pajama-drive
+5450	2020-03-11	SHOW	Fajar Sang Idola	5893fajar-sang-idola
+5451	2020-03-12	SHOW	Saka Agari	5894saka-agari
+5452	2020-03-13	SHOW	Fajar Sang Idola	5895fajar-sang-idola
+5453	2020-03-14	SHOW	Saka Agari	5896saka-agari
+5454	2020-03-14	SHOW	Matahari Milikku	5897matahari-milikku
+5461	2020-03-14	GENERAL	Uang Kaget untuk Nikah Gratis - GTV	5904uang-kaget-untuk-nikah-gratis-gtv
+5455	2020-03-15	SHOW	Saka Agari	5898saka-agari
+5456	2020-03-15	SHOW	Fajar Sang Idola	5899fajar-sang-idola
+5434	2020-03-18	BIRTHDAY	Beby Chaesara Anadila	5877beby-chaesara-anadila
+5435	2020-03-18	BIRTHDAY	Riska Amelia Putri	5878riska-amelia-putri
+5436	2020-03-19	BIRTHDAY	Rona Anggreani	5879rona-anggreani
+5437	2020-03-19	BIRTHDAY	Fidly Immanda Azzahra	5880fidly-immanda-azzahra
+5438	2020-03-20	BIRTHDAY	Indah Cahya	5881indah-cahya
+5439	2020-03-23	BIRTHDAY	Aiko Harumi	5882aiko-harumi
+5440	2020-03-26	BIRTHDAY	Caithlyn Gwyneth	5883caithlyn-gwyneth
+5441	2020-03-27	BIRTHDAY	Umega Maulana	5884umega-maulana
+5462	2020-04-04	BIRTHDAY	Flora Shafiq	5905flora-shafiq
+2084	2020-04-11	BIRTHDAY	Gabriela Margareth	5906gabriela-margareth
+2841	2020-04-18	BIRTHDAY	Eriena Kartika	5907eriena-kartika
+2920	2020-04-20	BIRTHDAY	Jesslyn Callista	5908jesslyn-callista
+3034	2020-05-10	BIRTHDAY	Adriani Elisabeth	5909adriani-elisabeth
+3344	2020-05-12	BIRTHDAY	Ariella Calista Ichwan	5910ariella-calista-ichwan
+5463	2020-05-14	BIRTHDAY	Aurel Mayori	5911aurel-mayori
+5464	2020-05-14	BIRTHDAY	Kandiya Rafa Maulidita	5912kandiya-rafa-maulidita
+5465	2020-05-16	BIRTHDAY	Azizi Asadel	5913azizi-asadel
+5466	2020-05-19	BIRTHDAY	Putri Elzahra	5914putri-elzahra
+5467	2020-05-22	BIRTHDAY	Gabriella Stevany	5915gabriella-stevany
+5468	2020-06-07	BIRTHDAY	Shinta Devi	5916shinta-devi
+5469	2020-06-08	BIRTHDAY	Jinan Safa Safira	5917jinan-safa-safira
+5470	2020-06-09	BIRTHDAY	Cindy Nugroho	5918cindy-nugroho
+5471	2020-06-15	BIRTHDAY	Helisma Putri	5919helisma-putri
+5472	2020-06-16	BIRTHDAY	Anastasya Narwastu Tety Handuran	5920anastasya-narwastu-tety-handuran
+5520	2020-06-18	GENERAL	Live Chat - RCTI+	5969live-chat-rcti
+5473	2020-06-22	BIRTHDAY	Nabila Gusmarlia	5921nabila-gusmarlia
+5521	2020-06-25	GENERAL	Live Chat - RCTI+	5970live-chat-rcti
+5474	2020-06-30	BIRTHDAY	Gita Sekar Andarini	5922gita-sekar-andarini
+5476	2020-07-01	BIRTHDAY	Nyimas Ratu Rafa	5924nyimas-ratu-rafa
+5522	2020-07-02	GENERAL	Live Chat - RCTI+	5971live-chat-rcti
+5486	2020-07-05	GENERAL	Valkyrie48 - Live Streaming Facebook	5934valkyrie48-live-streaming-facebook
+5523	2020-07-09	GENERAL	Live Chat - RCTI+	5972live-chat-rcti
+5477	2020-07-12	BIRTHDAY	Mutiara Azzahra	5925mutiara-azzahra
+5478	2020-07-14	BIRTHDAY	Reva Fidela	5926reva-fidela
+5524	2020-07-16	GENERAL	Live Chat - RCTI+	5973live-chat-rcti
+5479	2020-07-17	BIRTHDAY	Gabriel Angelina	5927gabriel-angelina
+5480	2020-07-18	BIRTHDAY	Sania Julia Montolalu	5928sania-julia-montolalu
+5517	2020-07-21	GENERAL	Audisi Generasi 10 JKT48 - RCTI+ (Ariel, Desy, Frieska)	5966audisi-generasi-10-jkt48-rcti-ariel-desy-frieska
+5534	2020-07-22	GENERAL	Live Chat - RCTI+	5985live-chat-rcti
+5518	2020-07-23	GENERAL	Audisi Generasi 10 JKT48 - RCTI+ (Desy & Shani)	5967audisi-generasi-10-jkt48-rcti-desy-shani
+5481	2020-07-26	BIRTHDAY	Cornelia Vanisa	5929cornelia-vanisa
+5482	2020-07-26	BIRTHDAY	Kathrina Irene	5930kathrina-irene
+5535	2020-07-29	GENERAL	Live Chat - RCTI+	5986live-chat-rcti
+5536	2020-07-30	GENERAL	Opera van Java - Trans7 (Desy)	5987opera-van-java-trans7-desy
+5537	2020-08-02	GENERAL	Valkyrie48 (Facebook Live)	5988valkyrie48-facebook-live
+5528	2020-08-05	BIRTHDAY	Zahra Nur	5978zahra-nur
+5541	2020-08-05	GENERAL	Live Chat - RCTI+	5992live-chat-rcti
+5542	2020-08-05	GENERAL	Anak Musix RCTI+ (Acoustic)	5993anak-musix-rcti-acoustic
+5543	2020-08-06	GENERAL	Audisi Generasi 10 JKT48 - RCTI+	5994audisi-generasi-10-jkt48-rcti
+5527	2020-08-08	BIRTHDAY	Ni Made Ayu Vania Aurellia	5977ni-made-ayu-vania-aurellia
+5552	2020-08-12	GENERAL	Live Chat - RCTI+	6003live-chat-rcti
+5553	2020-08-13	GENERAL	Audisi Generasi 10 JKT48 - RCTI+	6004audisi-generasi-10-jkt48-rcti
+5529	2020-08-16	BIRTHDAY	Salma Annisa	5979salma-annisa
+5556	2020-08-16	GENERAL	Valkyrie48 (Facebook Live)	6007valkyrie48-facebook-live
+5530	2020-08-17	BIRTHDAY	Christabel Jocelyn	5980christabel-jocelyn
+5531	2020-08-18	BIRTHDAY	Dhea Angelia	5981dhea-angelia
+5557	2020-08-19	GENERAL	Live Chat - RCTI+	6008live-chat-rcti
+5558	2020-08-20	GENERAL	Audisi Generasi 10 JKT48 - RCTI+	6009audisi-generasi-10-jkt48-rcti
+5533	2020-08-21	BIRTHDAY	Tan Zhi Hui Celine	5984tan-zhi-hui-celine
+5579	2020-08-24	GENERAL	Dahsyatnya 2020 - RCTI (Melati)	6030dahsyatnya-2020-rcti-melati
+5561	2020-08-26	GENERAL	Live Chat - RCTI+	6012live-chat-rcti
+5562	2020-08-27	GENERAL	Audisi Generasi 10 JKT48 - RCTI+	6013audisi-generasi-10-jkt48-rcti
+5581	2020-08-29	GENERAL	Esports Star Indonesia - GTV	6032esports-star-indonesia-gtv
+5532	2020-08-31	BIRTHDAY	Shania Gracia	5983shania-gracia
+5584	2020-09-03	GENERAL	Live Chat - RCTI+	6035live-chat-rcti
+5563	2020-09-06	BIRTHDAY	Gabryela Marcelina	6014gabryela-marcelina
+5586	2020-09-10	GENERAL	Live Chat - RCTI+	6037live-chat-rcti
+5589	2020-09-12	GENERAL	JKT48 Theater 8th Anniversary (Talk Show RCTI+)	6040jkt48-theater-8th-anniversary-talk-show-rcti
+5564	2020-09-13	BIRTHDAY	Cindy Hapsari	6015cindy-hapsari
+5565	2020-09-13	BIRTHDAY	Rinanda Syahputri	6016rinanda-syahputri
+5593	2020-09-16	GENERAL	Live SHOWROOM (Frieska, Gracia, Celine)	6044live-showroom-frieska-gracia-celine
+5592	2020-09-17	GENERAL	Live Chat - RCTI+	6043live-chat-rcti
+5594	2020-09-17	GENERAL	Live SHOWROOM (Fiony, Shani, Feni)	6047live-showroom-fiony-shani-feni
+5595	2020-09-20	GENERAL	Kilau Konser Betrand Peto extended version	6050kilau-konser-betrand-peto-extended-version
+5604	2020-09-20	GENERAL	JKT48 X-Files	6059jkt48-xfiles
+5607	2020-09-22	GENERAL	Dahsyatnya 2020 - RCTI (Desy & Sisca)	6062dahsyatnya-2020-rcti-desy-sisca
+5566	2020-09-23	BIRTHDAY	Jessica Chandra	6017jessica-chandra
+5567	2020-09-23	BIRTHDAY	Nadila Cindi Wantari	6018nadila-cindi-wantari
+5568	2020-09-24	BIRTHDAY	Yessica Tamara	6019yessica-tamara
+5605	2020-09-25	GENERAL	JKT48 X-Files	6060jkt48-xfiles
+5608	2020-09-26	GENERAL	JKT48 Battle Night - RCTI+	6063jkt48-battle-night-rcti
+5606	2020-09-27	GENERAL	JKT48 X-Files	6061jkt48-xfiles
+5652	2020-09-27	GENERAL	Valkyrie48 (Facebook Live)	6108valkyrie48-facebook-live
+5614	2020-10-01	GENERAL	Taklukan Tantangan - RCTI+	6069taklukan-tantangan-rcti
+5615	2020-10-02	GENERAL	JKT48 Battle Night - RCTI+	6070jkt48-battle-night-rcti
+5617	2020-10-03	GENERAL	The Sultan - SCTV (Sisca)	6072the-sultan-sctv-sisca
+5653	2020-10-04	GENERAL	Valkyrie48 (Facebook Live)	6109valkyrie48-facebook-live
+5609	2020-10-05	BIRTHDAY	Shani Indira Natio	6064shani-indira-natio
+5618	2020-10-07	GENERAL	Mabar Yuk! - NET (Desy)	6073mabar-yuk-net-desy
+5625	2020-10-08	GENERAL	Taklukan Tantangan - RCTI+	6080taklukan-tantangan-rcti
+5626	2020-10-09	GENERAL	JKT48 Battle Night - RCTI+	6081jkt48-battle-night-rcti
+5654	2020-10-11	GENERAL	Valkyrie48 (Facebook Live)	6110valkyrie48-facebook-live
+5610	2020-10-12	BIRTHDAY	Amirah Fatin	6065amirah-fatin
+5632	2020-10-15	GENERAL	Taklukan Tantangan - RCTI+	6087taklukan-tantangan-rcti
+5611	2020-10-17	BIRTHDAY	Eve Antoinette Ichwan	6066eve-antoinette-ichwan
+5612	2020-10-18	BIRTHDAY	Nurhayati	6067nurhayati
+5655	2020-10-18	GENERAL	Valkyrie48 (Facebook Live)	6111valkyrie48-facebook-live
+5640	2020-10-19	GENERAL	JKT48 Battle Night - RCTI+	6095jkt48-battle-night-rcti
+5613	2020-10-23	BIRTHDAY	Lulu Salsabila	6068lulu-salsabila
+5642	2020-10-23	GENERAL	Comedy Lab - KompasTV (Sisca)	6097comedy-lab-kompastv-sisca
+5643	2020-10-23	GENERAL	Taklukan Tantangan - RCTI+ (Melati)	6098taklukan-tantangan-rcti-melati
+5644	2020-10-24	GENERAL	Festival Kilau Raya 29 - MNCTV	6099festival-kilau-raya-29-mnctv
+5645	2020-10-25	GENERAL	Curhat Bersama Ruang Guru - MNCTV	6100curhat-bersama-ruang-guru-mnctv
+5656	2020-10-25	GENERAL	Valkyrie48 (Facebook Live)	6112valkyrie48-facebook-live
+5658	2020-10-31	EVENT	Team J "Fajar Sang Idola"	6114team-j-fajar-sang-idola-
+5657	2020-11-01	GENERAL	Valkyrie48 (Facebook Live)	6113valkyrie48-facebook-live
+5659	2020-11-01	EVENT	Team KIII "Saka Agari"	6116team-kiii-saka-agari
+5660	2020-11-02	GENERAL	JKT48 Battle Night - RCTI+	6117jkt48-battle-night-rcti
+5669	2020-11-03	GENERAL	Celebrities Esports Fun Match - RCTI+ (Valkyrie48)	6126celebrities-esports-fun-match-rcti-valkyrie48
+5665	2020-11-05	EVENT	Academy Class A "Pajama Drive"	6122academy-class-a-pajama-drive
+5666	2020-11-06	EVENT	Team T "Fly! Team T"	6123team-t-fly-team-t
+5667	2020-11-07	EVENT	Team KIII "Saka Agari"	6124team-kiii-saka-agari
+5650	2020-11-08	BIRTHDAY	Viona Fadrin	6105viona-fadrin
+5668	2020-11-08	EVENT	Team J "Fajar Sang Idola"	6125team-j-fajar-sang-idola
+5670	2020-11-09	GENERAL	JKT48 Battle Night - RCTI+	6127jkt48-battle-night-rcti
+5651	2020-11-10	BIRTHDAY	Keisya Ramadhani	6106keisya-ramadhani
+5671	2020-11-12	EVENT	Team J "Fajar Sang Idola"	6128team-j-fajar-sang-idola
+5672	2020-11-13	EVENT	Team KIII "Saka Agari"	6129team-kiii-saka-agari
+5676	2020-11-13	GENERAL	Insert	6133insert
+5677	2020-11-13	GENERAL	Mabar Yuk! - NET TV (JKT48 Acoustic)	6134mabar-yuk-net-tv-jkt48-acoustic
+5673	2020-11-14	EVENT	Academy Class A "Pajama Drive"	6130academy-class-a-pajama-drive
+5674	2020-11-14	EVENT	Team T "Fly! Team T"	6131team-t-fly-team-t
+5675	2020-11-15	EVENT	Team KIII "Cara Meminum Ramune"	6132team-kiii-cara-meminum-ramune
+5679	2020-11-16	GENERAL	JKT48 Battle Night - RCTI+	6136jkt48-battle-night-rcti
+5685	2020-11-17	GENERAL	Malam Malam - NET TV (Desy)	6142malam-malam-net-tv-desy
+5686	2020-11-18	GENERAL	Indonesia Esports Awards 2020	6143indonesia-esports-awards-2020
+5681	2020-11-20	EVENT	Academy Class A "Pajama Drive"	6138academy-class-a-pajama-drive
+5682	2020-11-21	EVENT	Team KIII "Cara Meminum Ramune"	6139team-kiii-cara-meminum-ramune
+5683	2020-11-22	EVENT	Team T "Fly! Team T"	6140team-t-fly-team-t
+5684	2020-11-22	EVENT	Team J "Fajar Sang Idola"	6141team-j-fajar-sang-idola
+5699	2020-11-23	GENERAL	Tonight Show - NET TV (Sisca)	6156tonight-show-net-tv-sisca
+5700	2020-11-23	GENERAL	JKT48 Battle Night - RCTI+	6157jkt48-battle-night-rcti
+5702	2020-11-26	EVENT	Team KIII "Cara Meminum Ramune"	6159team-kiii-cara-meminum-ramune
+5703	2020-11-28	EVENT	Academy Class A "Pajama Drive"	6160academy-class-a-pajama-drive
+5704	2020-11-28	EVENT	Team J "Fajar Sang Idola"	6161team-j-fajar-sang-idola
+5705	2020-11-29	EVENT	Team T "Fly! Team T"	6162team-t-fly-team-t
+5706	2020-11-29	EVENT	Team KIII "Cara Meminum Ramune"	6163team-kiii-cara-meminum-ramune
+5708	2020-11-30	GENERAL	JKT48 Battle Night - RCTI+	6165jkt48-battle-night-rcti
+5709	2020-12-03	EVENT	Team J "Fajar Sang Idola"	6166team-j-fajar-sang-idola
+5710	2020-12-04	EVENT	Team KIII "Cara Meminum Ramune"	6167team-kiii-cara-meminum-ramune
+5711	2020-12-05	EVENT	Academy Class A "Pajama Drive"	6168academy-class-a-pajama-drive
+5712	2020-12-05	EVENT	Team KIII "Cara Meminum Ramune"	6169team-kiii-cara-meminum-ramune
+5716	2020-12-05	BIRTHDAY	Angelina Christy	6173angelina-christy
+5713	2020-12-06	EVENT	Team J "Fajar Sang Idola"	6170team-j-fajar-sang-idola
+5714	2020-12-06	EVENT	Team T "Fly! Team T"	6171team-t-fly-team-t
+5730	2020-12-07	GENERAL	JKT48 Battle Night - RCTI+	6187jkt48-battle-night-rcti
+5731	2020-12-10	EVENT	Team KIII "Cara Meminum Ramune"	6188team-kiii-cara-meminum-ramune
+5732	2020-12-11	EVENT	Team T "Fly! Team T"	6189team-t-fly-team-t
+5733	2020-12-12	EVENT	Academy Class A "Pajama Drive"	6190academy-class-a-pajama-drive
+5734	2020-12-12	EVENT	Team J "Fajar Sang Idola"	6191team-j-fajar-sang-idola
+5737	2020-12-12	GENERAL	The Sultan - SCTV (Zee & Afiqah)	6194the-sultan-sctv-zee-afiqah
+5735	2020-12-13	EVENT	Team KIII "Cara Meminum Ramune"	6192team-kiii-cara-meminum-ramune
+5736	2020-12-13	EVENT	Team T "Fly! Team T"	6193team-t-fly-team-t
+5738	2020-12-14	GENERAL	JKT48 Battle Night - RCTI+	6195jkt48-battle-night-rcti
+5743	2020-12-15	GENERAL	Taklukan Tantangan - RCTI+ (Fiony)	6204taklukan-tantangan-rcti-fiony
+5744	2020-12-15	GENERAL	CMC FM Radio Surabaya (Sisca)	6205cmc-fm-radio-surabaya-sisca
+5745	2020-12-16	GENERAL	DahSyatnya 2020 - RCTI	6206dahsyatnya-2020-rcti
+5746	2020-12-16	GENERAL	Road to Anniversary JKT48 SOL/LUNA - RCTI+	6207road-to-anniversary-jkt48-solluna-rcti
+5739	2020-12-19	EVENT	Academy Class A "Pajama Drive"	6200academy-class-a-pajama-drive
+5740	2020-12-19	EVENT	Team KIII "Cara Meminum Ramune"	6201team-kiii-cara-meminum-ramune
+5741	2020-12-20	EVENT	Team T "Fly! Team T"	6202team-t-fly-team-t
+5742	2020-12-20	EVENT	Team J "Fajar Sang Idola"	6203team-j-fajar-sang-idola
+5753	2020-12-22	GENERAL	Taklukan Tantangan - RCTI+ (Ara & Jinan)	6214taklukan-tantangan-rcti-ara-jinan
+5749	2020-12-23	EVENT	Team J "Fajar Sang Idola"	6210team-j-fajar-sang-idola
+5717	2020-12-25	BIRTHDAY	Maria Genoveva Natalia Desy Purnamasari Gunawan	6174maria-genoveva-natalia-desy-purnamasari-gunawan
+5747	2020-12-26	EVENT	Team T "Fly! Team T"	6208team-t-fly-team-t
+5748	2020-12-26	EVENT	Team KIII "Cara Meminum Ramune"	6209team-kiii-cara-meminum-ramune
+5750	2020-12-27	EVENT	Academy Class A "Pajama Drive"	6211academy-class-a-pajama-drive
+5751	2020-12-27	EVENT	Team J "Fajar Sang Idola"	6212team-j-fajar-sang-idola
+5718	2020-12-29	BIRTHDAY	Nabila Fitriana	6175nabila-fitriana
+5756	2021-01-02	GENERAL	Resolusi dalam Kreasi - MetroTV (Sisca)	6217resolusi-dalam-kreasi-metrotv-sisca
+5754	2021-01-03	SHOW	Pajama Drive	6215pajama-drive
+5755	2021-01-03	SHOW	Fajar Sang Idola	6216fajar-sang-idola
+5764	2021-01-05	BIRTHDAY	Aninditha Rahma Cahyadi	6225aninditha-rahma-cahyadi
+5765	2021-01-05	BIRTHDAY	Diani Amalia Ramadhani	6226diani-amalia-ramadhani
+5770	2021-01-05	GENERAL	Taklukan Tantangan - RCTI+	6231taklukan-tantangan-rcti
+5757	2021-01-06	SHOW	Cara Meminum Ramune	6218cara-meminum-ramune
+5766	2021-01-06	BIRTHDAY	Amanina Afiqah	6227amanina-afiqah
+5758	2021-01-07	SHOW	Fajar Sang Idola	6219fajar-sang-idola
+5759	2021-01-08	SHOW	Fly! Team T	6220fly-team-t
+5767	2021-01-08	BIRTHDAY	Adzana Shaliha	6228adzana-shaliha
+5760	2021-01-09	SHOW	Fajar Sang Idola	6221fajar-sang-idola
+5761	2021-01-09	SHOW	Pajama Drive	6222pajama-drive
+5768	2021-01-09	BIRTHDAY	Marsha Lenathea	6229marsha-lenathea
+5762	2021-01-10	SHOW	Cara Meminum Ramune	6223cara-meminum-ramune
+5763	2021-01-10	SHOW	Fly! Team T	6224fly-team-t
+5780	2021-01-13	GENERAL	Sobat Kepo (Gaby)	6243sobat-kepo-gaby
+5788	2021-01-15	GENERAL	Pop Academy - Indosiar	6251pop-academy-indosiar
+5769	2021-01-16	BIRTHDAY	Feni Fitriyanti	6230feni-fitriyanti
+5776	2021-01-16	SHOW	Cara Meminum Ramune	6239cara-meminum-ramune
+5777	2021-01-16	SHOW	Fajar Sang Idola	6240fajar-sang-idola
+5778	2021-01-17	SHOW	Pajama Drive	6241pajama-drive
+5779	2021-01-17	SHOW	Fly! Team T	6242fly-team-t
+5790	2021-01-17	GENERAL	Dari Jendela SMP Musical Concert - SCTV	6253dari-jendela-smp-musical-concert-sctv
+5791	2021-01-18	GENERAL	JKT48 Battle Night - RCTI+	6254jkt48-battle-night-rcti
+5792	2021-01-23	SHOW	Fajar Sang Idola	6255fajar-sang-idola
+5793	2021-01-23	SHOW	Pajama Drive	6256pajama-drive
+5794	2021-01-24	SHOW	Cara Meminum Ramune	6257cara-meminum-ramune
+5795	2021-01-24	SHOW	Fly! Team T	6258fly-team-t
+5797	2021-01-25	GENERAL	Pagi Pagi Ambyar - Trans TV	6260pagi-pagi-ambyar-trans-tv
+5796	2021-01-29	EVENT	JKT48 Acoustic Last Showcase	6259jkt48-acoustic-last-showcase
+5798	2021-01-30	SHOW	Fly! Team T	6261fly-team-t
+5799	2021-01-30	SHOW	Cara Meminum Ramune	6262cara-meminum-ramune
+5800	2021-01-31	SHOW	Pajama Drive	6263pajama-drive
+5801	2021-01-31	SHOW	Fajar Sang Idola	6264fajar-sang-idola
+5802	2021-02-05	SHOW	Pajama Drive	6265pajama-drive
+5803	2021-02-06	SHOW	Fly! Team T	6266fly-team-t
+5806	2021-02-06	EVENT	Nadila Graduation Special “Bel Terakhir Berbunyi”	6269nadila-graduation-special-bel-terakhir-berbunyi
+5804	2021-02-07	SHOW	Cara Meminum Ramune	6267cara-meminum-ramune
+5805	2021-02-07	SHOW	Fajar Sang Idola	6268fajar-sang-idola
+5807	2021-02-10	SHOW	Pajama Drive	6270pajama-drive
+5808	2021-02-11	SHOW	Fajar Sang Idola	6271fajar-sang-idola
+5809	2021-02-12	SHOW	Pajama Drive	6272pajama-drive
+5810	2021-02-13	SHOW	Fajar Sang Idola	6273fajar-sang-idola
+5813	2021-02-13	EVENT	Rona Graduation Special Show	6276rona-graduation-special-show
+5811	2021-02-14	SHOW	Cara Meminum Ramune	6274cara-meminum-ramune
+5812	2021-02-14	SHOW	Fly! Team T	6275fly-team-t
+5814	2021-02-17	SHOW	Cara Meminum Ramune	6277cara-meminum-ramune
+5815	2021-02-18	SHOW	Fly! Team T	6278fly-team-t
+5816	2021-02-19	SHOW	Fly! Team T	6279fly-team-t
+5817	2021-02-20	SHOW	Fajar Sang Idola	6280fajar-sang-idola
+5821	2021-02-20	EVENT	Frieska Graduation Special Show	6284frieska-graduation-special-show
+5818	2021-02-21	SHOW	Cara Meminum Ramune	6281cara-meminum-ramune
+5822	2021-02-21	EVENT	Beby Graduation Special Show	6285beby-graduation-special-show
+5819	2021-02-23	SHOW	Pajama Drive	6282pajama-drive
+5820	2021-02-24	SHOW	Fajar Sang Idola	6283fajar-sang-idola
+5823	2021-03-03	SHOW	Fly! Team T	6286fly-team-t
+5824	2021-03-04	SHOW	Fajar Sang Idola	6287fajar-sang-idola
+5825	2021-03-05	SHOW	Cara Meminum Ramune	6288cara-meminum-ramune
+5826	2021-03-06	SHOW	Fajar Sang Idola	6289fajar-sang-idola
+5827	2021-03-06	SHOW	Pajama Drive	6290pajama-drive
+5828	2021-03-07	SHOW	Fly! Team T	6291fly-team-t
+5829	2021-03-07	SHOW	Cara Meminum Ramune	6292cara-meminum-ramune
+5831	2021-03-11	SHOW	Pajama Drive	6294pajama-drive
+5832	2021-03-12	SHOW	Fly! Team T	6295fly-team-t
+5833	2021-03-13	SHOW	Cara Meminum Ramune	6296cara-meminum-ramune
+5834	2021-03-14	SHOW	Fajar Sang Idola	6297fajar-sang-idola
+5839	2021-03-16	GENERAL	Press Conference Single ke-22 "Cara Ceroboh untuk Mencinta"	6302press-conference-single-ke22-cara-ceroboh-untuk-mencinta
+5840	2021-03-17	GENERAL	Insert IG Live (Shani, Gaby)	6303insert-ig-live-shani-gaby
+5842	2021-03-17	GENERAL	Gen 98,7FM Instagram Live (Shani, Gaby)	6305gen-987fm-instagram-live-shani-gaby
+5835	2021-03-20	SHOW	Aturan Anti Cinta	6298aturan-anti-cinta
+5836	2021-03-20	SHOW	Aturan Anti Cinta	6299aturan-anti-cinta
+5837	2021-03-21	SHOW	Aturan Anti Cinta	6300aturan-anti-cinta
+5838	2021-03-21	SHOW	Aturan Anti Cinta	6301aturan-anti-cinta
+5851	2021-03-21	GENERAL	Lazada LIVE Fan Meet (Shani, Gracia)	6314lazada-live-fan-meet-shani-gracia
+5841	2021-03-22	GENERAL	GEMESH! Streaming @ GoPlay Live (Shani, Ariel)	6304gemesh-streaming-goplay-live-shani-ariel
+5848	2021-03-22	GENERAL	Insert Live I-Talk (Feni, Fiony)	6311insert-live-italk-feni-fiony
+5849	2021-03-24	GENERAL	Mabar! Valkyrie48 Streaming @ GoPlay Live (Celine, Mira)	6312mabar-valkyrie48-streaming-goplay-live-celine-mira
+5852	2021-03-24	GENERAL	Sonora 92,0FM Instagram Live Talk (Feni, Gracia)	6315sonora-920fm-instagram-live-talk-feni-gracia
+5853	2021-03-24	GENERAL	Gen 98,7FM Instagram Live (Gracia, Zee)	6316gen-987fm-instagram-live-gracia-zee
+5843	2021-03-25	SHOW	Aturan Anti Cinta	6306aturan-anti-cinta
+5850	2021-03-26	GENERAL	Bucin Streaming @ GoPlay Live (Gaby, Cindy)	6313bucin-streaming-goplay-live-gaby-cindy
+5854	2021-03-26	GENERAL	IDN Times Instagram live (Shani, Gracia)	6317idn-times-instagram-live-shani-gracia
+5844	2021-03-27	SHOW	Aturan Anti Cinta	6307aturan-anti-cinta
+5845	2021-03-27	SHOW	Gadis Gadis Remaja	6308gadis-gadis-remaja
+5846	2021-03-28	SHOW	Aturan Anti Cinta	6309aturan-anti-cinta
+5847	2021-03-28	SHOW	Gadis Gadis Remaja	6310gadis-gadis-remaja
+5855	2021-03-29	GENERAL	GEMESH! Streaming @ GoPlay Live (Ariel, Eve)	6318gemesh-streaming-goplay-live-ariel-eve
+5858	2021-03-29	GENERAL	Insert Live I-Talk (Anin, Zee)	6321insert-live-italk-anin-zee
+5859	2021-03-29	GENERAL	Lazada LIVE (Gracia)	6322lazada-live-gracia
+5856	2021-03-31	GENERAL	Mabar! Valkyrie48 Streaming @ GoPlay Live (Celine, Mira)	6319mabar-valkyrie48-streaming-goplay-live-celine-mira
+5860	2021-03-31	SHOW	Aturan Anti Cinta	6323aturan-anti-cinta
+5861	2021-04-01	SHOW	Gadis Gadis Remaja	6324gadis-gadis-remaja
+5857	2021-04-02	GENERAL	Bucin Streaming @ GoPlay Live (Gaby, Sisca)	6320bucin-streaming-goplay-live-gaby-sisca
+5864	2021-04-02	GENERAL	On Cam Everynight @ Youtube, Facebook, IG Live Tribun News (Shani, Gracia)	6327on-cam-everynight-youtube-facebook-ig-live-tribun-news-shani-gracia
+5862	2021-04-03	SHOW	Aturan Anti Cinta	6325aturan-anti-cinta
+5863	2021-04-03	SHOW	Gadis Gadis Remaja	6326gadis-gadis-remaja
+5872	2021-04-05	GENERAL	Brownis TransTV (7 members)	6335brownis-transtv-7-members
+5873	2021-04-05	GENERAL	Gemesh! Streaming @ GoPlay Live (Ariel, Olla)	6336gemesh-streaming-goplay-live-ariel-olla
+5876	2021-04-05	GENERAL	Insert Live I-Talk (Celine, Christy)	6339-insert-live-italk-celine-christy
+5865	2021-04-07	SHOW	Gadis Gadis Remaja	6328gadis-gadis-remaja
+5874	2021-04-07	GENERAL	Mabar! Valkyrie48 Streaming @ GoPlay Live (Mira, Ara)	6337mabar-valkyrie48-streaming-goplay-live-mira-ara
+5877	2021-04-07	GENERAL	Talk Show Pelajar Pancasila @ Youtube Cerdas Berkarakter Kemdikbud RI	6340talk-show-pelajar-pancasila-youtube-cerdas-berkarakter-kemdikbud-ri
+5878	2021-04-07	GENERAL	Gen 98,7FM Instagram Live (Ariel, Kathrina)	6341gen-987fm-instagram-live-ariel-kathrina
+5866	2021-04-08	SHOW	Aturan Anti Cinta	6329aturan-anti-cinta
+5867	2021-04-09	SHOW	Gadis Gadis Remaja	6330gadis-gadis-remaja
+5875	2021-04-09	GENERAL	Bucin Streaming @ GoPlay Live (Gaby, Chika)	6338bucin-streaming-goplay-live-gaby-chika
+5868	2021-04-10	SHOW	Gadis Gadis Remaja	6331gadis-gadis-remaja
+5869	2021-04-10	SHOW	Aturan Anti Cinta	6332aturan-anti-cinta
+5870	2021-04-11	SHOW	Gadis Gadis Remaja	6333gadis-gadis-remaja
+5871	2021-04-11	SHOW	Aturan Anti Cinta	6334aturan-anti-cinta
+5879	2021-04-12	GENERAL	Gemesh! Streaming @ GoPlay Live (Ariel, Freya)	6342gemesh-streaming-goplay-live-ariel-freya
+5882	2021-04-12	GENERAL	DahSyatnya 2021 @ RCTI (8 members)	6345dahsyatnya-2021-rcti-8-members
+5880	2021-04-14	GENERAL	Mabar! Valkyrie48 Streaming @ GoPlay Live (Mira, Ara)	6343mabar-valkyrie48-streaming-goplay-live-mira-ara
+5883	2021-04-14	EVENT	JKT48 Versus	6346jkt48-versus
+5884	2021-04-15	EVENT	Rumah Uma Showroom	6347rumah-uma-showroom
+5881	2021-04-16	GENERAL	Bucin Streaming @ GoPlay Live (Gaby, Gracia)	6344bucin-streaming-goplay-live-gaby-gracia
+5885	2021-04-16	EVENT	Share House 48	6348share-house-48
+5886	2021-04-17	EVENT	Valkyrie48 Assemble	6349valkyrie48-assemble
+5887	2021-04-17	EVENT	JKT48 Versus	6350jkt48-versus
+5888	2021-04-18	EVENT	The Quiz Show	6351the-quiz-show
+5889	2021-04-18	EVENT	Share House 48	6352share-house-48
+5890	2021-04-21	EVENT	JKT48 Versus	6353jkt48-versus
+5893	2021-04-22	EVENT	Rumah Uma Showroom	6357rumah-uma-showroom
+5891	2021-04-23	EVENT	Share House 48	6354share-house-48
+5894	2021-04-24	EVENT	The Quiz Show	6358the-quiz-show
+5896	2021-04-24	EVENT	JKT48 Versus	6360jkt48-versus
+5892	2021-04-25	EVENT	Valkyrie48 Assemble	6356valkyrie48-assemble
+5895	2021-04-25	EVENT	Share House 48	6359share-house-48
+5897	2021-04-28	EVENT	JKT48 Versus	6361jkt48-versus
+5898	2021-04-29	EVENT	Rumah Uma Showroom	6362rumah-uma-showroom
+5899	2021-04-30	EVENT	Share House 48	6363share-house-48
+5900	2021-05-01	EVENT	Valkyrie48 Assemble	6364valkyrie48-assemble
+5901	2021-05-01	EVENT	JKT48 Versus	6365jkt48-versus
+5902	2021-05-02	EVENT	The Quiz Show	6366the-quiz-show
+5903	2021-05-02	EVENT	Share House 48	6367share-house-48
+5904	2021-05-06	EVENT	JKT48 Versus	6368jkt48-versus
+5905	2021-05-07	EVENT	Share House 48	6369share-house-48
+5906	2021-05-08	EVENT	Rumah Uma Showroom	6370rumah-uma-showroom
+5907	2021-05-08	EVENT	JKT48 Versus	6371jkt48-versus
+5908	2021-05-09	EVENT	Valkyrie48 Assemble	6372valkyrie48-assemble
+5909	2021-05-09	EVENT	Share House 48	6373share-house-48
+5910	2021-05-18	SHOW	Gadis Gadis Remaja	6374gadis-gadis-remaja
+5911	2021-05-19	SHOW	Aturan Anti Cinta	6375aturan-anti-cinta
+5912	2021-05-21	SHOW	Gadis Gadis Remaja	6376gadis-gadis-remaja
+5913	2021-05-22	SHOW	Aturan Anti Cinta	6377aturan-anti-cinta
+5914	2021-05-22	SHOW	Gadis Gadis Remaja	6378gadis-gadis-remaja
+5915	2021-05-23	SHOW	Gadis Gadis Remaja	6379gadis-gadis-remaja
+5916	2021-05-23	SHOW	Aturan Anti Cinta	6380aturan-anti-cinta
+5917	2021-05-25	SHOW	Aturan Anti Cinta	6381aturan-anti-cinta
+5918	2021-05-26	SHOW	Gadis Gadis Remaja	6382gadis-gadis-remaja
+5919	2021-05-29	SHOW	Tunas di Balik Seragam	6383tunas-di-balik-seragam
+5920	2021-05-29	SHOW	Tunas di Balik Seragam	6384tunas-di-balik-seragam
+5921	2021-05-30	SHOW	Aturan Anti Cinta	6385aturan-anti-cinta
+5922	2021-05-30	SHOW	Gadis Gadis Remaja	6386gadis-gadis-remaja
+5923	2021-06-03	SHOW	Gadis Gadis Remaja	6387gadis-gadis-remaja
+5924	2021-06-04	SHOW	Tunas di Balik Seragam	6388tunas-di-balik-seragam
+5925	2021-06-05	SHOW	Aturan Anti Cinta	6389aturan-anti-cinta
+5926	2021-06-05	SHOW	Tunas di Balik Seragam	6390tunas-di-balik-seragam
+5927	2021-06-06	SHOW	Gadis Gadis Remaja	6391gadis-gadis-remaja
+5928	2021-06-06	SHOW	Aturan Anti Cinta	6392aturan-anti-cinta
+5933	2021-06-10	SHOW	Aturan Anti Cinta	6397aturan-anti-cinta
+5934	2021-06-11	SHOW	Tunas di Balik Seragam	6398tunas-di-balik-seragam
+5935	2021-06-12	SHOW	Aturan Anti Cinta	6399aturan-anti-cinta
+5936	2021-06-12	SHOW	Gadis Gadis Remaja	6400gadis-gadis-remaja
+5937	2021-06-13	SHOW	Tunas di Balik Seragam	6402tunas-di-balik-seragam
+5938	2021-06-13	SHOW	Gadis Gadis Remaja	6403gadis-gadis-remaja
+5929	2021-06-25	EVENT	JKT48 Request Hour 2021 Setlist Best 30 Urutan 30~16	6393jkt48-request-hour-2021-setlist-best-30-urutan-3016
+5930	2021-06-25	EVENT	JKT48 Request Hour 2021 Setlist Best 30 Urutan 30~16 (Best View Seat)	6394jkt48-request-hour-2021-setlist-best-30-urutan-3016-best-view-seat
+5931	2021-06-26	EVENT	JKT48 Request Hour 2021 Setlist Best 30 Urutan 15~01	6395jkt48-request-hour-2021-setlist-best-30-urutan-1501
+5932	2021-06-26	EVENT	JKT48 Request Hour 2021 Setlist Best 30 Urutan 15~01 (Best View Seat)	6396jkt48-request-hour-2021-setlist-best-30-urutan-1501-best-view-seat
+7024	2021-07-24	EVENT	Event OFC Online “Adu Imajinasi” Bersama JKT48! Sesi 1	6409event-ofc-online-adu-imajinasi-bersama-jkt48-sesi-1
+7025	2021-07-24	EVENT	Event OFC Online “Adu Imajinasi” Bersama JKT48! Sesi 2	6410event-ofc-online-adu-imajinasi-bersama-jkt48-sesi-2
+7026	2021-07-24	EVENT	Event OFC Online “Adu Imajinasi” Bersama JKT48! Sesi 3	6411event-ofc-online-adu-imajinasi-bersama-jkt48-sesi-3
+7027	2021-07-24	EVENT	Event OFC Online “Adu Imajinasi” Bersama JKT48! Sesi 4	6412event-ofc-online-adu-imajinasi-bersama-jkt48-sesi-4
+7036	2021-09-10	BIRTHDAY	Aturan Anti Cinta	6423aturan-anti-cinta
+7037	2021-09-11	BIRTHDAY	Gadis Gadis Remaja	6424gadis-gadis-remaja
+7040	2021-09-16	BIRTHDAY	Tunas di Balik Seragam	6427tunas-di-balik-seragam
+7041	2021-09-18	BIRTHDAY	Gadis Gadis Remaja	6428gadis-gadis-remaja
+7042	2021-09-19	GENERAL	Aturan Anti Cinta	6429aturan-anti-cinta
+7043	2021-09-24	BIRTHDAY	Gadis Gadis Remaja	6430gadis-gadis-remaja
+7045	2021-09-25	GENERAL	Aturan Anti Cinta	6433aturan-anti-cinta
+7044	2021-09-26	GENERAL	Tunas di Balik Seragam	6432tunas-di-balik-seragam
+7046	2021-10-01	GENERAL	Gadis Gadis Remaja	6434gadis-gadis-remaja
+7047	2021-10-02	GENERAL	Tunas di Balik Seragam	6435tunas-di-balik-seragam
+7048	2021-10-03	GENERAL	Aturan Anti Cinta	6436aturan-anti-cinta
+7052	2021-10-15	GENERAL	JKT48 Chekicha 2-Shot Roulette	6440jkt48-chekicha-2shot-roulette
+7053	2021-10-16	GENERAL	JKT48 Chekicha 2-Shot Roulette	6441jkt48-chekicha-2shot-roulette
+7054	2021-10-17	GENERAL	JKT48 Chekicha 2-Shot Roulette	6442jkt48-chekicha-2shot-roulette
+7058	2021-10-17	BIRTHDAY	Aturan Anti Cinta	6446aturan-anti-cinta
+5945	2021-10-22	SHOW	Aturan Anti Cinta	6450aturan-anti-cinta
+7059	2021-10-22	BIRTHDAY	Aturan Anti Cinta	6447aturan-anti-cinta
+5946	2021-10-23	SHOW	Tunas di Balik Seragam	6451tunas-di-balik-seragam
+7060	2021-10-23	BIRTHDAY	Tunas di Balik Seragam	6448tunas-di-balik-seragam
+5947	2021-10-24	SHOW	Gadis Gadis Remaja	6452gadis-gadis-remaja
+5948	2021-10-26	SHOW	Gadis Gadis Remaja	6453gadis-gadis-remaja
+5950	2021-10-30	SHOW	Tunas di Balik Seragam	6455tunas-di-balik-seragam
+5951	2021-10-30	SHOW	Aturan Anti Cinta	6456aturan-anti-cinta
+5949	2021-10-31	EVENT	Halloween Event with JKT48	6454halloween-event-with-jkt48
+5952	2021-11-05	SHOW	Aturan Anti Cinta	6457aturan-anti-cinta
+5953	2021-11-06	SHOW	Gadis Gadis Remaja	6458gadis-gadis-remaja
+5954	2021-11-07	SHOW	Tunas di Balik Seragam	6459tunas-di-balik-seragam
+5955	2021-11-13	SHOW	Aturan Anti Cinta	6460aturan-anti-cinta
+5956	2021-11-14	SHOW	Tunas di Balik Seragam	6461tunas-di-balik-seragam
+5957	2021-11-19	SHOW	Tunas di Balik Seragam	6462tunas-di-balik-seragam
+5959	2021-11-20	SHOW	Aturan Anti Cinta	6464aturan-anti-cinta
+5961	2021-11-20	SHOW	Gadis Gadis Remaja	6466gadis-gadis-remaja
+5960	2021-11-21	EVENT	JKT48 Variety Show	6465jkt48-variety-show
+5962	2021-11-26	SHOW	Gadis Gadis Remaja	6467gadis-gadis-remaja
+5963	2021-11-27	SHOW	Aturan Anti Cinta	6468aturan-anti-cinta
+5964	2021-11-27	SHOW	Tunas di Balik Seragam	6469tunas-di-balik-seragam
+5965	2021-11-28	SHOW	Gadis Gadis Remaja	6470gadis-gadis-remaja
+5966	2021-12-03	SHOW	Aturan Anti Cinta	6471aturan-anti-cinta
+5967	2021-12-04	SHOW	Gadis Gadis Remaja	6472gadis-gadis-remaja
+5968	2021-12-05	SHOW	Tunas di Balik Seragam	6473tunas-di-balik-seragam
+5969	2021-12-05	EVENT	JKT48 Variety Show	6474jkt48-variety-show
+5974	2021-12-09	SHOW	Aturan Anti Cinta	6487aturan-anti-cinta
+5975	2021-12-10	SHOW	Tunas di Balik Seragam	6488tunas-di-balik-seragam
+5970	2021-12-11	SHOW	Gadis Gadis Remaja	6477gadis-gadis-remaja
+5971	2021-12-12	SHOW	Aturan Anti Cinta	6480aturan-anti-cinta
+5976	2021-12-18	EVENT	[DIAMOND A] JKT48 10th Anniversary Kick Off Conference	6489-diamond-a-jkt48-10th-anniversary-kick-off-conference-
+5977	2021-12-18	EVENT	[DIAMOND B] JKT48 10th Anniversary Kick Off Conference	6490-diamond-b-jkt48-10th-anniversary-kick-off-conference
+5978	2021-12-18	EVENT	[GOLD A] JKT48 10th Anniversary Kick Off Conference	6491-gold-a-jkt48-10th-anniversary-kick-off-conference
+5979	2021-12-18	EVENT	[GOLD B] JKT48 10th Anniversary Kick Off Conference	6492-gold-b-jkt48-10th-anniversary-kick-off-conference
+5980	2021-12-22	SHOW	Gadis Gadis Remaja	6493gadis-gadis-remaja
+5981	2021-12-23	SHOW	Aturan Anti Cinta	6494aturan-anti-cinta
+5982	2021-12-26	SHOW	Tunas di Balik Seragam	6495tunas-di-balik-seragam
+5983	2021-12-28	SHOW	Gadis Gadis Remaja	6496gadis-gadis-remaja
+5984	2021-12-29	SHOW	Aturan Anti Cinta	6497aturan-anti-cinta
+5987	2022-01-06	SHOW	Tunas di Balik Seragam	6501tunas-di-balik-seragam
+5985	2022-01-07	SHOW	Aturan Anti Cinta	6499aturan-anti-cinta
+5986	2022-01-09	SHOW	Gadis Gadis Remaja	6500gadis-gadis-remaja
+5988	2022-01-14	SHOW	Tunas di Balik Seragam	6502tunas-di-balik-seragam
+5989	2022-01-15	SHOW	Gadis Gadis Remaja	6503gadis-gadis-remaja
+5990	2022-01-15	SHOW	Aturan Anti Cinta	6504aturan-anti-cinta
+5991	2022-01-16	SHOW	Tunas di Balik Seragam	6505tunas-di-balik-seragam
+5992	2022-01-21	SHOW	Gadis Gadis Remaja	6506gadis-gadis-remaja
+5993	2022-01-22	SHOW	Aturan Anti Cinta	6507aturan-anti-cinta
+5994	2022-01-22	SHOW	Tunas di Balik Seragam	6508tunas-di-balik-seragam
+5995	2022-01-23	SHOW	Gadis Gadis Remaja	6509gadis-gadis-remaja
+5996	2022-01-27	SHOW	Aturan Anti Cinta	6510aturan-anti-cinta
+5997	2022-01-28	SHOW	Tunas di Balik Seragam	6511tunas-di-balik-seragam
+5998	2022-01-29	SHOW	Gadis Gadis Remaja	6512gadis-gadis-remaja
+5999	2022-01-29	SHOW	Aturan Anti Cinta	6513aturan-anti-cinta
+6002	2022-02-05	EVENT	JKT48 Variety Show - Valentine Edition	6516jkt48-variety-show-valentine-edition
+6003	2022-02-06	EVENT	JKT48 Variety Show - Shani's Room	6517jkt48-variety-show-shanis-room-
+6005	2022-02-12	SHOW	Tunas di Balik Seragam	6519tunas-di-balik-seragam
+6004	2022-02-13	EVENT	JKT48 Variety Show - Valentine Edition Part 2	6518jkt48-variety-show-valentine-edition-part-2
+6006	2022-02-19	EVENT	JKT48 Variety Show - Shani's Room	6520jkt48-variety-show-shanis-room-
+6007	2022-02-20	EVENT	JKT48 Variety Show - Edisi Jahat - Jahatan	6521jkt48-variety-show-edisi-jahat-jahatan
+6008	2022-02-26	EVENT	JKT48 Variety Show - Edisi Menjelajah Daring	6522jkt48-variety-show-edisi-menjelajah-daring
+6009	2022-02-27	EVENT	JKT48 Variety Show - Edisi Gebyar JKT48	6523jkt48-variety-show-edisi-gebyar-jkt48
+6010	2022-03-05	EVENT	JKT48 Variety Show - Edisi Jahat - Jahatan	6524jkt48-variety-show-edisi-jahat-jahatan
+6011	2022-03-06	SHOW	Aturan Anti Cinta	6525aturan-anti-cinta
+6012	2022-03-12	SHOW	BANZAI JKT48	6526banzai-jkt48
+6013	2022-03-13	SHOW	Aturan Anti Cinta	6527aturan-anti-cinta
+6014	2022-03-13	EVENT	JKT48 Variety Show - Shani's Room Special Gen 10	6528jkt48-variety-show-shanis-room-special-gen-10
+6015	2022-03-19	SHOW	BANZAI JKT48	6529banzai-jkt48
+6016	2022-03-20	SHOW	Aturan Anti Cinta	6530aturan-anti-cinta
+6017	2022-03-20	SHOW	Gadis Gadis Remaja	6531gadis-gadis-remaja
+6018	2022-03-26	SHOW	Gadis Gadis Remaja	6532gadis-gadis-remaja
+6019	2022-03-26	SHOW	Aturan Anti Cinta	6533aturan-anti-cinta
+6020	2022-03-27	SHOW	Aturan Anti Cinta	6534aturan-anti-cinta
+6021	2022-03-31	SHOW	Tunas di Balik Seragam	6535tunas-di-balik-seragam
+6022	2022-04-07	EVENT	JKT48 School	6536jkt48-school
+6023	2022-04-08	EVENT	JKT48 Quiz Show	6537jkt48-quiz-show
+6024	2022-04-09	EVENT	JKT48 – Jika Aku Menjadi	6538jkt48-jika-aku-menjadi
+6025	2022-04-09	EVENT	Kamar Shani	6539kamar-shani
+6026	2022-04-10	EVENT	JKT48 Livetales	6540jkt48-livetales
+6027	2022-04-14	EVENT	JKT48 School	6541jkt48-school
+6028	2022-04-15	EVENT	Courtroom48	6542courtroom48
+6029	2022-04-16	EVENT	JKT48 Quiz Show	6543jkt48-quiz-show
+6030	2022-04-16	EVENT	JKT48 Livetales	6544jkt48-livetales
+6031	2022-04-21	EVENT	JKT48 School	6545jkt48-school
+6032	2022-04-22	EVENT	JKT48 Quiz Show	6546jkt48-quiz-show
+6033	2022-04-23	EVENT	Courtroom48	6547courtroom48
+6035	2022-04-23	EVENT	JKT48 Livetales	6549jkt48-livetales
+6034	2022-04-24	EVENT	Kamar Shani	6548kamar-shani
+6036	2022-04-27	EVENT	Courtroom48	6550courtroom48
+6037	2022-04-28	EVENT	JKT48 School	6551jkt48-school
+6038	2022-04-29	EVENT	JKT48 Livetales	6552jkt48-livetales
+6039	2022-05-07	SHOW	Aturan Anti Cinta	6555aturan-anti-cinta
+6040	2022-05-08	SHOW	Gadis Gadis Remaja	6556gadis-gadis-remaja
+6041	2022-05-13	SHOW	Aturan Anti Cinta	6557aturan-anti-cinta
+6042	2022-05-14	SHOW	Gadis Gadis Remaja	6558gadis-gadis-remaja
+6043	2022-05-15	SHOW	Tunas di Balik Seragam	6559tunas-di-balik-seragam
+6044	2022-05-20	EVENT	JKT48 Variety Show - Edisi Jika Aku Menjadi	6560jkt48-variety-show-edisi-jika-aku-menjadi
+6045	2022-05-21	SHOW	Gadis Gadis Remaja	6561gadis-gadis-remaja
+6046	2022-05-21	SHOW	Aturan Anti Cinta	6562aturan-anti-cinta
+6047	2022-05-22	SHOW	Tunas di Balik Seragam	6563tunas-di-balik-seragam
+6048	2022-05-27	SHOW	Aturan Anti Cinta	6564aturan-anti-cinta
+6049	2022-05-28	SHOW	Gadis Gadis Remaja	6565gadis-gadis-remaja
+6050	2022-05-28	SHOW	BANZAI JKT48	6566banzai-jkt48
+6051	2022-05-29	SHOW	Aturan Anti Cinta	6567aturan-anti-cinta
+6052	2022-06-03	SHOW	Tunas di Balik Seragam	6568tunas-di-balik-seragam
+6053	2022-06-04	SHOW	Gadis Gadis Remaja	6569gadis-gadis-remaja
+6054	2022-06-05	SHOW	Aturan Anti Cinta	6570aturan-anti-cinta
+6055	2022-06-05	SHOW	Gadis Gadis Remaja	6571gadis-gadis-remaja
+6056	2022-06-10	SHOW	Aturan Anti Cinta	6573aturan-anti-cinta
+6057	2022-06-11	SHOW	Gadis Gadis Remaja	6574gadis-gadis-remaja
+6058	2022-06-11	SHOW	Aturan Anti Cinta	6575aturan-anti-cinta
+6059	2022-06-12	SHOW	BANZAI JKT48	6576banzai-jkt48
+6060	2022-06-15	SHOW	Tunas di Balik Seragam	6577tunas-di-balik-seragam
+6061	2022-06-16	SHOW	Gadis Gadis Remaja	6578gadis-gadis-remaja
+6062	2022-06-18	SHOW	Aturan Anti Cinta	6579aturan-anti-cinta
+6063	2022-06-19	SHOW	Gadis Gadis Remaja	6580gadis-gadis-remaja
+6064	2022-06-24	SHOW	Gadis Gadis Remaja	6581gadis-gadis-remaja
+6066	2022-06-25	EVENT	JKT48 Variety Show	6583jkt48-variety-show
+6065	2022-06-26	SHOW	Aturan Anti Cinta	6582aturan-anti-cinta
+6067	2022-07-01	SHOW	Aturan Anti Cinta	6584aturan-anti-cinta
+6068	2022-07-02	SHOW	Tunas di Balik Seragam	6585tunas-di-balik-seragam
+6069	2022-07-03	EVENT	JKT48 OFC Event “Don’t Break The Block” with JKT48 10th Generation	6586jkt48-ofc-event-dont-break-the-block-with-jkt48-10th-generation
+6070	2022-07-08	SHOW	Gadis Gadis Remaja	6587gadis-gadis-remaja
+6071	2022-07-09	SHOW	Aturan Anti Cinta	6588aturan-anti-cinta
+6072	2022-07-09	SHOW	Tunas di Balik Seragam	6589tunas-di-balik-seragam
+6073	2022-07-14	SHOW	Tunas di Balik Seragam	6590tunas-di-balik-seragam
+6074	2022-07-15	SHOW	Gadis Gadis Remaja	6591gadis-gadis-remaja
+6075	2022-07-16	SHOW	Aturan Anti Cinta	6592aturan-anti-cinta
+6076	2022-07-17	SHOW	Gadis Gadis Remaja	6593gadis-gadis-remaja
+6077	2022-07-22	SHOW	Aturan Anti Cinta	6594aturan-anti-cinta
+6078	2022-07-23	SHOW	Tunas di Balik Seragam	6595tunas-di-balik-seragam
+6079	2022-07-24	SHOW	Gadis Gadis Remaja	6597gadis-gadis-remaja
+6080	2022-07-29	SHOW	Gadis Gadis Remaja	6598gadis-gadis-remaja
+6081	2022-07-30	SHOW	Aturan Anti Cinta	6599aturan-anti-cinta
+6082	2022-07-31	SHOW	Tunas di Balik Seragam	6600tunas-di-balik-seragam
+6083	2022-08-11	SHOW	BANZAI JKT48	6601banzai-jkt48
+6084	2022-08-13	SHOW	Tunas di Balik Seragam	6602tunas-di-balik-seragam
+6086	2022-08-13	EVENT	Celine Special Graduation Show	6604celine-special-graduation-show
+6085	2022-08-14	SHOW	Aturan Anti Cinta	6603aturan-anti-cinta
+6087	2022-08-19	SHOW	Aturan Anti Cinta	6605aturan-anti-cinta
+6088	2022-08-20	SHOW	Gadis Gadis Remaja	6606gadis-gadis-remaja
+6089	2022-08-20	SHOW	Aturan Anti Cinta	6607aturan-anti-cinta
+6090	2022-08-21	SHOW	Tunas di Balik Seragam	6608tunas-di-balik-seragam
+6095	2022-08-23	GENERAL	HUT SCTV 32Xtraordinary	6613hut-sctv-32xtraordinary
+6091	2022-08-26	SHOW	Gadis Gadis Remaja	6609gadis-gadis-remaja
+6092	2022-08-27	SHOW	Aturan Anti Cinta	6610aturan-anti-cinta
+6098	2022-08-27	GENERAL	Indonesia Makin Cakap Digital 2022	6616indonesia-makin-cakap-digital-2022
+6099	2022-08-28	EVENT	IDOL ROLL	6617idol-roll
+6100	2022-09-02	SHOW	Tunas di Balik Seragam	6618tunas-di-balik-seragam
+6101	2022-09-03	SHOW	Gadis Gadis Remaja	6619gadis-gadis-remaja
+6102	2022-09-04	SHOW	Aturan Anti Cinta	6620aturan-anti-cinta
+6104	2022-09-07	EVENT	JKT48 Theater 10th Anniversary Show : Memory	6622jkt48-theater-10th-anniversary-show-memory
+6105	2022-09-08	EVENT	JKT48 Theater 10th Anniversary Show : Party	6623jkt48-theater-10th-anniversary-show-party
+6106	2022-09-10	SHOW	Tunas di Balik Seragam	6624tunas-di-balik-seragam
+6107	2022-09-11	SHOW	Gadis Gadis Remaja	6625gadis-gadis-remaja
+6110	2022-09-16	SHOW	Aturan Anti Cinta	6628aturan-anti-cinta
+6111	2022-09-17	SHOW	Gadis Gadis Remaja	6629gadis-gadis-remaja
+6112	2022-09-17	SHOW	Tunas di Balik Seragam	6630tunas-di-balik-seragam
+6115	2022-09-23	SHOW	BANZAI JKT48	6633banzai-jkt48
+6116	2022-09-24	SHOW	Aturan Anti Cinta	6634aturan-anti-cinta
+6117	2022-09-25	SHOW	Gadis Gadis Remaja	6635gadis-gadis-remaja
+6118	2022-09-25	EVENT	JKT48 ESCAPE NEVERLAND	6637jkt48-escape-neverland
+6120	2022-10-01	SHOW	Aturan Anti Cinta	6639aturan-anti-cinta
+6121	2022-10-02	SHOW	Tunas di Balik Seragam	6640tunas-di-balik-seragam
+6122	2022-10-02	SHOW	Gadis Gadis Remaja	6641gadis-gadis-remaja
+6123	2022-10-07	SHOW	BANZAI JKT48	6643banzai-jkt48
+6124	2022-10-08	SHOW	Aturan Anti Cinta	6644aturan-anti-cinta
+6125	2022-10-09	SHOW	Gadis Gadis Remaja	6645gadis-gadis-remaja
+6130	2022-10-16	SHOW	Aturan Anti Cinta	6650aturan-anti-cinta
+6131	2022-10-16	SHOW	Gadis Gadis Remaja	6651gadis-gadis-remaja
+6137	2022-10-21	SHOW	Gadis Gadis Remaja	6658gadis-gadis-remaja
+6138	2022-10-22	SHOW	Aturan Anti Cinta	6659aturan-anti-cinta
+6139	2022-10-23	SHOW	Tunas di Balik Seragam	6660tunas-di-balik-seragam
+6144	2022-10-27	SHOW	Tunas di Balik Seragam	6666tunas-di-balik-seragam
+6145	2022-10-29	SHOW	Gadis Gadis Remaja	6667gadis-gadis-remaja
+6147	2022-10-31	EVENT	JKT48 Halloween Event	6669jkt48-halloween-event
+6149	2022-11-05	SHOW	Tunas di Balik Seragam	6671tunas-di-balik-seragam
+6150	2022-11-06	EVENT	ICU48	6672icu48
+6153	2022-11-12	EVENT	JKT48 First Generation Special Stage : Forever Idol	6675jkt48-first-generation-special-stage-forever-idol
+6154	2022-11-18	SHOW	Aturan Anti Cinta	6676aturan-anti-cinta
+6155	2022-11-19	SHOW	Pajama Drive	6677pajama-drive
+6156	2022-11-20	SHOW	Gadis Gadis Remaja	6678gadis-gadis-remaja
+6158	2022-11-24	SHOW	BANZAI JKT48	6680banzai-jkt48
+6159	2022-11-25	SHOW	Aturan Anti Cinta	6681aturan-anti-cinta
+6161	2022-11-26	EVENT	IDOL ROLL - Episode 2	6684idol-roll-episode-2
+6160	2022-11-27	SHOW	Pajama Drive	6682pajama-drive
+6163	2022-12-01	SHOW	Aturan Anti Cinta	6686aturan-anti-cinta
+6162	2022-12-02	SHOW	Tunas di Balik Seragam	6685tunas-di-balik-seragam
+6164	2022-12-03	SHOW	Pajama Drive	6687pajama-drive
+6166	2022-12-03	EVENT	Sisca JKT48 Asa & Rasa Showcase	6689sisca-jkt48-asa-rasa-showcase
+6165	2022-12-04	SHOW	Gadis Gadis Remaja	6688gadis-gadis-remaja
+6167	2022-12-08	SHOW	Pajama Drive	6690pajama-drive
+6168	2022-12-09	SHOW	Gadis Gadis Remaja	6691gadis-gadis-remaja
+6169	2022-12-10	SHOW	Aturan Anti Cinta	6692aturan-anti-cinta
+6172	2022-12-20	SHOW	Pajama Drive	6699pajama-drive
+6173	2022-12-21	SHOW	Tunas di Balik Seragam	6700tunas-di-balik-seragam
+6174	2022-12-22	SHOW	Gadis Gadis Remaja	6701gadis-gadis-remaja
+6175	2022-12-23	SHOW	BANZAI JKT48	6702banzai-jkt48
+6176	2023-01-15	SHOW	Cara Meminum Ramune	6703cara-meminum-ramune
+6184	2023-01-19	SHOW	Tunas di Balik Seragam	6712tunas-di-balik-seragam
+6185	2023-01-20	SHOW	Cara Meminum Ramune	6713cara-meminum-ramune
+6186	2023-01-21	SHOW	Aturan Anti Cinta	6714aturan-anti-cinta
+6189	2023-01-26	SHOW	Tunas di Balik Seragam	6725tunas-di-balik-seragam
+6190	2023-01-27	SHOW	Aturan Anti Cinta	6726aturan-anti-cinta
+6191	2023-01-28	SHOW	Cara Meminum Ramune	6727cara-meminum-ramune
+6192	2023-01-29	SHOW	Pajama Drive	6728pajama-drive
+6193	2023-02-02	SHOW	Cara Meminum Ramune	6732cara-meminum-ramune
+6194	2023-02-03	SHOW	Aturan Anti Cinta	6733aturan-anti-cinta
+6195	2023-02-05	EVENT	PIDB JKT48 School 2023	6734pidb-jkt48-school-2023
+6196	2023-02-08	SHOW	Cara Meminum Ramune	6735cara-meminum-ramune
+6197	2023-02-09	SHOW	Aturan Anti Cinta	6736aturan-anti-cinta
+6198	2023-02-10	SHOW	Tunas di Balik Seragam	6737tunas-di-balik-seragam
+6204	2023-02-16	SHOW	Tunas di Balik Seragam	6746tunas-di-balik-seragam
+6205	2023-02-17	SHOW	BANZAI JKT48	6747banzai-jkt48
+6206	2023-02-18	SHOW	Pajama Drive	6748pajama-drive
+6210	2023-02-23	SHOW	Aturan Anti Cinta	6754aturan-anti-cinta
+6211	2023-02-24	SHOW	Cara Meminum Ramune	6755cara-meminum-ramune
+6214	2023-02-28	SHOW	Aturan Anti Cinta	6758aturan-anti-cinta
+6215	2023-03-01	SHOW	Tunas di Balik Seragam	6761tunas-di-balik-seragam
+6217	2023-03-09	SHOW	Tunas di Balik Seragam	6763tunas-di-balik-seragam
+6218	2023-03-10	SHOW	Cara Meminum Ramune	6764cara-meminum-ramune
+6219	2023-03-11	SHOW	Pajama Drive	6767pajama-drive
+6221	2023-03-15	SHOW	Aturan Anti Cinta	6769aturan-anti-cinta
+6222	2023-03-16	SHOW	BANZAI JKT48	6770banzai-jkt48
+6223	2023-03-18	SHOW	Tunas di Balik Seragam	6773tunas-di-balik-seragam
+6224	2023-03-21	SHOW	Cara Meminum Ramune	6775cara-meminum-ramune
+6225	2023-03-25	EVENT	JKT48 School	6776jkt48-school
+6226	2023-03-26	EVENT	Cosmostales	6777cosmostales
+6227	2023-03-26	EVENT	The Slap Show	6778the-slap-show
+6228	2023-03-31	EVENT	PlayTown	6779playtown
+6229	2023-04-01	EVENT	University of EFEX	6780university-of-efex-
+6230	2023-04-01	EVENT	Cosmostales	6781cosmostales
+6231	2023-04-02	EVENT	JKT48 School	6782-jkt48-school
+6233	2023-04-05	EVENT	PlayTown	6784playtown
+6234	2023-04-06	EVENT	The Slap Show	6785the-slap-show
+6235	2023-04-08	EVENT	JKT48 School	6786-jkt48-school
+6236	2023-04-08	EVENT	Cosmostales	6787cosmostales
+6237	2023-04-13	EVENT	PlayTown	6788playtown
+6238	2023-04-14	EVENT	JKT48 School	6789-jkt48-school
+6239	2023-04-15	EVENT	Cosmostales	6790cosmostales
+6240	2023-04-15	EVENT	University of EFEX	6791university-of-efex-
+6241	2023-04-18	EVENT	The Slap Show	6792the-slap-show
+6243	2023-04-30	SHOW	Ingin Bertemu	6794ingin-bertemu
+6244	2023-05-03	EVENT	"Fun on Board" with JKT48 Trainee - Sesi 1	6795fun-on-board-with-jkt48-trainee-sesi-1-
+6245	2023-05-03	EVENT	"Fun on Board" with JKT48 Trainee - Sesi 2	6796fun-on-board-with-jkt48-trainee-sesi-2
+6246	2023-05-04	SHOW	Pajama Drive	6797pajama-drive
+6247	2023-05-05	SHOW	Ingin Bertemu	6800ingin-bertemu
+6252	2023-05-07	EVENT	Mini live - Nice To See You Personal Meet and Greet Festival	6805mini-live-nice-to-see-you-personal-meet-and-greet-festival
+6251	2023-05-11	SHOW	Cara Meminum Ramune	6804cara-meminum-ramune
+6253	2023-05-13	SHOW	Aturan Anti Cinta	6806aturan-anti-cinta
+6254	2023-05-13	SHOW	Tunas di Balik Seragam	6807tunas-di-balik-seragam
+6255	2023-05-14	SHOW	Ingin Bertemu	6809ingin-bertemu
+6256	2023-05-18	SHOW	Tunas di Balik Seragam	6810tunas-di-balik-seragam
+6257	2023-05-19	SHOW	Aturan Anti Cinta	6811aturan-anti-cinta
+6258	2023-05-20	SHOW	Pajama Drive	6812pajama-drive
+6259	2023-05-21	SHOW	Ingin Bertemu	6813ingin-bertemu
+6260	2023-05-21	SHOW	Cara Meminum Ramune	6814cara-meminum-ramune
+6262	2023-05-25	SHOW	Aturan Anti Cinta	6816aturan-anti-cinta
+6263	2023-05-26	SHOW	Cara Meminum Ramune	6817cara-meminum-ramune
+6264	2023-05-27	SHOW	BANZAI JKT48	6818banzai-jkt48
+6265	2023-05-28	SHOW	Ingin Bertemu	6819ingin-bertemu
+6267	2023-06-01	SHOW	Tunas di Balik Seragam	6821tunas-di-balik-seragam
+6268	2023-06-02	SHOW	Ingin Bertemu	6822ingin-bertemu
+6269	2023-06-03	SHOW	Aturan Anti Cinta	6823aturan-anti-cinta
+6270	2023-06-03	SHOW	Cara Meminum Ramune	6824cara-meminum-ramune
+6271	2023-06-04	SHOW	Ingin Bertemu	6825ingin-bertemu
+6274	2023-06-08	SHOW	Cara Meminum Ramune	6828cara-meminum-ramune
+6275	2023-06-09	SHOW	BANZAI JKT48	6829banzai-jkt48
+6276	2023-06-10	SHOW	Aturan Anti Cinta	6830aturan-anti-cinta
+6277	2023-06-11	SHOW	Ingin Bertemu	6831ingin-bertemu
+6281	2023-06-15	SHOW	Tunas di Balik Seragam	6835tunas-di-balik-seragam
+6284	2023-06-16	SHOW	Ingin Bertemu	6839ingin-bertemu
+6282	2023-06-17	SHOW	Cara Meminum Ramune	6837cara-meminum-ramune
+6283	2023-06-18	SHOW	Ingin Bertemu	6838ingin-bertemu
+6286	2023-06-20	SHOW	Aturan Anti Cinta	6841aturan-anti-cinta
+6289	2023-07-06	SHOW	Cara Meminum Ramune	6844cara-meminum-ramune
+6290	2023-07-07	SHOW	Ingin Bertemu	6845ingin-bertemu
+6296	2023-07-16	SHOW	Ingin Bertemu	6851ingin-bertemu
+6300	2023-07-20	SHOW	Cara Meminum Ramune	6856cara-meminum-ramune
+6298	2023-07-21	SHOW	Aturan Anti Cinta	6854aturan-anti-cinta
+6299	2023-07-22	SHOW	Ingin Bertemu	6855ingin-bertemu
+6304	2023-07-26	SHOW	Tunas di Balik Seragam	6860tunas-di-balik-seragam
+6305	2023-07-28	SHOW	Cara Meminum Ramune	6861cara-meminum-ramune
+6306	2023-07-29	SHOW	Cara Meminum Ramune	6862cara-meminum-ramune
+6311	2023-08-03	SHOW	Ingin Bertemu	6867ingin-bertemu
+6312	2023-08-04	SHOW	Aturan Anti Cinta	6868aturan-anti-cinta
+6316	2023-08-10	SHOW	Ingin Bertemu	6872ingin-bertemu
+6317	2023-08-11	SHOW	Cara Meminum Ramune	6873cara-meminum-ramune
+6318	2023-08-12	SHOW	Aturan Anti Cinta	6874aturan-anti-cinta
+6319	2023-08-16	SHOW	Tunas di Balik Seragam	6875tunas-di-balik-seragam
+6320	2023-08-18	SHOW	Cara Meminum Ramune	6876cara-meminum-ramune
+6321	2023-08-20	SHOW	Ingin Bertemu	6877ingin-bertemu
+6329	2023-08-24	SHOW	Aturan Anti Cinta	6885aturan-anti-cinta
+6330	2023-08-25	SHOW	Ingin Bertemu	6886ingin-bertemu
+6322	2023-08-27	EVENT	Diamond - Sisca JKT48 Mini Concert: The Beginning	6878diamond-sisca-jkt48-mini-concert-the-beginning
+6323	2023-08-27	EVENT	Platinum - Sisca JKT48 Mini Concert: The Beginning	6879platinum-sisca-jkt48-mini-concert-the-beginning
+6324	2023-08-27	EVENT	Gold - Sisca JKT48 Mini Concert: The Beginning	6880gold-sisca-jkt48-mini-concert-the-beginning
+6325	2023-08-27	EVENT	Silver - Sisca JKT48 Mini Concert: The Beginning	6881silver-sisca-jkt48-mini-concert-the-beginning
+6331	2023-09-02	SHOW	Aturan Anti Cinta	6887aturan-anti-cinta
+6332	2023-09-03	SHOW	Cara Meminum Ramune	6888cara-meminum-ramune
+6336	2023-09-09	EVENT	JKT48 Theater 11th Anniversary Event “I Love JKT48 Theater”	6892jkt48-theater-11th-anniversary-event-i-love-jkt48-theater
+6337	2023-09-10	SHOW	Ingin Bertemu	6893ingin-bertemu
+6342	2023-09-15	SHOW	Cara Meminum Ramune	6898cara-meminum-ramune
+6343	2023-09-16	SHOW	Tunas di Balik Seragam	6899tunas-di-balik-seragam
+6344	2023-09-17	SHOW	Ingin Bertemu	6900ingin-bertemu
+6349	2023-09-22	SHOW	Cara Meminum Ramune	6905cara-meminum-ramune
+6350	2023-09-23	SHOW	Tunas di Balik Seragam	6906tunas-di-balik-seragam
+6351	2023-09-24	SHOW	Ingin Bertemu	6907ingin-bertemu
+6353	2023-09-28	SHOW	Aturan Anti Cinta	6909aturan-anti-cinta
+6354	2023-09-29	SHOW	Ingin Bertemu	6910ingin-bertemu
+6355	2023-09-30	SHOW	Cara Meminum Ramune	6912cara-meminum-ramune
+6360	2023-10-05	SHOW	Tunas di Balik Seragam	6917tunas-di-balik-seragam
+6361	2023-10-06	SHOW	Ingin Bertemu	6918ingin-bertemu
+6362	2023-10-08	SHOW	Aturan Anti Cinta	6920aturan-anti-cinta
+6363	2023-10-13	SHOW	Cara Meminum Ramune	6921cara-meminum-ramune
+6364	2023-10-14	SHOW	Aturan Anti Cinta	6922aturan-anti-cinta
+6365	2023-10-15	SHOW	Ingin Bertemu	6923ingin-bertemu
+6369	2023-10-19	SHOW	Cara Meminum Ramune	6927cara-meminum-ramune
+6370	2023-10-21	SHOW	Ingin Bertemu	6928ingin-bertemu
+6371	2023-10-22	SHOW	Ingin Bertemu	6929ingin-bertemu
+6373	2023-10-26	EVENT	RUMBLE IN THE ZONE - SESSION 2	6932rumble-in-the-zone-session-2
+6374	2023-10-26	EVENT	RUMBLE IN THE ZONE - SESSION 1	6933rumble-in-the-zone-session-1
+6375	2023-10-27	SHOW	Aturan Anti Cinta	6934aturan-anti-cinta
+6376	2023-10-29	SHOW	Ingin Bertemu	6935ingin-bertemu
+6377	2023-11-02	SHOW	Cara Meminum Ramune	6936cara-meminum-ramune
+6378	2023-11-03	SHOW	Tunas di Balik Seragam	6937tunas-di-balik-seragam
+6379	2023-11-04	SHOW	Ingin Bertemu	6938ingin-bertemu
+6380	2023-11-05	SHOW	Ingin Bertemu	6939ingin-bertemu
+6381	2023-11-08	SHOW	Ingin Bertemu	6940ingin-bertemu
+6382	2023-11-10	SHOW	Ingin Bertemu	6941ingin-bertemu
+6383	2023-11-12	SHOW	Aturan Anti Cinta	6942aturan-anti-cinta
+6384	2023-11-16	SHOW	Cara Meminum Ramune	6943cara-meminum-ramune
+6385	2023-11-17	SHOW	Ingin Bertemu	6944ingin-bertemu
+6386	2023-11-21	EVENT	JKT48 OFC Event “Pizza Bonanza - Flavorful Fun Awaits!” - Session 1	6945jkt48-ofc-event-pizza-bonanza-flavorful-fun-awaits-session-1
+6387	2023-11-21	EVENT	JKT48 OFC Event “Pizza Bonanza - Flavorful Fun Awaits!” - Session 2	6946jkt48-ofc-event-pizza-bonanza-flavorful-fun-awaits-session-2
+6388	2023-11-23	SHOW	Cara Meminum Ramune	6947cara-meminum-ramune
+6389	2023-11-25	SHOW	Ingin Bertemu	6952ingin-bertemu
+6390	2023-11-26	SHOW	Aturan Anti Cinta	6953aturan-anti-cinta
+6391	2023-12-01	SHOW	Aturan Anti Cinta	6954aturan-anti-cinta
+6392	2023-12-03	SHOW	Ingin Bertemu	6955ingin-bertemu
+6395	2023-12-07	SHOW	Ingin Bertemu	6958ingin-bertemu
+6396	2023-12-08	SHOW	Cara Meminum Ramune	6960cara-meminum-ramune
+6397	2023-12-21	SHOW	Ingin Bertemu	6961ingin-bertemu
+6398	2023-12-22	SHOW	Tunas di Balik Seragam	6962tunas-di-balik-seragam
+6399	2023-12-23	SHOW	Aturan Anti Cinta	6963aturan-anti-cinta
+6401	2023-12-26	SHOW	Ingin Bertemu	6965ingin-bertemu
+6402	2023-12-27	SHOW	Cara Meminum Ramune	6967cara-meminum-ramune
+6406	2024-01-05	SHOW	Ingin Bertemu	6972ingin-bertemu
+6403	2024-01-06	SHOW	Aturan Anti Cinta	6969aturan-anti-cinta
+6404	2024-01-07	SHOW	Cara Meminum Ramune	6970cara-meminum-ramune
+6405	2024-01-07	SHOW	Ingin Bertemu	6971ingin-bertemu
+6407	2024-01-10	EVENT	JKT48 OFC Event FUN ON BOARD #2 - Sesi 1	6973jkt48-ofc-event-fun-on-board-2-sesi-1
+6408	2024-01-10	EVENT	JKT48 OFC Event FUN ON BOARD #2 - Sesi 2	6974jkt48-ofc-event-fun-on-board-2-sesi-2
+6409	2024-01-12	SHOW	Ingin Bertemu	6975ingin-bertemu
+6411	2024-01-13	SHOW	Aturan Anti Cinta	6979aturan-anti-cinta
+6410	2024-01-14	SHOW	Cara Meminum Ramune	6978cara-meminum-ramune
+6412	2024-01-19	SHOW	Aturan Anti Cinta	6980aturan-anti-cinta
+6413	2024-01-20	SHOW	Cara Meminum Ramune	6981cara-meminum-ramune
+6414	2024-01-21	SHOW	Ingin Bertemu	6982ingin-bertemu
+6415	2024-01-21	SHOW	Pajama Drive	6984pajama-drive
+6416	2024-01-25	SHOW	Aturan Anti Cinta	6985aturan-anti-cinta
+6417	2024-01-26	SHOW	Ingin Bertemu	6986ingin-bertemu
+6418	2024-01-27	SHOW	Pajama Drive	6989pajama-drive
+6419	2024-02-03	SHOW	Pajama Drive	6990pajama-drive
+6420	2024-02-04	SHOW	Ingin Bertemu	6991ingin-bertemu
+6421	2024-02-04	SHOW	Aturan Anti Cinta	6992aturan-anti-cinta
+6422	2024-02-08	SHOW	Cara Meminum Ramune	6993cara-meminum-ramune
+6423	2024-02-09	SHOW	Ingin Bertemu	6994ingin-bertemu
+6424	2024-02-11	SHOW	Tunas di Balik Seragam	6995tunas-di-balik-seragam
+6430	2024-02-12	EVENT	Trial Video Call - Pia Meraleo	7001trial-video-call-pia-meraleo
+6431	2024-02-13	EVENT	Trial Video Call - Tana Nona	7002trial-video-call-tana-nona
+6432	2024-02-15	EVENT	Trial Video Call - Kanaia Asa	7003trial-video-call-kanaia-asa
+6433	2024-02-16	SHOW	Ingin Bertemu	7004ingin-bertemu
+6434	2024-02-17	SHOW	Tunas di Balik Seragam	7005tunas-di-balik-seragam
+6435	2024-02-18	SHOW	Ingin Bertemu	7006ingin-bertemu
+6436	2024-02-18	SHOW	Cara Meminum Ramune	7007cara-meminum-ramune
+6438	2024-02-22	SHOW	Cara Meminum Ramune	7009cara-meminum-ramune
+6439	2024-02-24	SHOW	Ingin Bertemu	7010ingin-bertemu
+6440	2024-02-25	SHOW	Aturan Anti Cinta	7011aturan-anti-cinta
+6443	2024-02-29	SHOW	Tunas di Balik Seragam	7018tunas-di-balik-seragam
+6444	2024-03-01	SHOW	Ingin Bertemu	7019ingin-bertemu
+6445	2024-03-02	SHOW	Ingin Bertemu	7021ingin-bertemu
+6451	2024-03-07	SHOW	Ingin Bertemu	7027ingin-bertemu
+6452	2024-03-08	SHOW	Ingin Bertemu	7028ingin-bertemu
+6453	2024-03-09	SHOW	BANZAI JKT48	7029banzai-jkt48
+6454	2024-03-10	SHOW	BANZAI JKT48	7030banzai-jkt48
+6455	2024-03-15	EVENT	SUP3R GENERAT10N	7031sup3r-generat10n
+6456	2024-03-16	EVENT	REALM RUMBLE	7033realm-rumble
+6458	2024-03-16	EVENT	JKT48 School	7036jkt48-school
+6457	2024-03-17	EVENT	ANAK KING - A Journey of Misunderstanding	7035anak-king-a-journey-of-misunderstanding
+6461	2024-03-22	EVENT	ELITE ROOM	7039elite-room
+6462	2024-03-23	EVENT	REALM RUMBLE	7040realm-rumble
+6463	2024-03-24	EVENT	JKT48 SCHOOL	7041jkt48-school
+6464	2024-03-24	EVENT	ANAK KING	7042anak-king
+6465	2024-03-28	EVENT	JKT48 SCHOOL	7043jkt48-school
+6466	2024-03-30	EVENT	ELITE ROOM	7047elite-room
+6467	2024-03-30	EVENT	ANAK KING	7048anak-king
+6472	2024-04-05	EVENT	ELITE ROOM	7053elite-room
+6473	2024-04-06	EVENT	ELITE ROOM	7055elite-room
+7062	2024-04-06	EVENT	JKT48 SCHOOL	7054jkt48-school
+6474	2024-04-07	EVENT	ANAK KING	7056anak-king
+6477	2024-04-18	SHOW	Aturan Anti Cinta	7059aturan-anti-cinta
+6478	2024-04-19	SHOW	Ingin Bertemu	7060ingin-bertemu
+6479	2024-04-20	SHOW	Cara Meminum Ramune	7061cara-meminum-ramune
+6483	2024-04-30	EVENT	JKT48 OFC Event - SUDDEN VERSUS	7065jkt48-ofc-event-sudden-versus
+6484	2024-05-01	SHOW	Ingin Bertemu	7066ingin-bertemu
+6485	2024-05-02	SHOW	Tunas di Balik Seragam	7067tunas-di-balik-seragam
+6486	2024-05-03	SHOW	Cara Meminum Ramune	7068cara-meminum-ramune
+6487	2024-05-04	SHOW	Ingin Bertemu	7069ingin-bertemu
+6488	2024-05-05	SHOW	Aturan Anti Cinta	7071aturan-anti-cinta
+6491	2024-05-08	EVENT	JKT48 OFC Event: Magic Hour Short Movie Premiere	7074jkt48-ofc-event-magic-hour-short-movie-premiere-
+6492	2024-05-09	SHOW	Ingin Bertemu	7075ingin-bertemu
+6493	2024-05-12	SHOW	Ingin Bertemu	7076ingin-bertemu
+6494	2024-05-17	SHOW	Ingin Bertemu	7077ingin-bertemu
+6495	2024-05-18	SHOW	Ingin Bertemu	7078ingin-bertemu
+6496	2024-05-19	SHOW	Aturan Anti Cinta	7079aturan-anti-cinta
+6498	2024-05-23	SHOW	Tunas di Balik Seragam	7081tunas-di-balik-seragam
+6499	2024-05-24	SHOW	Ingin Bertemu	7082ingin-bertemu
+6500	2024-05-25	SHOW	Aturan Anti Cinta	7083aturan-anti-cinta
+6501	2024-05-26	SHOW	Ingin Bertemu	7084ingin-bertemu
+6503	2024-05-30	SHOW	Pajama Drive	7086pajama-drive
+6504	2024-05-31	SHOW	Pajama Drive	7087pajama-drive
+6505	2024-06-01	SHOW	Cara Meminum Ramune	7088cara-meminum-ramune
+6506	2024-06-02	SHOW	Cara Meminum Ramune	7090cara-meminum-ramune
+6507	2024-06-06	SHOW	Aturan Anti Cinta	7098aturan-anti-cinta
+6508	2024-06-07	SHOW	Pajama Drive	7100pajama-drive
+6509	2024-06-08	SHOW	Pajama Drive	7101pajama-drive
+6510	2024-06-09	SHOW	Ingin Bertemu	7102ingin-bertemu
+6528	2024-06-12	SHOW	Cara Meminum Ramune	7125cara-meminum-ramune
+6529	2024-06-13	SHOW	Aturan Anti Cinta	7126aturan-anti-cinta
+6530	2024-06-14	SHOW	Ingin Bertemu	7127ingin-bertemu
+6531	2024-06-15	SHOW	Pajama Drive	7128pajama-drive
+6532	2024-06-16	SHOW	Pajama Drive	7129pajama-drive
+6533	2024-06-18	EVENT	OFC Event “ARTchive Day!” with JKT48 - Sesi 1	7130ofc-event-artchive-day-with-jkt48-sesi-1
+6534	2024-06-18	EVENT	OFC Event “ARTchive Day!” with JKT48 - Sesi 2	7131ofc-event-artchive-day-with-jkt48-sesi-2
+6535	2024-06-20	SHOW	Aturan Anti Cinta	7132aturan-anti-cinta
+6536	2024-06-21	SHOW	Ingin Bertemu	7133ingin-bertemu
+6537	2024-06-22	SHOW	Cara Meminum Ramune	7134cara-meminum-ramune
+6538	2024-06-23	SHOW	Pajama Drive	7135pajama-drive
+6539	2024-06-23	SHOW	Pajama Drive	7136pajama-drive
+6541	2024-06-27	SHOW	Pajama Drive	7138pajama-drive
+6516	2024-06-28	SHOW	JKT48 Theater Sementara Surabaya	7111jkt48-theater-sementara-surabaya
+6521	2024-06-28	SHOW	JKT48 Theater Sementara Yogyakarta	7118jkt48-theater-sementara-yogyakarta
+6542	2024-06-28	SHOW	Ingin Bertemu	7139ingin-bertemu
+6551	2024-06-28	SHOW	JKT48 Theater Sementara Yogyakarta	7150jkt48-theater-sementara-yogyakarta
+6517	2024-06-29	SHOW	JKT48 Theater Sementara Surabaya	7113jkt48-theater-sementara-surabaya
+6522	2024-06-29	SHOW	JKT48 Theater Sementara Yogyakarta	7119jkt48-theater-sementara-yogyakarta
+6544	2024-06-29	SHOW	JKT48 Theater Sementara Yogyakarta	7142jkt48-theater-sementara-yogyakarta
+6552	2024-06-29	SHOW	JKT48 Theater Sementara Yogyakarta	7151jkt48-theater-sementara-yogyakarta
+6523	2024-06-30	SHOW	JKT48 Theater Sementara Yogyakarta	7120jkt48-theater-sementara-yogyakarta
+6524	2024-06-30	SHOW	JKT48 Theater Sementara Surabaya	7121jkt48-theater-sementara-surabaya
+6543	2024-06-30	SHOW	Ingin Bertemu	7140ingin-bertemu
+6545	2024-06-30	SHOW	JKT48 Theater Sementara Yogyakarta	7143jkt48-theater-sementara-yogyakarta
+6557	2024-06-30	SHOW	JKT48 Theater Sementara Yogyakarta	7156jkt48-theater-sementara-yogyakarta
+6525	2024-07-03	SHOW	JKT48 Theater Sementara Yogyakarta	7122jkt48-theater-sementara-yogyakarta
+6546	2024-07-03	SHOW	JKT48 Theater Sementara Yogyakarta	7145jkt48-theater-sementara-yogyakarta
+6558	2024-07-03	SHOW	JKT48 Theater Sementara Yogyakarta	7157jkt48-theater-sementara-yogyakarta
+6518	2024-07-04	SHOW	JKT48 Theater Sementara Surabaya	7115jkt48-theater-sementara-surabaya
+6526	2024-07-04	SHOW	JKT48 Theater Sementara Yogyakarta	7123jkt48-theater-sementara-yogyakarta
+6547	2024-07-04	SHOW	JKT48 Theater Sementara Yogyakarta	7146jkt48-theater-sementara-yogyakarta
+6553	2024-07-04	SHOW	Ingin Bertemu	7152ingin-bertemu
+6559	2024-07-04	SHOW	JKT48 Theater Sementara Yogyakarta	7158jkt48-theater-sementara-yogyakarta
+6519	2024-07-05	SHOW	JKT48 Theater Sementara Surabaya	7116jkt48-theater-sementara-surabaya
+6554	2024-07-05	SHOW	Pajama Drive	7153pajama-drive
+6527	2024-07-06	SHOW	JKT48 Theater Sementara Yogyakarta	7124jkt48-theater-sementara-yogyakarta
+6555	2024-07-06	SHOW	Pajama Drive	7154pajama-drive
+6520	2024-07-07	SHOW	JKT48 Theater Sementara Surabaya	7117jkt48-theater-sementara-surabaya
+6556	2024-07-07	SHOW	Ingin Bertemu	7155ingin-bertemu
+6561	2024-07-12	SHOW	Cara Meminum Ramune	7164cara-meminum-ramune
+6562	2024-07-13	SHOW	Cara Meminum Ramune	7165cara-meminum-ramune
+6563	2024-07-14	SHOW	Pajama Drive	7167pajama-drive
+6567	2024-07-18	SHOW	Aturan Anti Cinta	7175aturan-anti-cinta
+6568	2024-07-19	SHOW	Cara Meminum Ramune	7176cara-meminum-ramune
+6569	2024-07-20	SHOW	Pajama Drive	7177pajama-drive
+6570	2024-07-21	SHOW	Ingin Bertemu	7178ingin-bertemu
+6576	2024-07-25	SHOW	Pajama Drive	7187pajama-drive
+6577	2024-07-26	SHOW	Cara Meminum Ramune	7188cara-meminum-ramune
+6578	2024-07-27	SHOW	Cara Meminum Ramune	7189cara-meminum-ramune
+6579	2024-07-28	SHOW	Ingin Bertemu	7190ingin-bertemu
+6580	2024-07-31	EVENT	OFC Event “ARTchive Day!” with JKT48 #2 - Sesi 1	7191ofc-event-artchive-day-with-jkt48-2-sesi-1
+6581	2024-07-31	EVENT	OFC Event “ARTchive Day!” with JKT48 #2 - Sesi 2	7192ofc-event-artchive-day-with-jkt48-2-sesi-2
+6584	2024-08-01	SHOW	Cara Meminum Ramune	7195cara-meminum-ramune
+6585	2024-08-02	SHOW	Aturan Anti Cinta	7196aturan-anti-cinta
+6586	2024-08-04	SHOW	Pajama Drive	7197pajama-drive
+6587	2024-08-04	SHOW	Ingin Bertemu	7198ingin-bertemu
+6590	2024-08-08	SHOW	Ingin Bertemu	7201ingin-bertemu
+6591	2024-08-09	SHOW	Pajama Drive	7202pajama-drive
+6592	2024-08-10	SHOW	Tunas di Balik Seragam	7203tunas-di-balik-seragam
+6593	2024-08-11	SHOW	Ingin Bertemu	7204ingin-bertemu
+6596	2024-08-14	SHOW	Tunas di Balik Seragam	7207tunas-di-balik-seragam
+6597	2024-08-15	SHOW	Pajama Drive	7208pajama-drive
+6598	2024-08-16	SHOW	Aturan Anti Cinta	7209aturan-anti-cinta
+6572	2024-08-18	EVENT	Onederful Pass - JKT48V 1st Anniversary Event	7182onederful-pass-jkt48v-1st-anniversary-event
+6573	2024-08-18	EVENT	Special Pass - JKT48V 1st Anniversary Event	7184special-pass-jkt48v-1st-anniversary-event
+6599	2024-08-18	SHOW	Pajama Drive	7210pajama-drive
+6604	2024-08-24	SHOW	Ingin Bertemu	7215ingin-bertemu
+6605	2024-08-25	SHOW	Aturan Anti Cinta	7217aturan-anti-cinta
+6606	2024-08-27	EVENT	OFC Event - “Namanya Juga Vacation!” with JKT48	7218ofc-event-namanya-juga-vacation-with-jkt48
+6611	2024-08-29	SHOW	Ingin Bertemu	7223ingin-bertemu
+6612	2024-08-30	SHOW	Aturan Anti Cinta	7224aturan-anti-cinta
+6613	2024-08-31	SHOW	Pajama Drive	7225pajama-drive
+6614	2024-09-01	SHOW	Cara Meminum Ramune	7226cara-meminum-ramune
+6617	2024-09-04	SHOW	Ingin Bertemu	7229ingin-bertemu
+6619	2024-09-06	SHOW	Pajama Drive	7231pajama-drive
+6621	2024-09-06	SHOW	Pajama Drive	7233pajama-drive
+6618	2024-09-08	EVENT	12th Anniversary Event	723012th-anniversary-event-
+6623	2024-09-12	SHOW	Aturan Anti Cinta	7235aturan-anti-cinta
+6624	2024-09-13	SHOW	Pajama Drive	7236pajama-drive
+6625	2024-09-14	SHOW	Ingin Bertemu	7237ingin-bertemu
+6626	2024-09-15	SHOW	Pajama Drive	7238pajama-drive
+6628	2024-09-19	SHOW	Pajama Drive	7240pajama-drive
+6629	2024-09-20	SHOW	Ingin Bertemu	7241ingin-bertemu
+6630	2024-09-22	SHOW	Pajama Drive	7242pajama-drive
+6631	2024-09-22	SHOW	Aturan Anti Cinta	7244aturan-anti-cinta
+6634	2024-09-25	SHOW	Aturan Anti Cinta	7248aturan-anti-cinta
+6632	2024-09-26	SHOW	Pajama Drive	7246pajama-drive
+6633	2024-09-29	SHOW	Tunas di Balik Seragam	7247tunas-di-balik-seragam
+6635	2024-09-30	EVENT	OFC Event - SUDDEN VERSUS #2 - The Wild Hunt	7249ofc-event-sudden-versus-2-the-wild-hunt
+6637	2024-10-02	SHOW	Cara Meminum Ramune	7251cara-meminum-ramune
+6638	2024-10-03	SHOW	Ingin Bertemu	7252ingin-bertemu
+6639	2024-10-04	SHOW	Pajama Drive	7253pajama-drive
+6640	2024-10-06	SHOW	Pajama Drive	7254pajama-drive
+6646	2024-10-08	EVENT	OFC Event TuesDate - Nonton Bareng with JKT48	7263ofc-event-tuesdate-nonton-bareng-with-jkt48
+6641	2024-10-09	SHOW	Ingin Bertemu	7255ingin-bertemu
+6647	2024-10-09	SHOW	Ingin Bertemu	7264ingin-bertemu
+6643	2024-10-10	SHOW	Aturan Anti Cinta	7259aturan-anti-cinta
+6642	2024-10-11	SHOW	Tunas di Balik Seragam	7257tunas-di-balik-seragam
+6645	2024-10-12	SHOW	Cara Meminum Ramune	7262cara-meminum-ramune
+6644	2024-10-13	SHOW	Pajama Drive	7261pajama-drive
+6650	2024-10-17	SHOW	Pajama Drive	7267pajama-drive
+6651	2024-10-18	SHOW	Aturan Anti Cinta	7268aturan-anti-cinta
+6652	2024-10-19	SHOW	Ingin Bertemu	7269ingin-bertemu
+6653	2024-10-20	SHOW	Cara Meminum Ramune	7270cara-meminum-ramune
+6654	2024-10-24	SHOW	Pajama Drive	7271pajama-drive
+6655	2024-10-25	SHOW	Cara Meminum Ramune	7272cara-meminum-ramune
+6656	2024-10-26	SHOW	Aturan Anti Cinta	7273aturan-anti-cinta
+6657	2024-10-27	SHOW	Ingin Bertemu	7274ingin-bertemu
+6658	2024-10-31	EVENT	JKT48 HALLOWEEN Event 2024	7275jkt48-halloween-event-2024
+6659	2024-11-01	SHOW	Tunas di Balik Seragam	7276tunas-di-balik-seragam
+6660	2024-11-02	SHOW	Pajama Drive	7277pajama-drive
+6661	2024-11-03	SHOW	Aturan Anti Cinta	7278aturan-anti-cinta
+6662	2024-11-07	SHOW	Tunas di Balik Seragam	7279tunas-di-balik-seragam
+6663	2024-11-08	SHOW	Cara Meminum Ramune	7280cara-meminum-ramune
+6664	2024-11-09	SHOW	Ingin Bertemu	7281ingin-bertemu
+6665	2024-11-14	SHOW	Cara Meminum Ramune	7282cara-meminum-ramune
+6666	2024-11-16	SHOW	Aturan Anti Cinta	7283aturan-anti-cinta
+6667	2024-11-17	SHOW	Pajama Drive	7284pajama-drive
+6670	2024-11-19	EVENT	OFC Event: TuesDate #2	7287ofc-event-tuesdate-2
+6671	2024-11-21	SHOW	Aturan Anti Cinta	7289aturan-anti-cinta
+6672	2024-11-22	SHOW	Pajama Drive	7290pajama-drive
+6673	2024-11-23	SHOW	Aturan Anti Cinta	7291aturan-anti-cinta
+6674	2024-11-23	SHOW	Ingin Bertemu	7292ingin-bertemu
+6675	2024-11-24	SHOW	Cara Meminum Ramune	7293cara-meminum-ramune
+6677	2024-11-24	SHOW	Cara Meminum Ramune	7296cara-meminum-ramune
+6678	2024-11-28	SHOW	Pajama Drive	7298pajama-drive
+6679	2024-11-29	SHOW	Tunas di Balik Seragam	7299tunas-di-balik-seragam
+6680	2024-11-30	SHOW	Cara Meminum Ramune	7300cara-meminum-ramune
+6682	2024-12-05	SHOW	Ingin Bertemu	7302ingin-bertemu
+6683	2024-12-06	SHOW	Cara Meminum Ramune	7303cara-meminum-ramune
+6684	2024-12-20	SHOW	Pajama Drive	7304pajama-drive
+6685	2024-12-21	SHOW	Tunas di Balik Seragam	7307tunas-di-balik-seragam
+6686	2024-12-22	SHOW	Aturan Anti Cinta	7308aturan-anti-cinta
+6687	2024-12-22	SHOW	Ingin Bertemu	7309ingin-bertemu
+6688	2024-12-26	SHOW	Cara Meminum Ramune	7310cara-meminum-ramune
+6689	2024-12-27	SHOW	Tunas di Balik Seragam	7311tunas-di-balik-seragam
+6690	2024-12-28	SHOW	Aturan Anti Cinta	7312aturan-anti-cinta
+6694	2025-01-09	SHOW	Aturan Anti Cinta	7316aturan-anti-cinta
+6695	2025-01-10	SHOW	Pajama Drive	7317pajama-drive
+6696	2025-01-11	SHOW	Aturan Anti Cinta	7319aturan-anti-cinta
+6697	2025-01-12	SHOW	Ingin Bertemu	7320ingin-bertemu
+6698	2025-01-17	SHOW	Pajama Drive	7321pajama-drive
+6699	2025-01-18	SHOW	Aturan Anti Cinta	7322aturan-anti-cinta
+6700	2025-01-19	SHOW	Ingin Bertemu	7323ingin-bertemu
+6701	2025-01-19	SHOW	Cara Meminum Ramune	7324cara-meminum-ramune
+6702	2025-01-23	SHOW	Aturan Anti Cinta	7325aturan-anti-cinta
+6705	2025-01-24	SHOW	Cara Meminum Ramune	7331cara-meminum-ramune
+6703	2025-01-25	SHOW	Pajama Drive	7329pajama-drive
+6704	2025-01-26	SHOW	Ingin Bertemu	7330ingin-bertemu
+6706	2025-01-28	EVENT	OFC EVENT - PINS & WINS! Sesi 1	7332ofc-event-pins-wins-sesi-1
+6707	2025-01-28	EVENT	OFC EVENT - PINS & WINS! Sesi 2	7333ofc-event-pins-wins-sesi-2
+6708	2025-02-01	SHOW	Sambil Menggandeng Erat Tanganku	7334sambil-menggandeng-erat-tanganku
+6709	2025-02-01	SHOW	Sambil Menggandeng Erat Tanganku	7335sambil-menggandeng-erat-tanganku
+6710	2025-02-02	SHOW	Sambil Menggandeng Erat Tanganku	7336sambil-menggandeng-erat-tanganku
+6711	2025-02-05	SHOW	Pajama Drive	7337pajama-drive
+6712	2025-02-06	SHOW	Cara Meminum Ramune	7338cara-meminum-ramune
+6713	2025-02-09	SHOW	Ingin Bertemu	7339ingin-bertemu
+6714	2025-02-13	SHOW	Aturan Anti Cinta	7340aturan-anti-cinta
+6715	2025-02-14	SHOW	Pajama Drive	7341pajama-drive
+6716	2025-02-15	SHOW	Ingin Bertemu	7342ingin-bertemu
+6717	2025-02-15	SHOW	Sambil Menggandeng Erat Tanganku	7343sambil-menggandeng-erat-tanganku
+6718	2025-02-16	SHOW	Sambil Menggandeng Erat Tanganku	7344sambil-menggandeng-erat-tanganku
+6728	2025-02-19	SHOW	Sambil Menggandeng Erat Tanganku	7354sambil-menggandeng-erat-tanganku
+6729	2025-02-20	SHOW	Cara Meminum Ramune	7355cara-meminum-ramune
+6730	2025-02-21	SHOW	Aturan Anti Cinta	7356aturan-anti-cinta
+6731	2025-02-22	SHOW	Ingin Bertemu	7357ingin-bertemu
+6724	2025-02-23	EVENT	Quadlips 1ST FAN MEETING IN INDONESIA	7350quadlips-1st-fan-meeting-in-indonesia
+6725	2025-02-23	EVENT	SIZE M - T-Shirt Quadlips 1ST FAN MEETING IN INDONESIA	7351size-m-tshirt-quadlips-1st-fan-meeting-in-indonesia
+6726	2025-02-23	EVENT	SIZE L - T-Shirt Quadlips 1ST FAN MEETING IN INDONESIA	7352size-l-tshirt-quadlips-1st-fan-meeting-in-indonesia
+6727	2025-02-23	EVENT	SIZE XL - T-Shirt Quadlips 1ST FAN MEETING IN INDONESIA	7353size-xl-tshirt-quadlips-1st-fan-meeting-in-indonesia
+6732	2025-02-23	SHOW	Pajama Drive	7358pajama-drive
+6733	2025-02-25	SHOW	Cara Meminum Ramune	7359cara-meminum-ramune
+6734	2025-02-26	SHOW	Ingin Bertemu	7360ingin-bertemu
+6735	2025-02-27	SHOW	Aturan Anti Cinta	7361aturan-anti-cinta
+6736	2025-03-06	EVENT	HOST SWEET HOST	7362host-sweet-host
+6737	2025-03-07	EVENT	THE BATTLE： VOCAL QUEENS	7363the-battle-vocal-queens
+6738	2025-03-08	EVENT	CATUR ASTA	7364catur-asta
+6739	2025-03-09	EVENT	JKT48 SCHOOL	7365jkt48-school
+6741	2025-03-13	EVENT	Family 48	7367family-48
+6742	2025-03-14	EVENT	THE BATTLE: DANCING QUEEN	7368the-battle-dancing-queen
+6743	2025-03-15	EVENT	CATUR ASTA	7369catur-asta
+6744	2025-03-16	EVENT	JKT48 SCHOOL	7370jkt48-school
+6746	2025-03-21	EVENT	CATUR ASTA	7373catur-asta
+6747	2025-03-22	EVENT	JKT48 SCHOOL	7374jkt48-school
+6748	2025-03-23	EVENT	SELEKSI PMDK	7375seleksi-pmdk
+6745	2025-03-26	EVENT	QUIT GAME - RESCHEDULE	7372quit-game-reschedule
+6751	2025-03-26	EVENT	QUIT GAME - ADDITIONAL	7378quit-game-additional
+6752	2025-03-27	EVENT	JKT48 SCHOOL	7379jkt48-school
+6753	2025-03-28	EVENT	CATUR ASTA	7380catur-asta
+6754	2025-04-10	SHOW	Sambil Menggandeng Erat Tanganku	7381sambil-menggandeng-erat-tanganku
+6755	2025-04-11	SHOW	Aturan Anti Cinta	7382aturan-anti-cinta
+6756	2025-04-12	SHOW	Ingin Bertemu	7383ingin-bertemu
+6757	2025-04-12	SHOW	Cara Meminum Ramune	7384cara-meminum-ramune
+6758	2025-04-13	SHOW	Pajama Drive	7385pajama-drive
+6760	2025-04-16	SHOW	Pajama Drive	7387pajama-drive
+6761	2025-04-17	SHOW	Aturan Anti Cinta	7388aturan-anti-cinta
+6762	2025-04-19	SHOW	Ingin Bertemu	7389ingin-bertemu
+6763	2025-04-19	SHOW	Sambil Menggandeng Erat Tanganku	7390sambil-menggandeng-erat-tanganku
+6769	2025-04-24	SHOW	Cara Meminum Ramune	7396cara-meminum-ramune
+6770	2025-04-25	SHOW	Sambil Menggandeng Erat Tanganku	7397sambil-menggandeng-erat-tanganku
+6771	2025-04-26	SHOW	Ingin Bertemu	7398ingin-bertemu
+6772	2025-04-26	SHOW	Aturan Anti Cinta	7399aturan-anti-cinta
+6773	2025-04-27	SHOW	Pajama Drive	7400pajama-drive
+6775	2025-04-27	EVENT	KIDS DAY : JKT48 Special Theater Kids Show	7402kids-day-jkt48-special-theater-kids-show
+6774	2025-04-30	EVENT	OFC Event “Hit That 8all!: Billiard with JKT48!”	7401ofc-event-hit-that-8all-billiard-with-jkt48
+6777	2025-05-01	SHOW	Sambil Menggandeng Erat Tanganku	7404sambil-menggandeng-erat-tanganku
+6778	2025-05-02	SHOW	Aturan Anti Cinta	7405aturan-anti-cinta
+6779	2025-05-03	SHOW	Pajama Drive	7406pajama-drive
+6780	2025-05-04	SHOW	Pajama Drive	7407pajama-drive
+6781	2025-05-04	SHOW	Cara Meminum Ramune	7408cara-meminum-ramune
+6782	2025-05-08	SHOW	Aturan Anti Cinta	7409aturan-anti-cinta
+6783	2025-05-09	SHOW	Sambil Menggandeng Erat Tanganku	7410sambil-menggandeng-erat-tanganku
+6784	2025-05-10	SHOW	Ingin Bertemu	7411ingin-bertemu
+6785	2025-05-11	SHOW	Pajama Drive	7412pajama-drive
+6786	2025-05-11	SHOW	Aturan Anti Cinta	7413aturan-anti-cinta
+6787	2025-05-15	SHOW	Sambil Menggandeng Erat Tanganku	7414sambil-menggandeng-erat-tanganku
+6788	2025-05-16	SHOW	Aturan Anti Cinta	7415aturan-anti-cinta
+6789	2025-05-17	SHOW	Sambil Menggandeng Erat Tanganku	7416sambil-menggandeng-erat-tanganku
+6790	2025-05-17	SHOW	Ingin Bertemu	7417ingin-bertemu
+6791	2025-05-18	SHOW	Cara Meminum Ramune	7418cara-meminum-ramune
+6792	2025-05-18	SHOW	Pajama Drive	7419pajama-drive
+6793	2025-05-22	SHOW	Sambil Menggandeng Erat Tanganku	7420sambil-menggandeng-erat-tanganku
+6794	2025-05-23	SHOW	Pajama Drive	7421pajama-drive
+6795	2025-05-24	SHOW	Pajama Drive	7423pajama-drive
+6798	2025-05-24	SHOW	Sambil Menggandeng Erat Tanganku	7426sambil-menggandeng-erat-tanganku
+6796	2025-05-25	SHOW	Ingin Bertemu	7424ingin-bertemu
+6797	2025-05-25	SHOW	Cara Meminum Ramune	7425cara-meminum-ramune
+6804	2025-05-29	SHOW	Pajama Drive	7432pajama-drive
+6805	2025-05-30	SHOW	Sambil Menggandeng Erat Tanganku	7433sambil-menggandeng-erat-tanganku
+6806	2025-05-31	SHOW	Pajama Drive	7434pajama-drive
+6807	2025-05-31	SHOW	Aturan Anti Cinta	7435aturan-anti-cinta
+6808	2025-06-03	EVENT	OFC Event “ARTchive Day #3: Claycation with JKT48!”	7436ofc-event-artchive-day-3-claycation-with-jkt48
+6809	2025-06-04	SHOW	Aturan Anti Cinta	7437aturan-anti-cinta
+6810	2025-06-07	SHOW	Cara Meminum Ramune	7438cara-meminum-ramune
+6811	2025-06-07	SHOW	Ingin Bertemu	7439ingin-bertemu
+6812	2025-06-08	SHOW	Pajama Drive	7440pajama-drive
+6816	2025-06-12	SHOW	Ingin Bertemu	7444ingin-bertemu
+6817	2025-06-13	SHOW	Sambil Menggandeng Erat Tanganku	7445sambil-menggandeng-erat-tanganku
+6818	2025-06-14	SHOW	Aturan Anti Cinta	7446aturan-anti-cinta
+6819	2025-06-14	SHOW	Pajama Drive	7447pajama-drive
+6823	2025-06-19	SHOW	Sambil Menggandeng Erat Tanganku	7451sambil-menggandeng-erat-tanganku
+6824	2025-06-20	SHOW	Ingin Bertemu	7452ingin-bertemu
+6825	2025-06-21	SHOW	Pajama Drive	7453pajama-drive
+6826	2025-06-22	SHOW	Aturan Anti Cinta	7454aturan-anti-cinta
+6828	2025-06-26	SHOW	Sambil Menggandeng Erat Tanganku	7456sambil-menggandeng-erat-tanganku
+6834	2025-06-26	SHOW	Sambil Menggandeng Erat Tanganku	7462sambil-menggandeng-erat-tanganku
+6829	2025-06-27	SHOW	Aturan Anti Cinta	7457aturan-anti-cinta
+6830	2025-06-28	SHOW	Pajama Drive	7458pajama-drive
+6831	2025-06-29	SHOW	Cara Meminum Ramune	7459cara-meminum-ramune
+6832	2025-07-02	SHOW	Pajama Drive	7460pajama-drive
+6833	2025-07-03	SHOW	Cara Meminum Ramune	7461cara-meminum-ramune
+6838	2025-07-05	EVENT	JKT48 ALL IN TOUR 2025 - SEMARANG	7466jkt48-all-in-tour-2025-semarang
+6839	2025-07-06	EVENT	JKT48 ALL IN TOUR 2025 - CIMAHI	7467jkt48-all-in-tour-2025-cimahi
+6840	2025-07-08	EVENT	JKT48 ALL IN TOUR 2025 - YOGYAKARTA	7468jkt48-all-in-tour-2025-yogyakarta
+6841	2025-07-09	EVENT	JKT48 ALL IN TOUR 2025 - SOLO	7469jkt48-all-in-tour-2025-solo
+6842	2025-07-12	EVENT	JKT48 ALL IN TOUR 2025 - SURABAYA	7470jkt48-all-in-tour-2025-surabaya
+6843	2025-07-16	SHOW	Pajama Drive	7471pajama-drive
+6844	2025-07-17	SHOW	Cara Meminum Ramune	7472cara-meminum-ramune
+6845	2025-07-30	SHOW	Aturan Anti Cinta	7473aturan-anti-cinta
+6846	2025-07-31	SHOW	Aturan Anti Cinta	7474aturan-anti-cinta
+6847	2025-08-01	SHOW	Sambil Menggandeng Erat Tanganku	7475sambil-menggandeng-erat-tanganku
+6848	2025-08-02	SHOW	Pajama Drive	7476pajama-drive
+6849	2025-08-03	SHOW	Cara Meminum Ramune	7477cara-meminum-ramune
+6851	2025-08-07	SHOW	Sambil Menggandeng Erat Tanganku	7479sambil-menggandeng-erat-tanganku
+6852	2025-08-08	SHOW	Pajama Drive	7480pajama-drive
+6853	2025-08-09	SHOW	Ingin Bertemu	7481ingin-bertemu
+6855	2025-08-13	SHOW	Sambil Menggandeng Erat Tanganku	7483sambil-menggandeng-erat-tanganku
+6856	2025-08-14	SHOW	Aturan Anti Cinta	7484aturan-anti-cinta
+6857	2025-08-15	SHOW	Pajama Drive	7485pajama-drive
+6858	2025-08-16	SHOW	Ingin Bertemu	7486ingin-bertemu
+6859	2025-08-21	SHOW	Sambil Menggandeng Erat Tanganku	7487sambil-menggandeng-erat-tanganku
+6860	2025-08-22	SHOW	Pajama Drive	7488pajama-drive
+6861	2025-08-23	SHOW	Cara Meminum Ramune	7489cara-meminum-ramune
+6862	2025-08-24	SHOW	Aturan Anti Cinta	7490aturan-anti-cinta
+6863	2025-08-26	EVENT	OFC Event - SUDDEN VERSUS #3 - Good Luck, Have Fun! Sesi 1	7491ofc-event-sudden-versus-3-good-luck-have-fun-sesi-1
+6864	2025-08-26	EVENT	OFC Event - SUDDEN VERSUS #3 - Good Luck, Have Fun! Sesi 2	7492ofc-event-sudden-versus-3-good-luck-have-fun-sesi-2
+6865	2025-08-29	SHOW	Pajama Drive	7493pajama-drive
+6866	2025-08-30	SHOW	Ingin Bertemu	7494ingin-bertemu
+6867	2025-08-30	SHOW	Aturan Anti Cinta	7495aturan-anti-cinta
+6868	2025-08-31	SHOW	Cara Meminum Ramune	7496cara-meminum-ramune
+6869	2025-09-06	SHOW	Aturan Anti Cinta	7497aturan-anti-cinta
+6870	2025-09-07	SHOW	Cara Meminum Ramune	7498cara-meminum-ramune
+6871	2025-09-11	SHOW	Pajama Drive	7499pajama-drive
+6872	2025-09-12	SHOW	Sambil Menggandeng Erat Tanganku	7500sambil-menggandeng-erat-tanganku
+6873	2025-09-13	SHOW	Ingin Bertemu	7501ingin-bertemu
+6874	2025-09-13	SHOW	Aturan Anti Cinta	7502aturan-anti-cinta
+6879	2025-09-18	SHOW	Pajama Drive	7507pajama-drive
+6880	2025-09-19	SHOW	Aturan Anti Cinta	7508aturan-anti-cinta
+6881	2025-09-20	SHOW	Pajama Drive	7509pajama-drive
+6882	2025-09-20	SHOW	Cara Meminum Ramune	7510cara-meminum-ramune
+6883	2025-09-24	SHOW	Pajama Drive	7511pajama-drive
+6884	2025-09-25	SHOW	Aturan Anti Cinta	7512aturan-anti-cinta
+6885	2025-09-26	SHOW	Ingin Bertemu	7513ingin-bertemu
+6886	2025-09-27	SHOW	Sambil Menggandeng Erat Tanganku	7514sambil-menggandeng-erat-tanganku
+6887	2025-10-02	SHOW	Cara Meminum Ramune	7515cara-meminum-ramune
+6888	2025-10-04	SHOW	Pajama Drive	7516pajama-drive
+6889	2025-10-05	SHOW	Pertaruhan Cinta	7517pertaruhan-cinta
+6892	2025-10-10	SHOW	Aturan Anti Cinta	7521aturan-anti-cinta
+6893	2025-10-11	SHOW	Pajama Drive	7522pajama-drive
+6894	2025-10-12	SHOW	Ingin Bertemu	7524ingin-bertemu
+6895	2025-10-12	SHOW	Pertaruhan Cinta	7525pertaruhan-cinta
+6898	2025-10-16	SHOW	Pajama Drive	7528pajama-drive
+6899	2025-10-18	SHOW	Ingin Bertemu	7529ingin-bertemu
+6900	2025-10-19	SHOW	Pajama Drive	7530pajama-drive
+6901	2025-10-19	SHOW	Sambil Menggandeng Erat Tanganku	7531sambil-menggandeng-erat-tanganku
+6897	2025-10-20	EVENT	OFC Event “ARTchive Day #4: In Celebration of JKT48 Theater’s New Setlist–Pertaruhan Cinta”	7527ofc-event-artchive-day-4-in-celebration-of-jkt48-theaters-new-setlistpertaruhan-cinta
+6902	2025-10-21	SHOW	Sambil Menggandeng Erat Tanganku	7532sambil-menggandeng-erat-tanganku
+6903	2025-10-22	SHOW	Aturan Anti Cinta	7533aturan-anti-cinta
+6904	2025-10-23	SHOW	Pertaruhan Cinta	7534pertaruhan-cinta
+6905	2025-10-30	SHOW	Pajama Drive	7535pajama-drive
+6906	2025-10-31	SHOW	Pertaruhan Cinta	7536pertaruhan-cinta
+6907	2025-11-01	SHOW	Ingin Bertemu	7537ingin-bertemu
+6908	2025-11-01	SHOW	Sambil Menggandeng Erat Tanganku	7538sambil-menggandeng-erat-tanganku
+6909	2025-11-02	SHOW	Pertaruhan Cinta	7539pertaruhan-cinta
+6911	2025-11-06	SHOW	Aturan Anti Cinta	7541aturan-anti-cinta
+6912	2025-11-07	SHOW	Cara Meminum Ramune	7542cara-meminum-ramune
+6913	2025-11-08	SHOW	Pajama Drive	7543pajama-drive
+6914	2025-11-08	SHOW	Pertaruhan Cinta	7544pertaruhan-cinta
+6915	2025-11-09	SHOW	Sambil Menggandeng Erat Tanganku	7545sambil-menggandeng-erat-tanganku
+6916	2025-11-13	SHOW	Pertaruhan Cinta	7546pertaruhan-cinta
+6917	2025-11-14	SHOW	Cara Meminum Ramune	7547cara-meminum-ramune
+6918	2025-11-15	SHOW	Pajama Drive	7548pajama-drive
+6919	2025-11-16	SHOW	Sambil Menggandeng Erat Tanganku	7549sambil-menggandeng-erat-tanganku
+6920	2025-11-18	EVENT	JKT48 Special Event: “Pertaruhan Cinta” on the BIG SCREEN | Balikpapan	7551jkt48-special-event-pertaruhan-cinta-on-the-big-screen-balikpapan
+6924	2025-11-20	SHOW	Sambil Menggandeng Erat Tanganku	7555sambil-menggandeng-erat-tanganku
+6925	2025-11-21	SHOW	KIRA KIRA GIRLS	7556kira-kira-girls
+6926	2025-11-22	SHOW	Aturan Anti Cinta	7557aturan-anti-cinta
+6927	2025-11-23	SHOW	Ingin Bertemu	7558ingin-bertemu
+6928	2025-11-24	EVENT	JKT48 Special Event: “Pertaruhan Cinta” on the BIG SCREEN | Medan	7561jkt48-special-event-pertaruhan-cinta-on-the-big-screen-medan
+6930	2025-11-27	SHOW	Cara Meminum Ramune	7563cara-meminum-ramune
+6929	2025-11-28	SHOW	Pertaruhan Cinta	7562pertaruhan-cinta
+6931	2025-11-29	SHOW	KIRA KIRA GIRLS	7564kira-kira-girls
+6932	2025-11-30	SHOW	Ingin Bertemu	7565ingin-bertemu
+6933	2025-11-30	SHOW	KIRA KIRA GIRLS	7566kira-kira-girls
+6935	2025-12-04	SHOW	KIRA KIRA GIRLS	7568kira-kira-girls
+6936	2025-12-05	SHOW	Aturan Anti Cinta	7569aturan-anti-cinta
+6937	2025-12-06	SHOW	Ingin Bertemu	7570ingin-bertemu
+6938	2025-12-07	SHOW	Pertaruhan Cinta	7571pertaruhan-cinta
+6939	2025-12-10	SHOW	Sambil Menggandeng Erat Tanganku	7572sambil-menggandeng-erat-tanganku
+6940	2025-12-11	SHOW	KIRA KIRA GIRLS	7573kira-kira-girls
+6941	2025-12-12	SHOW	Ingin Bertemu	7574ingin-bertemu
+6942	2025-12-13	SHOW	Cara Meminum Ramune	7575cara-meminum-ramune
+6943	2025-12-22	SHOW	Aturan Anti Cinta	7576aturan-anti-cinta
+6944	2025-12-23	SHOW	Cara Meminum Ramune	7577cara-meminum-ramune
+6945	2025-12-26	SHOW	Aturan Anti Cinta	7578aturan-anti-cinta
+6946	2025-12-27	SHOW	Pertaruhan Cinta	7579pertaruhan-cinta
+6947	2025-12-28	SHOW	KIRA KIRA GIRLS	7580kira-kira-girls
+6948	2025-12-28	SHOW	Pertaruhan Cinta	7581pertaruhan-cinta
+6949	2026-01-08	SHOW	Pertaruhan Cinta	7582pertaruhan-cinta
+6950	2026-01-09	SHOW	Cara Meminum Ramune	7583cara-meminum-ramune
+6951	2026-01-10	SHOW	Sambil Menggandeng Erat Tanganku	7584sambil-menggandeng-erat-tanganku
+6952	2026-01-11	SHOW	Cara Meminum Ramune	7585cara-meminum-ramune
+6953	2026-01-15	SHOW	Cara Meminum Ramune	7586cara-meminum-ramune
+6954	2026-01-16	SHOW	Sambil Menggandeng Erat Tanganku	7587sambil-menggandeng-erat-tanganku
+6955	2026-01-17	SHOW	Cara Meminum Ramune	7588cara-meminum-ramune
+6956	2026-01-18	SHOW	Sambil Menggandeng Erat Tanganku	7589sambil-menggandeng-erat-tanganku
+6957	2026-01-18	SHOW	Pertaruhan Cinta	7590pertaruhan-cinta
+6959	2026-01-22	SHOW	Cara Meminum Ramune	7592cara-meminum-ramune
+6960	2026-01-23	SHOW	Pertaruhan Cinta	7593pertaruhan-cinta
+6961	2026-01-24	SHOW	Sambil Menggandeng Erat Tanganku	7594sambil-menggandeng-erat-tanganku
+6962	2026-01-25	SHOW	Sambil Menggandeng Erat Tanganku	7595sambil-menggandeng-erat-tanganku
+6963	2026-01-25	SHOW	Pertaruhan Cinta	7596pertaruhan-cinta
+6964	2026-01-29	SHOW	Cara Meminum Ramune	7597cara-meminum-ramune
+6965	2026-01-30	SHOW	Pertaruhan Cinta	7598pertaruhan-cinta
+6966	2026-01-31	SHOW	Sambil Menggandeng Erat Tanganku	7599sambil-menggandeng-erat-tanganku
+6967	2026-02-01	SHOW	Cara Meminum Ramune	7600cara-meminum-ramune
+6970	2026-02-05	SHOW	Pertaruhan Cinta	7603pertaruhan-cinta
+6971	2026-02-06	SHOW	Cara Meminum Ramune	7604cara-meminum-ramune
+6972	2026-02-07	SHOW	Sambil Menggandeng Erat Tanganku	7605sambil-menggandeng-erat-tanganku
+6973	2026-02-08	SHOW	Cara Meminum Ramune	7606cara-meminum-ramune
+6974	2026-02-12	SHOW	Sambil Menggandeng Erat Tanganku	7607sambil-menggandeng-erat-tanganku
+6975	2026-02-13	SHOW	Pertaruhan Cinta	7608pertaruhan-cinta
+6976	2026-02-14	SHOW	Sambil Menggandeng Erat Tanganku	7609sambil-menggandeng-erat-tanganku
+6977	2026-02-15	SHOW	Pertaruhan Cinta	7610pertaruhan-cinta
+6978	2026-02-16	SHOW	Cara Meminum Ramune	7611cara-meminum-ramune
+6979	2026-02-21	EVENT	Z VS ALPHA	7614z-vs-alpha
+6980	2026-02-22	EVENT	JKT48 SCHOOL	7615jkt48-school
+6981	2026-02-26	EVENT	SELEKSI PMDK 2026	7616seleksi-pmdk-2026
+6982	2026-02-27	EVENT	ANDAI ‘KU BUKAN IDOLA	7617andai-ku-bukan-idola
+6983	2026-02-28	EVENT	JKT48 FIGHT: LOVE DREAM PASSION	7618jkt48-fight-love-dream-passion
+6984	2026-03-01	EVENT	JKT48 SCHOOL	7619jkt48-school
+6989	2026-03-04	EVENT	JKT48 FIGHT: LOVE DREAM PASSION	7624jkt48-fight-love-dream-passion
+6990	2026-03-05	EVENT	THE CHALLENGERS	7625the-challengers
+6991	2026-03-06	EVENT	ANDAI ‘KU BUKAN IDOLA	7626andai-ku-bukan-idola
+6986	2026-03-07	EVENT	JKT48 OFC Event “JKT48 Psychology Project: Team Dream	7621jkt48-ofc-event-jkt48-psychology-project-team-dream
+6987	2026-03-08	EVENT	JKT48 OFC Event “JKT48 Psychology Project: Team Love	7622jkt48-ofc-event-jkt48-psychology-project-team-love
+6992	2026-03-08	EVENT	JKT48 SCHOOL	7627jkt48-school
+6993	2026-03-13	EVENT	JKT48 FIGHT: LOVE DREAM PASSION	7628jkt48-fight-love-dream-passion
+6994	2026-03-14	EVENT	SELEKSI PMDK 2026	7629seleksi-pmdk-2026
+6988	2026-03-15	EVENT	JKT48 OFC Event “JKT48 Psychology Project: Team Passion	7623jkt48-ofc-event-jkt48-psychology-project-team-passion
+6995	2026-03-15	EVENT	JKT48 SCHOOL	7630jkt48-school
+6996	2026-03-16	EVENT	ANDAI ‘KU BUKAN IDOLA	7631andai-ku-bukan-idola
+7068	2026-03-28	SHOW	Pertaruhan Cinta	sh4173-pertaruhan-cinta
+7069	2026-03-28	SHOW	Cara Meminum Ramune	shbe48-cara-meminum-ramune
+7070	2026-03-29	SHOW	Pertaruhan Cinta	sheef5-pertaruhan-cinta
+7071	2026-04-01	SHOW	Pertaruhan Cinta	sh8cd7-pertaruhan-cinta
+7072	2026-04-04	SHOW	Pertaruhan Cinta	sh5e85-pertaruhan-cinta
+7078	2026-04-10	SHOW	Sambil Menggandeng Erat Tanganku	sh86f5-sambil-menggandeng-erat-tanganku
+7079	2026-04-11	SHOW	PASSION 200%	sh1d7b-passion-200
+7081	2026-04-11	GENERAL	SPORTSTIVE+	sportstive
+7080	2026-04-12	SHOW	Cara Meminum Ramune	sh3401-cara-meminum-ramune
+7116	2026-04-14	EXCLUSIVE	Love Dream Passion - Music Video Behind the Scenes	exbe10-14042026
+7114	2026-04-15	EXCLUSIVE	Love Dream Passion - Music Video Behind the Scenes	exbe10-15042026
+7111	2026-04-16	EXCLUSIVE	Love Dream Passion - Music Video Behind the Scenes	exbe10-16042026
+7112	2026-04-17	EXCLUSIVE	Love Dream Passion - Music Video Behind the Scenes	exbe10-17042026
+7117	2026-04-17	SHOW	Pertaruhan Cinta	sh4395-pertaruhan-cinta
+7110	2026-04-18	EXCLUSIVE	Love Dream Passion - Music Video Behind the Scenes	exbe10-18042026
+7118	2026-04-18	SHOW	DREAM BAKUDAN	sh6ae8-dream-bakudan
+7120	2026-04-18	GENERAL	SWARA SEMESTA	swara-semesta
+7113	2026-04-19	EXCLUSIVE	Love Dream Passion - Music Video Behind the Scenes	exbe10-19042026
+7119	2026-04-19	SHOW	Cara Meminum Ramune	sh84a4-cara-meminum-ramune
+7115	2026-04-20	EXCLUSIVE	Love Dream Passion - Music Video Behind the Scenes	exbe10-20042026
+7121	2026-04-24	SHOW	DREAM BAKUDAN	sh1a3d-dream-bakudan
+7077	2026-04-25	GENERAL	2nd Anniversary Aeon Mall Deltamas	2nd-anniversary-aeon-mall-deltamas
+7122	2026-04-25	SHOW	ITADAKI♥LOVE	sh5098-itadakilove
+7123	2026-04-26	SHOW	PASSION 200%	sh93c1-passion-200
+7124	2026-04-26	GENERAL	Spectaphoria Volume 2 : Galaxy 2026	spectaphoria-volume-2-galaxy-2026
+7125	2026-04-26	EVENT	Group 1 - Trial Video Call bersama Member JKT48 Generasi 14	ev9a3e-group-1-trial-video-call-bersama-member-jkt48-generasi-14
+7126	2026-04-26	EVENT	Group 2 - Trial Video Call bersama Member JKT48 Generasi 14	ev228f-group-2-trial-video-call-bersama-member-jkt48-generasi-14
+7127	2026-04-26	EVENT	Group 3 - Trial Video Call bersama Member JKT48 Generasi 14	ev81a2-group-3-trial-video-call-bersama-member-jkt48-generasi-14
+7128	2026-04-26	EVENT	Group 4 - Trial Video Call bersama Member JKT48 Generasi 14	ev38ae-group-4-trial-video-call-bersama-member-jkt48-generasi-14
+7129	2026-04-26	EVENT	Group 5 - Trial Video Call bersama Member JKT48 Generasi 14	ev70d7-group-5-trial-video-call-bersama-member-jkt48-generasi-14
+7130	2026-05-01	SHOW	Cara Meminum Ramune	shc5f2-cara-meminum-ramune
+7131	2026-05-02	SHOW	Pajama Drive	sh21fe-pajama-drive
+7132	2026-05-03	SHOW	Pajama Drive	sh0be5-pajama-drive
+7133	2026-05-03	SHOW	Pertaruhan Cinta	shb1eb-pertaruhan-cinta
+7134	2026-05-08	SHOW	ITADAKI♥LOVE	sh3f04-itadakilove
+7147	2026-05-08	EXCLUSIVE	We Are Love, Dream Team, Passion On Fire!	ex3725-08052026
+7135	2026-05-09	SHOW	Pajama Drive	sh5368-pajama-drive
+7136	2026-05-09	SHOW	Sambil Menggandeng Erat Tanganku	sh6834-sambil-menggandeng-erat-tanganku
+7141	2026-05-09	EXCLUSIVE	We Are Love, Dream Team, Passion On Fire!	ex3725-09052026
+7137	2026-05-10	SHOW	DREAM BAKUDAN	sh1723-dream-bakudan
+7145	2026-05-10	EXCLUSIVE	We Are Love, Dream Team, Passion On Fire!	ex3725-10052026
+7146	2026-05-11	EXCLUSIVE	We Are Love, Dream Team, Passion On Fire!	ex3725-11052026
+7138	2026-05-12	EVENT	ARISAN 48 - COFFEE EDITION	eve39f-arisan-48-coffee-edition
+7139	2026-05-12	EVENT	ARISAN 48 - MATCHA EDITION	ev0eed-arisan-48-matcha-edition
+7140	2026-05-12	EVENT	ARISAN 48 - SPARKLING EDITION	evabe6-arisan-48-sparkling-edition
+7149	2026-05-12	EXCLUSIVE	We Are Love, Dream Team, Passion On Fire!	ex3725-12052026
+7143	2026-05-13	EXCLUSIVE	We Are Love, Dream Team, Passion On Fire!	ex3725-13052026
+7142	2026-05-14	EXCLUSIVE	We Are Love, Dream Team, Passion On Fire!	ex3725-14052026
+7150	2026-05-14	SHOW	ITADAKI♥LOVE	shf086-itadakilove
+7148	2026-05-15	EXCLUSIVE	We Are Love, Dream Team, Passion On Fire!	ex3725-15052026
+7151	2026-05-15	SHOW	Pajama Drive	sh700b-pajama-drive
+7144	2026-05-16	EXCLUSIVE	We Are Love, Dream Team, Passion On Fire!	ex3725-16052026
+7152	2026-05-16	SHOW	Sambil Menggandeng Erat Tanganku	shda13-sambil-menggandeng-erat-tanganku
+7153	2026-05-16	SHOW	Cara Meminum Ramune	shee46-cara-meminum-ramune
+7154	2026-05-17	SHOW	PASSION 200%	she361-passion-200
+7159	2026-05-17	SHOW	Cara Meminum Ramune	sh9138-cara-meminum-ramune
+7155	2026-05-19	SHOW	PASSION 200%	sh86b2-passion-200
+7156	2026-05-20	SHOW	ITADAKI♥LOVE	sh2c06-itadakilove
+7157	2026-05-21	SHOW	DREAM BAKUDAN	shb0ef-dream-bakudan
+7073	2026-05-23	EXCLUSIVE	Personal Meet and Greet Festival: LOVE DREAM PASSION, 2Shot - 23 May	ex579e-23052026
+7076	2026-05-23	EXCLUSIVE	Personal Meet and Greet Festival: LOVE DREAM PASSION, Meet & Greet - 23 May	exe588-23052026
+7158	2026-05-24	SHOW	Pajama Drive	she719-pajama-drive
+7160	2026-05-28	SHOW	Pertaruhan Cinta	shece9-pertaruhan-cinta
+7161	2026-05-29	SHOW	Pajama Drive	shac93-pajama-drive
+7162	2026-05-30	SHOW	DREAM BAKUDAN	shbc0d-dream-bakudan
+7163	2026-05-31	SHOW	PASSION 200%	shb23c-passion-200
+7164	2026-05-31	SHOW	Sambil Menggandeng Erat Tanganku	shda9d-sambil-menggandeng-erat-tanganku
+7165	2026-06-04	SHOW	Pajama Drive	shc980-pajama-drive
+7166	2026-06-05	SHOW	DREAM BAKUDAN	sheedb-dream-bakudan
+7167	2026-06-06	SHOW	Sambil Menggandeng Erat Tanganku	shb4cd-sambil-menggandeng-erat-tanganku
+7168	2026-06-06	SHOW	ITADAKI♥LOVE	sh38ab-itadakilove
+7177	2026-06-15	EXCLUSIVE	JKT48 Personal Meet and Greet Festival: LOVE DREAM PASSION	ex783d-15062026
+7176	2026-06-16	EXCLUSIVE	JKT48 Personal Meet and Greet Festival: LOVE DREAM PASSION	ex783d-16062026
+7170	2026-06-17	EXCLUSIVE	JKT48 Personal Meet and Greet Festival: LOVE DREAM PASSION	ex783d-17062026
+7178	2026-06-18	EXCLUSIVE	JKT48 Personal Meet and Greet Festival: LOVE DREAM PASSION	ex783d-18062026
+7174	2026-06-19	EXCLUSIVE	JKT48 Personal Meet and Greet Festival: LOVE DREAM PASSION	ex783d-19062026
+7201	2026-06-19	SHOW	Sambil Menggandeng Erat Tanganku	shb29c-sambil-menggandeng-erat-tanganku
+7171	2026-06-20	EXCLUSIVE	JKT48 Personal Meet and Greet Festival: LOVE DREAM PASSION	ex783d-20062026
+7202	2026-06-20	SHOW	Pajama Drive	sh7623-pajama-drive
+7203	2026-06-20	SHOW	Cara Meminum Ramune	sh8780-cara-meminum-ramune
+7172	2026-06-21	EXCLUSIVE	JKT48 Personal Meet and Greet Festival: LOVE DREAM PASSION	ex783d-21062026
+7204	2026-06-21	SHOW	Pertaruhan Cinta	sh691b-pertaruhan-cinta
+7173	2026-06-22	EXCLUSIVE	JKT48 Personal Meet and Greet Festival: LOVE DREAM PASSION	ex783d-22062026
+7175	2026-06-23	EXCLUSIVE	JKT48 Personal Meet and Greet Festival: LOVE DREAM PASSION	ex783d-23062026
+7169	2026-06-24	EXCLUSIVE	JKT48 Personal Meet and Greet Festival: LOVE DREAM PASSION	ex783d-24062026
+7205	2026-06-24	SHOW	Sambil Menggandeng Erat Tanganku	sh1b46-sambil-menggandeng-erat-tanganku
+7208	2026-06-24	SHOW	PASSION 200% - Yogyakarta	sh0a35-passion-200-yogyakarta
+7209	2026-06-25	SHOW	PASSION 200% - Yogyakarta	shb05f-passion-200-yogyakarta
+7211	2026-06-25	SHOW	ITADAKI♥LOVE - Surabaya	shc164-itadakilove-surabaya
+7210	2026-06-26	SHOW	PASSION 200% - Yogyakarta	shc311-passion-200-yogyakarta
+7212	2026-06-26	SHOW	ITADAKI♥LOVE - Surabaya	sh2a75-itadakilove-surabaya
+7199	2026-06-27	EXCLUSIVE	Team Passion, Meet and Greet Yogyakarta	excb75-27062026
+7200	2026-06-27	EXCLUSIVE	Team Passion, 2shot Yogyakarta	excd2c-27062026
+7206	2026-06-27	SHOW	Pajama Drive	shcb04-pajama-drive
+7213	2026-06-27	SHOW	ITADAKI♥LOVE - Surabaya	sheb90-itadakilove-surabaya
+7196	2026-06-28	EXCLUSIVE	Team Love & Team Dream, Meet and Greet Surabaya	ex9a4a-28062026
+7198	2026-06-28	EXCLUSIVE	Team Love & Team Dream, 2shot Surabaya	ex3773-28062026
+7207	2026-06-28	SHOW	Pajama Drive	shaafe-pajama-drive
+7214	2026-06-29	SHOW	DREAM BAKUDAN - Surabaya	sh4ca4-dream-bakudan-surabaya
+7215	2026-06-30	SHOW	DREAM BAKUDAN - Surabaya	shf963-dream-bakudan-surabaya
+7216	2026-07-01	SHOW	DREAM BAKUDAN - Surabaya	sh6886-dream-bakudan-surabaya
+7217	2026-07-01	SHOW	ITADAKI♥LOVE - Yogyakarta	sh8e83-itadakilove-yogyakarta
+7195	2026-07-02	EXCLUSIVE	Team Love & Team Dream, Meet and Greet Surabaya	ex9a4a-02072026
+7197	2026-07-02	EXCLUSIVE	Team Love & Team Dream, 2shot Surabaya	ex3773-02072026
+7218	2026-07-02	SHOW	ITADAKI♥LOVE - Yogyakarta	sh1fc5-itadakilove-yogyakarta
+7219	2026-07-03	SHOW	ITADAKI♥LOVE - Yogyakarta	sh0a77-itadakilove-yogyakarta
+7234	2026-07-03	SHOW	Pajama Drive	sh8ef5-pajama-drive
+7229	2026-07-04	EXCLUSIVE	Team Love & Team Dream, Meet and Greet Yogyakarta	exa340-04072026
+7230	2026-07-04	EXCLUSIVE	Team Love & Team Dream, 2shot Yogyakarta	exfb66-04072026
+7235	2026-07-04	SHOW	Pajama Drive	sh3962-pajama-drive
+7228	2026-07-05	EXCLUSIVE	Team Love & Team Dream, Meet and Greet Yogyakarta	exa340-05072026
+7231	2026-07-05	EXCLUSIVE	Team Love & Team Dream, 2shot Yogyakarta	exfb66-05072026
+7232	2026-07-05	EVENT	(Sesi 1) JKT48 OFC Event “FUN ON BOARD #3: Fun Board Games with JKT48 Trainee”	evf780-sesi-1-jkt48-ofc-event-fun-on-board-3-fun-board-games-with-jkt48-trainee
+7233	2026-07-05	EVENT	(Sesi 2) JKT48 OFC Event “FUN ON BOARD #3: Fun Board Games with JKT48 Trainee”	evc82f-sesi-2-jkt48-ofc-event-fun-on-board-3-fun-board-games-with-jkt48-trainee
+7220	2026-07-06	SHOW	DREAM BAKUDAN - Yogyakarta	sh7891-dream-bakudan-yogyakarta
+7223	2026-07-06	SHOW	PASSION 200% - Surabaya	shcce0-passion-200-surabaya
+7221	2026-07-07	SHOW	DREAM BAKUDAN - Yogyakarta	sh8ae3-dream-bakudan-yogyakarta
+7224	2026-07-07	SHOW	PASSION 200% - Surabaya	sh3637-passion-200-surabaya
+7222	2026-07-08	SHOW	DREAM BAKUDAN - Yogyakarta	sh1c3d-dream-bakudan-yogyakarta
+7225	2026-07-08	SHOW	PASSION 200% - Surabaya	sh5a17-passion-200-surabaya
+7226	2026-07-09	EXCLUSIVE	Team Passion, Meet and Greet Surabaya	exafb8-09072026
+7227	2026-07-09	EXCLUSIVE	Team Passion, 2shot Surabaya	ex38a5-09072026
+7236	2026-07-10	SHOW	ITADAKI♥LOVE	she083-itadakilove
+7237	2026-07-11	SHOW	Sambil Menggandeng Erat Tanganku	sh6f13-sambil-menggandeng-erat-tanganku
+7238	2026-07-11	SHOW	Pajama Drive	sh4bd5-pajama-drive
+7239	2026-07-12	SHOW	PASSION 200%	sh37d6-passion-200
+7240	2026-07-16	SHOW	Pertaruhan Cinta	sh14b4-pertaruhan-cinta
+7241	2026-07-17	SHOW	DREAM BAKUDAN	sh9881-dream-bakudan
+7242	2026-07-18	SHOW	Sambil Menggandeng Erat Tanganku	shac66-sambil-menggandeng-erat-tanganku
+7243	2026-07-18	SHOW	Pajama Drive	shcdf3-pajama-drive
+7244	2026-07-19	SHOW	Cara Meminum Ramune	sh65a1-cara-meminum-ramune
+7256	2026-07-19	EXCLUSIVE	JKT48 Request Hour 2026 Setlist Best 40	ex7f6c-19072026
+7260	2026-07-20	EXCLUSIVE	JKT48 Request Hour 2026 Setlist Best 40	ex7f6c-20072026
+7257	2026-07-21	EXCLUSIVE	JKT48 Request Hour 2026 Setlist Best 40	ex7f6c-21072026
+7259	2026-07-22	EXCLUSIVE	JKT48 Request Hour 2026 Setlist Best 40	ex7f6c-22072026
+7253	2026-07-23	EXCLUSIVE	JKT48 Request Hour 2026 Setlist Best 40	ex7f6c-23072026
+7254	2026-07-24	EXCLUSIVE	JKT48 Request Hour 2026 Setlist Best 40	ex7f6c-24072026
+7261	2026-07-24	SHOW	Cara Meminum Ramune	sh1796-cara-meminum-ramune
+7255	2026-07-25	EXCLUSIVE	JKT48 Request Hour 2026 Setlist Best 40	ex7f6c-25072026
+7262	2026-07-25	SHOW	Pajama Drive	sh4d5c-pajama-drive
+7263	2026-07-25	SHOW	ITADAKI♥LOVE	sh7c39-itadakilove
+7258	2026-07-26	EXCLUSIVE	JKT48 Request Hour 2026 Setlist Best 40	ex7f6c-26072026
+7264	2026-07-26	SHOW	Sambil Menggandeng Erat Tanganku	sh1429-sambil-menggandeng-erat-tanganku
+7265	2026-07-31	SHOW	Sambil Menggandeng Erat Tanganku	sh3c54-sambil-menggandeng-erat-tanganku
+7266	2026-08-01	SHOW	Pajama Drive	shd2a5-pajama-drive
+7267	2026-08-01	SHOW	Pertaruhan Cinta	sh70ca-pertaruhan-cinta
+7268	2026-08-02	SHOW	PASSION 200%	sh82ff-passion-200
+7269	2026-08-02	SHOW	Cara Meminum Ramune	sh720a-cara-meminum-ramune
+7271	2026-08-05	SHOW	Sambil Menggandeng Erat Tanganku	sh990d-sambil-menggandeng-erat-tanganku
+7272	2026-08-06	SHOW	ITADAKI♥LOVE	sh9a7d-itadakilove
+7273	2026-08-07	SHOW	Pajama Drive	sh0a82-pajama-drive
+7274	2026-08-08	SHOW	Sambil Menggandeng Erat Tanganku	shd5e6-sambil-menggandeng-erat-tanganku
+7275	2026-08-13	SHOW	Pajama Drive	she780-pajama-drive
+7291	2026-08-13	EXCLUSIVE	Theater Sementara 2026	ex273e-13082026
+7276	2026-08-14	SHOW	DREAM BAKUDAN	shf05e-dream-bakudan
+7287	2026-08-14	EXCLUSIVE	Theater Sementara 2026	ex273e-14082026
+7277	2026-08-15	SHOW	Cara Meminum Ramune	shbfa2-cara-meminum-ramune
+7284	2026-08-15	EXCLUSIVE	Theater Sementara 2026	ex273e-15082026
+7278	2026-08-16	SHOW	Pajama Drive	shee25-pajama-drive
+7279	2026-08-16	SHOW	Sambil Menggandeng Erat Tanganku	sh85b1-sambil-menggandeng-erat-tanganku
+7281	2026-08-16	EXCLUSIVE	Theater Sementara 2026	ex273e-16082026
+7290	2026-08-18	EXCLUSIVE	Theater Sementara 2026	ex273e-18082026
+7285	2026-08-19	EXCLUSIVE	Theater Sementara 2026	ex273e-19082026
+7286	2026-08-20	EXCLUSIVE	Theater Sementara 2026	ex273e-20082026
+7294	2026-08-20	SHOW	Sambil Menggandeng Erat Tanganku	sh08f5-sambil-menggandeng-erat-tanganku
+7292	2026-08-21	EXCLUSIVE	Theater Sementara 2026	ex273e-21082026
+7295	2026-08-21	SHOW	DREAM BAKUDAN	sh19ed-dream-bakudan
+7282	2026-08-22	EXCLUSIVE	Theater Sementara 2026	ex273e-22082026
+7296	2026-08-22	SHOW	Pajama Drive	sh4d14-pajama-drive
+7297	2026-08-22	SHOW	PASSION 200%	sh3e3c-passion-200
+7280	2026-08-23	EXCLUSIVE	Theater Sementara 2026	ex273e-23082026
+7293	2026-08-23	EVENT	JKT48 OFC Event “Namanya Juga Vacation! #2”	ev2833-jkt48-ofc-event-namanya-juga-vacation-2
+7298	2026-08-23	SHOW	Pajama Drive	sh7481-pajama-drive
+7283	2026-08-24	EXCLUSIVE	Theater Sementara 2026	ex273e-24082026
+7288	2026-08-25	EXCLUSIVE	Theater Sementara 2026	ex273e-25082026
+7289	2026-08-26	EXCLUSIVE	Theater Sementara 2026	ex273e-26082026
+7270	2026-09-05	GENERAL	Men’s Biore Awesome Skool Fest 2026	mens-biore-awesome-skool-fest-2026

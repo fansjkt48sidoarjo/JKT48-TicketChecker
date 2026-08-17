@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ilustrasi Deploy Apps Script — BUKAN TAMPILAN ASLI</title>
+<style>
+  :root { --border:#e4e7ec; --text:#1b1f27; --muted:#667085; --faint:#98a2b3; --accent:#c53b44; --blue:#2f6fed; --bg:#f5f6f8; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); font-size: 14px; line-height: 1.5; padding: 24px; }
+  .banner { max-width: 900px; margin: 0 auto 18px; background: #fff7e6; border: 1px solid #f0d9a8; color: #8a6116; border-radius: 10px; padding: 10px 14px; font-size: 13px; font-weight: 600; }
+  .wrap { max-width: 900px; margin: 0 auto; }
+  h1 { font-size: 19px; margin-bottom: 4px; }
+  .sub { color: var(--muted); font-size: 13px; margin-bottom: 22px; }
+  .step { display: flex; gap: 14px; margin-bottom: 26px; }
+  .num { flex-shrink: 0; width: 30px; height: 30px; border-radius: 50%; background: var(--accent); color: #fff; font-weight: 700; display: flex; align-items: center; justify-content: center; font-size: 14px; }
+  .card { flex: 1; background: #fff; border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; box-shadow: 0 1px 2px rgba(16,24,40,.05); }
+  .card h2 { font-size: 14px; margin-bottom: 10px; }
+  .cap { font-size: 11px; color: var(--faint); margin-top: 8px; }
+  /* mock browser */
+  .browser { border: 1px solid var(--border); border-radius: 10px; overflow: hidden; background: #fafbfc; }
+  .btop { display: flex; gap: 6px; align-items: center; padding: 8px 12px; background: #eef0f4; border-bottom: 1px solid var(--border); }
+  .dot { width: 11px; height: 11px; border-radius: 50%; }
+  .addr { margin-left: 8px; flex: 1; background: #fff; border: 1px solid var(--border); border-radius: 6px; padding: 3px 10px; font-size: 11px; color: var(--muted); font-family: ui-monospace, monospace; }
+  .editor { display: flex; min-height: 210px; }
+  .sidebar { width: 150px; border-right: 1px solid var(--border); background: #fff; padding: 10px; font-size: 12px; }
+  .sidebar .f { padding: 6px 8px; border-radius: 6px; }
+  .sidebar .f.on { background: #e8f0fe; color: var(--blue); font-weight: 600; }
+  .code { flex: 1; background: #1e2229; color: #d7dce2; font-family: ui-monospace, monospace; font-size: 11px; padding: 12px; overflow: hidden; }
+  .code .hl { background: rgba(47,111,237,.35); border-radius: 3px; padding: 0 2px; }
+  /* mock dialog */
+  .dialog { border: 1px solid var(--border); border-radius: 12px; background: #fff; overflow: hidden; box-shadow: 0 6px 24px rgba(16,24,40,.12); max-width: 460px; }
+  .dhead { padding: 12px 16px; border-bottom: 1px solid var(--border); font-weight: 650; font-size: 13px; display: flex; justify-content: space-between; }
+  .dbody { padding: 14px 16px; display: grid; gap: 12px; }
+  .field label { display: block; font-size: 11.5px; color: var(--muted); margin-bottom: 4px; font-weight: 600; }
+  .field .ctl { border: 1px solid var(--border); border-radius: 7px; padding: 7px 10px; font-size: 13px; background: #fafbfc; }
+  .field .ctl b { font-weight: 650; }
+  .warn { background: #fef2f2; border: 1px solid #f5c6c6; color: #9f1d24; border-radius: 8px; padding: 9px 11px; font-size: 12px; }
+  .btn { display: inline-block; background: var(--blue); color: #fff; font-weight: 650; border-radius: 7px; padding: 8px 16px; font-size: 13px; text-align: center; }
+  .btn.ghost { background: #fff; color: var(--text); border: 1px solid var(--border); }
+  .ok { background: #e7f5ed; border: 1px solid #bfe3cf; color: #11683a; border-radius: 8px; padding: 10px 12px; font-size: 12.5px; }
+  .ok code { font-family: ui-monospace, monospace; background: #fff; border: 1px solid #bfe3cf; border-radius: 5px; padding: 1px 6px; font-size: 11px; word-break: break-all; }
+  .mark { display: inline-block; background: var(--accent); color: #fff; font-size: 10px; font-weight: 700; border-radius: 99px; padding: 1px 7px; margin-left: 6px; vertical-align: 1px; }
+  .row { display: flex; gap: 12px; align-items: center; }
+</style>
+</head>
+<body>
+  <div class="banner">⚠️ ILUSTRASI — bukan tangkapan layar asli Google. Tampilan asli bisa sedikit berbeda (bahasa, ukuran, warna). Panduan teks ada di <code>PANDUAN_GOOGLE_SHEETS.md</code>.</div>
+  <div class="wrap">
+    <h1>Deploy Apps Script → URL /exec</h1>
+    <div class="sub">Tiga momen penting yang akan kamu hadapi di browser (dengan akun Google-mu).</div>
+
+    <div class="step">
+      <div class="num">1</div>
+      <div class="card">
+        <h2>Buka editor Apps Script <span class="mark">dari spreadsheet</span></h2>
+        <div class="browser">
+          <div class="btop"><span class="dot" style="background:#e8554a"></span><span class="dot" style="background:#e8b33a"></span><span class="dot" style="background:#6bc86b"></span><span class="addr">docs.google.com/spreadsheets/d/…</span></div>
+          <div class="editor">
+            <div class="sidebar">
+              <div class="f">File</div>
+              <div class="f">Edit</div>
+              <div class="f on">Extensions ▶ Apps Script</div>
+              <div class="f">Help</div>
+            </div>
+            <div class="code">// setelah menu Extensions → Apps Script terbuka:<br>// hapus semua kode, tempel isi google_apps_script.gs,<br>// lalu tekan <span class="hl">Ctrl+S</span> (simpan).</div>
+          </div>
+        </div>
+        <div class="cap">Di jendela spreadsheet: menu <b>Extensions</b> (Ekstensi) → <b>Apps Script</b>. Editor terpisah akan terbuka.</div>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="num">2</div>
+      <div class="card">
+        <h2>Deploy > New deployment <span class="mark">dialog kunci</span></h2>
+        <div class="row">
+          <div class="dialog">
+            <div class="dhead"><span>New deployment</span><span style="color:var(--faint)">×</span></div>
+            <div class="dbody">
+              <div class="field"><label>Select type (pilih jenis) — klik ikon ⚙ di kanan kolom</label><div class="ctl">Web app <span style="color:var(--faint)">▾</span></div></div>
+              <div class="field"><label>Description (opsional)</label><div class="ctl" style="color:var(--faint)">jkt48-history</div></div>
+              <div class="field"><label>Execute as (Jalankan sebagai)</label><div class="ctl"><b>Me</b> (akun Google-mu) <span style="color:var(--faint)">▾</span></div></div>
+              <div class="field"><label>Who has access (Siapa yang dapat mengakses)</label><div class="ctl"><b>Anyone</b> <span style="color:var(--faint)">▾</span></div></div>
+              <div class="warn">Setelah klik Deploy, Google akan meminta izin: pilih akun → <b>Advanced</b> → <b>Go to … (unsafe)</b> → <b>Allow</b>. Ini normal untuk skrip milik sendiri.</div>
+              <div class="row"><span class="btn ghost">Cancel</span><span class="btn">Deploy</span></div>
+            </div>
+          </div>
+          <div class="card" style="box-shadow:none;border:0;background:transparent;padding:0">
+            <div style="font-size:12.5px;color:var(--muted)">
+              <p style="margin-bottom:8px"><b style="color:var(--text)">Yang WAJIB benar:</b></p>
+              <p>1. Type = <b>Web app</b> (bukan add-on/API)</p>
+              <p>2. Execute as = <b>Me</b></p>
+              <p>3. Who has access = <b>Anyone</b></p>
+              <p style="margin-top:8px">Kalau tertulis "Anyone with a Google account", ganti ke <b>Anyone</b> — dashboard memanggil tanpa login.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="num">3</div>
+      <div class="card">
+        <h2>Salin URL Web app <span class="mark">berakhiran /exec</span></h2>
+        <div class="browser">
+          <div class="btop"><span class="dot" style="background:#e8554a"></span><span class="dot" style="background:#e8b33a"></span><span class="dot" style="background:#6bc86b"></span><span class="addr">script.google.com/macros/s/…/exec</span></div>
+          <div style="padding:16px">
+            <div class="ok">✅ Deployment berhasil.<br><br>Web app URL:<br><code>https://script.google.com/macros/s/AKfycbw…xxxx/exec</code><br><br>Klik <b>Copy</b> — inilah nilai untuk env var <code>SHEETS_WEBAPP_URL</code>.</div>
+          </div>
+        </div>
+        <div class="cap">URL yang disalin harus <b>diakhiri /exec</b>. Jangan pakai URL /dev (itu versi uji sementara).</div>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="num">4</div>
+      <div class="card">
+        <h2>Verifikasi cepat (opsional tapi disarankan)</h2>
+        <div style="background:#1e2229; color:#d7dce2; border-radius:8px; padding:12px 14px; font-family:ui-monospace,monospace; font-size:12px">
+          # di terminal mana pun:<br>
+          curl "https://script.google.com/macros/s/XXXXXXXXXX/exec?action=log"<br>
+          <span style="color:#8f9aa8"># hasil yang benar → {"entries":[]}  (sheet masih kosong)</span><br>
+          <span style="color:#e8b33a"># kalau dapat HTML/login → cek "Who has access" harus Anyone</span>
+        </div>
+        <div class="cap">Setelah dashboard tersambung dan ada perubahan tiket, buka spreadsheet-nya — sheet "Riwayat" otomatis terisi baris demi baris.</div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

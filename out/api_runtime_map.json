@@ -1,0 +1,166 @@
+{
+ "/": {
+  "https://jkt48.com/api/_nuxt_icon/oui.json?icons=offline": [
+   "GET",
+   403
+  ],
+  "https://jkt48.com/api/v1/schedules?lang=id&month=08&year=2026": [
+   "GET",
+   403
+  ],
+  "https://jkt48.com/api/v1/storages/media/media/general/home_video.mp4": [
+   "GET",
+   403
+  ]
+ },
+ "/news": {
+  "https://jkt48.com/api/_nuxt_icon/oui.json?icons=offline": [
+   "GET",
+   403
+  ]
+ },
+ "/member": {
+  "https://jkt48.com/api/_nuxt_icon/oui.json?icons=offline": [
+   "GET",
+   403
+  ],
+  "https://jkt48.com/api/v1/members?lang=id": [
+   "GET",
+   403
+  ],
+  "https://jkt48.com/api/v1/menu?lang=id": [
+   "GET",
+   403
+  ]
+ },
+ "/schedule": {
+  "https://jkt48.com/api/_nuxt_icon/oui.json?icons=offline": [
+   "GET",
+   403
+  ],
+  "https://jkt48.com/api/v1/menu?lang=id": [
+   "GET",
+   403
+  ],
+  "https://jkt48.com/api/v1/schedules?lang=id&month=8&year=2026": [
+   "GET",
+   403
+  ]
+ },
+ "/discography": {
+  "https://jkt48.com/api/auth/session": [
+   "GET",
+   200
+  ]
+ },
+ "/groups": {
+  "https://jkt48.com/api/_nuxt_icon/oui.json?icons=offline": [
+   "GET",
+   403
+  ],
+  "https://jkt48.com/api/v1/menu?lang=id": [
+   "GET",
+   403
+  ]
+ },
+ "/theater": {},
+ "/photobook": {
+  "https://jkt48.com/api/auth/session": [
+   "GET",
+   200
+  ]
+ },
+ "/video-ofc": {
+  "https://jkt48.com/api/auth/session": [
+   "GET",
+   200
+  ]
+ },
+ "/fan-club": {
+  "https://jkt48.com/api/_nuxt_icon/oui.json?icons=offline": [
+   "GET",
+   403
+  ],
+  "https://jkt48.com/api/v1/menu?lang=id": [
+   "GET",
+   403
+  ]
+ },
+ "/how-to-purchase": {
+  "https://jkt48.com/api/_nuxt_icon/oui.json?icons=offline": [
+   "GET",
+   403
+  ],
+  "https://jkt48.com/api/v1/menu?lang=id": [
+   "GET",
+   403
+  ]
+ },
+ "/notification": {},
+ "/my-page": {},
+ "/ofc-benefit": {},
+ "/about/jkt48": {
+  "https://jkt48.com/api/_nuxt_icon/oui.json?icons=offline": [
+   "GET",
+   403
+  ],
+  "https://jkt48.com/api/v1/menu?lang=id": [
+   "GET",
+   403
+  ]
+ },
+ "/member/detail?member=ABIGAIL_RACHEL": {
+  "https://jkt48.com/api/_nuxt_icon/oui.json?icons=offline": [
+   "GET",
+   403
+  ],
+  "https://jkt48.com/api/v1/members?lang=id": [
+   "GET",
+   403
+  ],
+  "https://jkt48.com/api/v1/menu?lang=id": [
+   "GET",
+   403
+  ]
+ },
+ "/news/pengumuman-mengenai-pertunjukan-teater-kelulusan-dan-prosesi-pelepasan-kabesha-alya-amanda": {
+  "https://jkt48.com/api/_nuxt_icon/oui.json?icons=offline": [
+   "GET",
+   403
+  ]
+ },
+ "/ja/news": {
+  "https://jkt48.com/api/_nuxt_icon/oui.json?icons=offline": [
+   "GET",
+   403
+  ]
+ },
+ "/ja/member": {
+  "https://jkt48.com/api/_nuxt_icon/oui.json?icons=offline": [
+   "GET",
+   403
+  ],
+  "https://jkt48.com/api/v1/members?lang=ja": [
+   "GET",
+   403
+  ],
+  "https://jkt48.com/api/v1/menu?lang=ja": [
+   "GET",
+   403
+  ]
+ },
+ "/ja/schedule": {
+  "https://jkt48.com/api/_nuxt_icon/oui.json?icons=offline": [
+   "GET",
+   403
+  ],
+  "https://jkt48.com/api/v1/menu?lang=ja": [
+   "GET",
+   403
+  ],
+  "https://jkt48.com/api/v1/schedules?lang=ja&month=8&year=2026": [
+   "GET",
+   403
+  ]
+ }
+}

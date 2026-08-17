@@ -1,0 +1,797 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>JKT48 — Pantauan Exclusive</title>
+<style>
+  :root {
+    --bg: #f5f6f8; --panel: #ffffff; --panel-2: #fafbfc;
+    --border: #e4e7ec; --text: #1b1f27; --muted: #667085; --faint: #98a2b3;
+    --accent: #c53b44; --accent-soft: #fdeef0;
+    --blue: #2f6fed; --green: #178a4e; --red: #c53b44; --amber: #b7791f;
+    --shadow: 0 1px 2px rgba(16, 24, 40, .05);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background: var(--bg); color: var(--text); font-size: 14px; line-height: 1.45;
+  }
+  header {
+    background: var(--panel); border-bottom: 1px solid var(--border);
+    padding: 14px 20px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
+    position: sticky; top: 0; z-index: 10;
+  }
+  h1 { font-size: 17px; font-weight: 650; letter-spacing: .1px; }
+  h1 .sep { color: var(--accent); margin: 0 6px; }
+  .live { font-size: 12px; color: var(--green); }
+  .live::before { content: "● "; }
+  .live.off { color: var(--red); }
+  .updated { font-size: 12px; color: var(--muted); }
+  .spacer { flex: 1; }
+  button, select {
+    font: inherit; font-size: 13px; color: var(--text);
+    background: var(--panel); border: 1px solid var(--border); border-radius: 7px;
+    padding: 6px 12px; cursor: pointer;
+  }
+  button:hover { border-color: var(--faint); }
+  button:disabled { opacity: .45; cursor: default; }
+  .toolbar {
+    max-width: 1200px; margin: 16px auto 6px; padding: 0 20px;
+    display: flex; gap: 12px; align-items: center; flex-wrap: wrap;
+  }
+  .toolbar label { font-size: 13px; color: var(--muted); display: inline-flex; align-items: center; gap: 6px; cursor: pointer; }
+  .toolbar input[type=checkbox] { accent-color: var(--accent); width: 15px; height: 15px; }
+  #status { max-width: 1200px; margin: 4px auto 0; padding: 0 20px; font-size: 12.5px; color: var(--muted); }
+  #status .err { color: var(--red); }
+
+  /* ---- tabs ---- */
+  .tabs { max-width: 1200px; margin: 14px auto 0; padding: 0 20px; display: flex; gap: 8px; }
+  .tab { font: inherit; font-size: 13px; font-weight: 600; padding: 6px 18px; border: 1px solid var(--border); background: var(--panel); color: var(--muted); border-radius: 99px; cursor: pointer; transition: border-color .15s, color .15s; }
+  .tab:hover { border-color: var(--faint); color: var(--text); }
+  .tab.active { background: var(--text); color: #fff; border-color: var(--text); }
+  .pane[hidden] { display: none !important; }
+
+  /* ---- statistik ---- */
+  #stats { max-width: 1200px; margin: 14px auto 0; padding: 0 20px; display: grid; gap: 12px; }
+  .kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; }
+  .kpi { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; box-shadow: var(--shadow); }
+  .kpi .k { font-size: 11.5px; color: var(--muted); text-transform: uppercase; letter-spacing: .4px; }
+  .kpi .v { font-size: 19px; font-weight: 650; margin-top: 3px; font-variant-numeric: tabular-nums; }
+  .charts { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 12px; }
+  .chart { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; box-shadow: var(--shadow); }
+  .chart h3 { font-size: 13px; font-weight: 650; margin-bottom: 10px; }
+  .chart .note { font-size: 11px; color: var(--faint); margin-top: 8px; }
+  .bar-row { display: grid; grid-template-columns: 130px 1fr auto; gap: 10px; align-items: center; margin-bottom: 7px; font-size: 12px; }
+  .bar-row .lbl { color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .bar-row .track { height: 16px; background: #eef0f4; border-radius: 4px; overflow: hidden; position: relative; }
+  .bar-row .track .fill { height: 100%; border-radius: 4px; background: var(--blue); }
+  .bar-row .track .fill.sold { background: var(--accent); }
+
+  /* ---- riwayat transaksi (sticky, berdiri sendiri di atas) ---- */
+  #hist { position: sticky; top: var(--header-h, 54px); z-index: 8; max-width: 1200px; margin: 0 auto; padding: 10px 20px 0; }
+  .hist-box { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; box-shadow: var(--shadow); overflow: hidden; }
+  .hist-bar { display: flex; align-items: center; gap: 10px; padding: 6px 14px; font-size: 11.5px; font-weight: 650; color: var(--text); background: var(--panel-2); border-bottom: 1px solid var(--border); }
+  .hist-title { font-weight: 650; cursor: pointer; }
+  .hist-title:hover { text-decoration: underline; }
+  .hist-count { color: var(--muted); font-weight: 500; font-size: 11px; }
+  .hist-spacer { flex: 1; }
+  .hist-search { font: inherit; font-size: 12px; padding: 3px 9px; border: 1px solid var(--border); border-radius: 6px; background: var(--panel); color: var(--text); width: 160px; }
+  .hist-toggle { font: inherit; font-size: 11px; line-height: 1.5; padding: 1px 8px; border: 1px solid var(--border); background: var(--panel); color: var(--muted); border-radius: 6px; cursor: pointer; }
+  .hist-toggle:hover { border-color: var(--faint); color: var(--text); }
+  .hist-scroll { max-height: 180px; overflow-y: auto; }
+  .hist-ticker { padding: 6px 14px; }
+  .hist-row { display: grid; grid-template-columns: 64px 1fr 180px; gap: 12px; padding: 5px 14px; font-size: 12px; align-items: baseline; border-bottom: 1px solid var(--border); }
+  .hist-row:last-child { border-bottom: 0; }
+  .hist-ticker .hist-row { padding: 0; border-bottom: 0; }
+  .hist-row .h-ts { font-variant-numeric: tabular-nums; color: var(--muted); }
+  .hist-row .h-what { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .hist-row .h-code { color: var(--faint); font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 11px; }
+  .hist-row .h-member { font-weight: 650; }
+  .hist-row .h-date { font-variant-numeric: tabular-nums; }
+  .hist-row .h-delta { text-align: right; font-variant-numeric: tabular-nums; font-weight: 600; white-space: nowrap; }
+  .h-delta.down { color: var(--red); } .h-delta.up { color: var(--green); } .h-delta.flat { color: var(--muted); }
+  .hist-empty { padding: 9px 14px; font-size: 12px; color: var(--muted); }
+  .hist-row.flash { animation: histflash 1.4s ease-out; }
+  @keyframes histflash { 0% { background: rgba(197, 59, 68, .16); } 100% { background: transparent; } }
+
+  /* ---- tampilan penuh riwayat (modal per-hari) ---- */
+  .hist-full { display: none; position: fixed; inset: 0; background: var(--bg); z-index: 60; overflow-y: auto; }
+  .hist-full.open { display: block; }
+  .hf-bar { position: sticky; top: 0; z-index: 2; background: var(--panel); border-bottom: 1px solid var(--border); padding: 12px 20px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+  .hf-title { font-size: 15px; font-weight: 650; }
+  .hf-search { font: inherit; font-size: 13px; padding: 5px 12px; border: 1px solid var(--border); border-radius: 7px; width: 240px; }
+  .hf-count { font-size: 12px; color: var(--muted); }
+  .hf-close { font: inherit; font-size: 18px; line-height: 1; padding: 2px 10px; border: 1px solid var(--border); border-radius: 7px; background: var(--panel); color: var(--muted); cursor: pointer; margin-left: auto; }
+  .hf-close:hover { border-color: var(--faint); color: var(--text); }
+  .hf-wrap { max-width: 1100px; margin: 0 auto; padding: 18px 20px 40px; }
+  .hf-day { margin-bottom: 18px; }
+  .hf-dayhead { font-size: 12.5px; font-weight: 650; color: var(--muted); text-transform: uppercase; letter-spacing: .4px; margin: 0 2px 6px; display: flex; gap: 8px; align-items: baseline; }
+  .hf-daycount { color: var(--faint); font-weight: 500; }
+  .hf-day .hist-row { border: 1px solid var(--border); border-radius: 8px; margin-bottom: 4px; background: var(--panel); }
+  .hf-empty { text-align: center; color: var(--muted); padding: 60px 0; }
+  .hf-more { display: block; margin: 6px auto 40px; font: inherit; font-size: 13px; font-weight: 600; padding: 8px 22px; border: 1px solid var(--border); border-radius: 8px; background: var(--panel); color: var(--text); cursor: pointer; }
+  .hf-more:hover { border-color: var(--faint); }
+  .hf-more:disabled { opacity: .5; cursor: default; }
+  @media (max-width: 640px) {
+    .hist-row { grid-template-columns: 56px 1fr 130px; gap: 8px; }
+  }
+  /* ---- bagan member: pengurutan ---- */
+  .chart-head { display: flex; justify-content: space-between; align-items: center; gap: 8px; margin-bottom: 10px; }
+  .chart-head h3 { margin-bottom: 0; }
+  .seg { display: flex; border: 1px solid var(--border); border-radius: 7px; overflow: hidden; }
+  .seg button { font: inherit; font-size: 11px; padding: 4px 10px; border: 0; border-radius: 0; background: var(--panel); color: var(--muted); cursor: pointer; }
+  .seg button.on { background: var(--text); color: #fff; }
+  .bar-row .when { display: block; font-size: 10px; color: var(--faint); }
+  /* ---- tombol beli ---- */
+  .jl .buy { color: var(--accent); text-decoration: none; font-weight: 600; font-size: 11px; margin-left: 6px; white-space: nowrap; }
+  .jl .buy:hover { text-decoration: underline; }
+  .buy-btn { margin-left: auto; font-size: 12px; font-weight: 600; color: #fff; background: var(--accent); border-radius: 7px; padding: 5px 12px; text-decoration: none; }
+  .buy-btn:hover { opacity: .9; }
+  .bar-row .val { color: var(--text); font-variant-numeric: tabular-nums; font-weight: 600; }
+  .bar-row.double { grid-template-columns: 130px 1fr auto; }
+  .bar-row.double .two { display: flex; flex-direction: column; gap: 3px; }
+  .bar-row.double .two .track { height: 8px; }
+
+  /* ---- kartu ---- */
+  #grid { max-width: 1200px; margin: 14px auto 0; padding: 0 20px 20px; display: grid; grid-template-columns: repeat(auto-fill, minmax(330px, 1fr)); gap: 14px; }
+  .card { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 14px; box-shadow: var(--shadow); display: flex; flex-direction: column; gap: 10px; }
+  .card.dim { opacity: .6; }
+  .card-top { display: flex; gap: 12px; align-items: flex-start; }
+  .thumb { width: 56px; height: 56px; border-radius: 8px; object-fit: cover; background: #eef0f4; flex-shrink: 0; border: 1px solid var(--border); }
+  .card h2 { font-size: 14.5px; font-weight: 650; line-height: 1.3; }
+  .code { font-size: 11px; color: var(--faint); font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+  .meta { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+  .chip { font-size: 11px; padding: 2px 8px; border-radius: 99px; background: #f0f1f4; color: #3d4551; font-weight: 600; }
+  .price { font-size: 15px; font-weight: 700; }
+  .quota { font-size: 12px; color: var(--muted); }
+  .windows { display: flex; flex-direction: column; gap: 5px; }
+  .win { font-size: 12px; padding: 6px 9px; border-radius: 7px; border: 1px solid var(--border); background: var(--panel-2); display: flex; justify-content: space-between; gap: 8px; }
+  .win .tag { font-weight: 600; }
+  .win .tag.ofc { color: var(--blue); }
+  .st { font-weight: 600; font-size: 11.5px; }
+  .st.open { color: var(--green); } .st.soon { color: var(--amber); } .st.closed { color: var(--muted); }
+  .sess { border-top: 1px solid var(--border); }
+  .sess-head { display: flex; justify-content: space-between; align-items: center; font-size: 12.5px; font-weight: 600; padding: 8px 2px; cursor: pointer; user-select: none; color: var(--text); }
+  .sess-head .caret { font-size: 10px; color: var(--faint); transition: transform .15s; }
+  .sess.open .sess-head .caret { transform: rotate(90deg); }
+  .sess .jalur { display: none; flex-direction: column; gap: 5px; padding: 0 2px 8px; }
+  .sess.open .jalur { display: flex; }
+  .jl { display: grid; grid-template-columns: 1fr auto; gap: 2px 10px; font-size: 12.5px; padding: 6px 8px; border-radius: 7px; background: var(--panel-2); }
+  .jl .member { font-weight: 600; }
+  .jl .cnt { font-variant-numeric: tabular-nums; }
+  .jl .avail { font-weight: 700; }
+  .avail.hot { color: var(--green); } .avail.low { color: var(--amber); } .avail.none { color: var(--red); }
+  .jl .bar { grid-column: 1 / -1; height: 4px; border-radius: 99px; background: #e6e9ee; overflow: hidden; }
+  .jl .bar i { display: block; height: 100%; background: var(--blue); }
+  .jl.soldout { opacity: .55; }
+  .jl .badge { font-size: 10px; font-weight: 700; padding: 1px 6px; border-radius: 99px; }
+  .badge.habis { background: #fdecec; color: var(--red); }
+  .badge.sisa { background: #e7f5ed; color: var(--green); }
+  .badge.lewat { background: #eef0f4; color: var(--muted); }
+  .empty { text-align: center; color: var(--muted); padding: 50px 0; grid-column: 1 / -1; }
+  footer { max-width: 1200px; margin: 0 auto; padding: 10px 20px 30px; font-size: 12px; color: var(--faint); display: flex; gap: 10px; flex-wrap: wrap; }
+  @media (max-width: 640px) {
+    #grid { grid-template-columns: 1fr; }
+    .bar-row { grid-template-columns: 90px 1fr auto; }
+  }
+</style>
+</head>
+<body>
+  <header>
+    <h1>JKT48<span class="sep">·</span>Pantauan Exclusive</h1>
+    <span id="live" class="live off">terputus</span>
+    <span class="updated" id="updated">—</span>
+    <div class="spacer"></div>
+    <button id="pauseBtn">Jeda</button>
+    <button id="refreshBtn">Segarkan</button>
+  </header>
+
+  <section id="hist"><div class="empty">Memuat riwayat…</div></section>
+  <div class="hist-full" id="histFull"></div>
+
+  <div class="toolbar">
+    <label>Kategori
+      <select id="catFilter"><option value="">Semua</option></select>
+    </label>
+    <label>Event
+      <select id="evFilter"><option value="">Semua</option></select>
+    </label>
+    <label><input type="checkbox" id="hideDone" checked> Sembunyikan tiket habis / lewat deadline</label>
+  </div>
+  <div id="status"><span id="countdown"></span><span id="errline"></span></div>
+
+  <nav class="tabs" id="tabs">
+    <button class="tab active" data-tab="grid" type="button">Produk</button>
+    <button class="tab" data-tab="stats" type="button">Statistik</button>
+  </nav>
+  <section id="stats" class="pane" hidden></section>
+  <main id="grid" class="pane"><div class="empty">Memuat data…</div></main>
+
+  <footer>
+    <span>Data: API publik jkt48.com (<code>/api/v1/exclusives</code>)</span>
+    <span>·</span><span>Pendapatan adalah <strong>estimasi</strong> (harga × tiket terjual)</span>
+    <span>·</span><span>Deadline tiket: pukul 07.00 WIB hari sesi</span>
+    <span>·</span><span id="tsline"></span>
+  </footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+<script>
+"use strict";
+const API = "/api/exclusives";
+const POLL_MS = 10000;
+
+const DEMO = [
+  { code: "EX273E", title: "Theater Sementara 2026", category: "DIGITAL_PHOTOBOOK", price: 120000, total_quota: 16065, max_purchase: 5,
+    thumbnail: null, valid_from: "2026-08-11T13:00:00.000Z", valid_to: null,
+    sales_period: [
+      { label: "OFC", start: "2026-08-11T20:00:00", end: "2026-08-26T07:00:00", ofc_only: true },
+      { label: "General", start: "2026-08-12T20:00:00", end: "2026-08-26T07:00:00", ofc_only: false },
+    ],
+    sessions: [
+      { label: "Sesi 1", date: "2026-08-13", start_time: "16:30:00", end_time: "17:30:00", jalur: [
+        { label: "Jalur 1", member: "Michelle Alexandra", sold: 45, available: 0 },
+        { label: "Jalur 2", member: "Grace Octaviani", sold: 45, available: 0 },
+        { label: "Jalur 3", member: "Jazzlyn Trisha", sold: 28, available: 17 },
+        { label: "Jalur 4", member: "Anindya Ramadhani", sold: 30, available: 15 },
+      ]},
+      { label: "Sesi 2", date: "2026-08-13", start_time: "18:00:00", end_time: "19:00:00", jalur: [
+        { label: "Jalur 1", member: "Fiony Alveria", sold: 45, available: 0 },
+        { label: "Jalur 2", member: "Aurellia", sold: 38, available: 7 },
+      ]},
+    ] },
+  { code: "EX579E", title: "Personal Meet and Greet Festival: LOVE DREAM PASSION, 2Shot", category: "TWO_SHOT", price: 180000, total_quota: 7500, max_purchase: 5,
+    thumbnail: null, valid_from: "2026-04-01T11:00:00.000Z", valid_to: null,
+    sales_period: [ { label: "OFC", start: "2026-04-01T18:00:00", end: "2026-04-30T07:00:00", ofc_only: true } ],
+    sessions: [
+      { label: "Sesi 1", date: "2026-05-23", start_time: "10:00:00", end_time: "18:00:00", jalur: [
+        { label: "Jalur 1", member: "Abigail Rachel", sold: 40, available: 5 },
+        { label: "Jalur 2", member: "Adeline Wijaya", sold: 45, available: 0 },
+      ]},
+    ] },
+  { code: "EXE588", title: "Personal Meet and Greet Festival: LOVE DREAM PASSION, Meet & Greet", category: "PHOTOCARD", price: 50000, total_quota: 51250, max_purchase: 5,
+    thumbnail: null, valid_from: "2026-04-02T11:00:00.000Z", valid_to: null,
+    sales_period: [
+      { label: "OFC", start: "2026-04-02T18:00:00", end: "2026-04-30T07:00:00", ofc_only: true },
+      { label: "General", start: "2026-04-03T18:00:00", end: "2026-04-30T07:00:00", ofc_only: false },
+    ],
+    sessions: [ { label: "Sesi 1", date: "2026-05-23", start_time: "10:00:00", end_time: "18:00:00", jalur: [] } ] },
+];
+
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const fmtRp = (n) => n == null ? "—" : new Intl.NumberFormat("id-ID", { style: "currency", currency: "IDR", maximumFractionDigits: 0 }).format(n);
+const fmtNum = (n) => (n == null ? "—" : Number(n).toLocaleString("id-ID"));
+const fmtT = (t) => { if (!t) return ""; const [h, m] = t.split(":"); return `${h}:${m}`; };
+
+let state = { data: null, category: "", event: "", hideDone: true, history: [], memberSoldout: {}, memberSort: "sold", stats: null, collapsed: false, search: "" };
+let lastHistSig = null;
+
+/* ---------- kalkulasi ---------- */
+function enrich(ex) {
+  let soldTotal = 0, quotaTotal = 0, jalurCount = 0, soldOut = 0, expiredCount = 0;
+  for (const s of ex.sessions || []) {
+    for (const j of s.jalur || []) {
+      const sold = Number(j.sold) || 0, avail = Number(j.available) || 0;
+      soldTotal += sold; quotaTotal += sold + avail; jalurCount++;
+      if (avail === 0) soldOut++;
+      if (isExpired(s)) expiredCount++;
+    }
+  }
+  return { ...ex, soldTotal, quotaTotal, jalurCount, soldOut, expiredCount, revenue: (ex.price || 0) * soldTotal };
+}
+
+function isExpired(session) {
+  // deadline pembelian: 07:00 WIB di hari sesi
+  const dl = new Date(session.date + "T07:00:00+07:00");
+  return !isNaN(dl) && Date.now() > dl.getTime();
+}
+
+function saleState(start, end) {
+  const now = Date.now();
+  const s = new Date(start), e = new Date(end);
+  if (!isNaN(s) && now < s.getTime()) {
+    const d = s.getTime() - now, h = Math.floor(d / 3600000), m = Math.floor(d % 3600000 / 60000);
+    return { state: "soon", text: `Buka ${h}j ${m}m lagi` };
+  }
+  if (!isNaN(e) && now > e.getTime()) return { state: "closed", text: "Tutup" };
+  return { state: "open", text: "Buka" };
+}
+
+function eventOf(ex) {
+  // event diturunkan dari judul produk: produk yang berbagi tim+lokasi / kampanye dihitung satu event
+  const t = ex.title || "";
+  let m = t.match(/^(Team (?:Love & Team Dream|Passion)), [^,]+,? (Surabaya|Yogyakarta)$/);
+  if (m) return `${m[1]} · ${m[2]}`;
+  m = t.match(/^(Team (?:Love & Team Dream|Passion)), [^,]+,? (Surabaya|Yogyakarta)/);
+  if (m) return `${m[1]} · ${m[2]}`;
+  if (/Meet and Greet Festival/i.test(t) && /LOVE DREAM PASSION/i.test(t)) return "LOVE DREAM PASSION Festival";
+  if (/Music Video Behind the Scenes/i.test(t)) return "Love Dream Passion · MV BTS";
+  if (/Request Hour/i.test(t)) return "JKT48 Request Hour 2026";
+  return t;
+}
+
+function buildStats(exs) {
+  const byCat = {};
+  for (const ex of exs) {
+    const c = ex.category || "Lainnya";
+    byCat[c] = byCat[c] || { category: c, products: 0, sold: 0, quota: 0, revenue: 0, soldOut: 0 };
+    const b = byCat[c];
+    b.products++; b.sold += ex.soldTotal; b.quota += ex.quotaTotal;
+    b.revenue += ex.revenue; b.soldOut += ex.soldOut;
+  }
+  const memberSold = {};
+  for (const ex of exs)
+    for (const s of ex.sessions || [])
+      for (const j of s.jalur || []) {
+        const m = j.member || "—";
+        memberSold[m] = (memberSold[m] || 0) + (Number(j.sold) || 0);
+      }
+  return {
+    byCat: Object.values(byCat),
+    totalProducts: exs.length,
+    totalQuota: exs.reduce((a, e) => a + e.quotaTotal, 0),
+    totalSold: exs.reduce((a, e) => a + e.soldTotal, 0),
+    totalRevenue: exs.reduce((a, e) => a + e.revenue, 0),
+    soldOutJalur: exs.reduce((a, e) => a + e.soldOut, 0),
+    activeJalur: exs.reduce((a, e) => a + e.jalurCount - e.soldOut, 0),
+    topMembers: Object.entries(memberSold).sort((a, b) => b[1] - a[1]),
+  };
+}
+
+/* ---------- render ---------- */
+function renderStats(stats) {
+  const maxRev = Math.max(1, ...stats.byCat.map(c => c.revenue));
+  const maxQuota = Math.max(1, ...stats.byCat.map(c => c.quota));
+  const maxMember = Math.max(1, ...stats.topMembers.map(m => m[1]));
+  $("stats").innerHTML = `
+    <div class="kpis">
+      <div class="kpi"><div class="k">Produk</div><div class="v">${stats.totalProducts}</div></div>
+      <div class="kpi"><div class="k">Kuota total</div><div class="v">${fmtNum(stats.totalQuota)}</div></div>
+      <div class="kpi"><div class="k">Tiket terjual</div><div class="v">${fmtNum(stats.totalSold)}</div></div>
+      <div class="kpi"><div class="k">Estimasi pendapatan</div><div class="v">${fmtRp(stats.totalRevenue)}</div></div>
+      <div class="kpi"><div class="k">Jalur habis</div><div class="v">${fmtNum(stats.soldOutJalur)}</div></div>
+      <div class="kpi"><div class="k">Jalur tersedia</div><div class="v">${fmtNum(stats.activeJalur)}</div></div>
+    </div>
+    <div class="charts">
+      <div class="chart"><h3>Estimasi pendapatan per kategori</h3>
+        ${stats.byCat.map(c => `
+          <div class="bar-row">
+            <span class="lbl">${esc(c.category)}</span>
+            <span class="track"><span class="fill sold" style="width:${Math.max(1.5, c.revenue / maxRev * 100)}%"></span></span>
+            <span class="val">${fmtRp(c.revenue)}</span>
+          </div>`).join("") || '<div style="color:var(--muted);font-size:12px">Tidak ada data.</div>'}
+        <div class="note">Estimasi: harga produk × jumlah tiket terjual dari seluruh jalur.</div>
+      </div>
+      <div class="chart"><h3>Terjual vs kuota per kategori</h3>
+        ${stats.byCat.map(c => `
+          <div class="bar-row double">
+            <span class="lbl">${esc(c.category)}</span>
+            <span class="two">
+              <span class="track"><span class="fill sold" style="width:${Math.max(1, c.sold / maxQuota * 100)}%"></span></span>
+              <span class="track"><span class="fill" style="width:${Math.max(1.5, c.quota / maxQuota * 100)}%"></span></span>
+            </span>
+            <span class="val">${fmtNum(c.sold)}/${fmtNum(c.quota)}</span>
+          </div>`).join("") || '<div style="color:var(--muted);font-size:12px">Tidak ada data.</div>'}
+        <div class="note">Baris merah = terjual, biru = kuota.</div>
+      </div>
+      <div class="chart">
+        <div class="chart-head"><h3>Member dengan tiket terjual terbanyak</h3>
+          <div class="seg">
+            <button type="button" data-sort="sold" class="${state.memberSort === "sold" ? "on" : ""}">Terjual</button>
+            <button type="button" data-sort="first" class="${state.memberSort === "first" ? "on" : ""}">Habis duluan</button>
+          </div>
+        </div>
+        ${topMemberRows(stats).map(m => `
+          <div class="bar-row">
+            <span class="lbl">${esc(m.name)}${m.t0 ? `<small class="when">habis ${esc(m.t0.slice(11, 16))}</small>` : ""}</span>
+            <span class="track"><span class="fill" style="width:${Math.max(1.5, m.sold / maxMember * 100)}%"></span></span>
+            <span class="val">${fmtNum(m.sold)}</span>
+          </div>`).join("") || '<div style="color:var(--muted);font-size:12px">Tidak ada data.</div>'}
+        <div class="note">Akumulasi tiket terjual semua produk &amp; sesi${state.memberSort === "first" ? " — diurutkan dari member yang tiketnya habis paling dulu (berdasar riwayat)" : ""}.</div>
+      </div>
+    </div>`;
+}
+
+function renderToolbar(exs, catExs) {
+  const cats = [...new Set(exs.map(e => e.category).filter(Boolean))].sort();
+  const sel = $("catFilter");
+  sel.innerHTML = `<option value="">Semua</option>` + cats.map(c => `<option value="${esc(c)}">${esc(c)}</option>`).join("");
+  sel.value = state.category;
+  // opsi event diturunkan dari produk yang lolos filter kategori
+  const evs = [...new Set(catExs.map(eventOf))].sort();
+  const ev = $("evFilter");
+  ev.innerHTML = `<option value="">Semua</option>` + evs.map(v => `<option value="${esc(v)}">${esc(v)}</option>`).join("");
+  if (!evs.includes(state.event)) state.event = "";
+  ev.value = state.event;
+}
+
+function renderGrid(exs) {
+  const grid = $("grid");
+  if (!exs.length) { grid.innerHTML = '<div class="empty">Tidak ada produk untuk filter ini.</div>'; return; }
+
+  grid.innerHTML = "";
+  for (const ex of exs) {
+    const card = document.createElement("div");
+    card.className = "card";
+
+    let winHtml = "";
+    for (const w of ex.sales_period || []) {
+      const st = saleState(w.start, w.end);
+      winHtml += `<div class="win"><span class="tag ${w.ofc_only ? "ofc" : ""}">${esc(w.label)}${w.ofc_only ? " · OFC" : ""}</span><span class="st ${st.state}">${esc(st.text)}</span></div>`;
+    }
+
+    let sessHtml = "", visibleSess = 0, hasJalurSessions = false, anyAvail = false;
+    for (const s of ex.sessions || []) {
+      const expired = isExpired(s);
+      let jl = "", visibleJ = 0;
+      for (const j of s.jalur || []) {
+        const sold = Number(j.sold) || 0, avail = Number(j.available) || 0, total = sold + avail;
+        const hidden = state.hideDone && (avail === 0 || expired);
+        if (!hidden) visibleJ++;
+        const pct = total ? Math.round(sold / total * 100) : 0;
+        const cls = avail === 0 ? "none" : avail <= 10 ? "low" : "hot";
+        const badge = avail === 0 ? '<span class="badge habis">habis</span>'
+          : expired ? '<span class="badge lewat">lewat</span>'
+          : `<span class="badge sisa">sisa ${avail}</span>`;
+        const buy = (avail > 0 && !expired)
+          ? ` <a class="buy" href="https://jkt48.com/purchase/exclusive?code=${esc(ex.code)}&lang=id" target="_blank" rel="noopener">beli</a>`
+          : "";
+        if (avail > 0 && !expired) anyAvail = true;
+        jl += `<div class="jl ${avail === 0 || expired ? "soldout" : ""}" ${hidden ? 'style="display:none"' : ""}>
+          <span class="member">${esc(j.member || j.label || "—")}</span>
+          <span class="cnt"><span class="avail ${cls}">${avail}</span>/${total} ${badge}${buy}</span>
+          <span class="bar"><i style="width:${pct}%"></i></span></div>`;
+      }
+      if (visibleJ > 0) { visibleSess++; }
+      if (s.jalur && s.jalur.length) hasJalurSessions = true;
+      const anyVisible = visibleJ > 0 || !(s.jalur && s.jalur.length);
+      sessHtml += `<div class="sess">
+        <div class="sess-head"><span>${esc(s.label || "Sesi")} · ${esc(s.date || "—")} ${esc(fmtT(s.start_time))}${s.end_time ? "–" + esc(fmtT(s.end_time)) : ""}</span><span class="caret">›</span></div>
+        <div class="jalur">${jl || '<div style="font-size:12px;color:var(--muted)">Belum ada jalur.</div>'}</div>
+      </div>`;
+      if (!anyVisible) sessHtml = "";  // sembunyikan sesi yang semua jalurnya difilter
+    }
+
+    card.innerHTML = `
+      <div class="card-top">
+        ${ex.thumbnail ? `<img class="thumb" src="/api/thumb?url=${encodeURIComponent(ex.thumbnail)}" alt="" loading="lazy">` : '<div class="thumb"></div>'}
+        <div>
+          <h2>${esc(ex.title)}</h2>
+          <div class="code">${esc(ex.code)}</div>
+          <div class="meta"><span class="chip">${esc(ex.category || "—")}</span></div>
+        </div>
+      </div>
+      <div class="meta">
+        <span class="price">${fmtRp(ex.price)}</span>
+        <span class="quota">kuota ${fmtNum(ex.total_quota)} · maks ${esc(ex.max_purchase ?? "—")}</span>
+        ${anyAvail ? `<a class="buy-btn" href="https://jkt48.com/purchase/exclusive?code=${esc(ex.code)}&lang=id" target="_blank" rel="noopener">Beli tiket</a>` : ""}
+      </div>
+      <div class="windows">${winHtml || '<div style="font-size:12px;color:var(--muted)">Belum ada periode penjualan.</div>'}</div>
+      ${sessHtml || (ex.sessions && ex.sessions.length ? '<div style="font-size:12px;color:var(--muted)">Semua tiket habis / lewat deadline.</div>' : "")}`;
+    if (hasJalurSessions && !visibleSess && state.hideDone) card.classList.add("dim");
+    grid.appendChild(card);
+  }
+
+  // accordion: buka sesi pertama yang terlihat
+  const sessEls = grid.querySelectorAll(".sess");
+  if (sessEls.length) sessEls[0].classList.add("open");
+  grid.querySelectorAll(".sess-head").forEach(h => h.addEventListener("click", () => h.parentElement.classList.toggle("open")));
+}
+
+/* ---------- GSAP reveal halus ---------- */
+function revealCards() {
+  if (typeof gsap === "undefined" || typeof ScrollTrigger === "undefined") return;
+  if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  gsap.registerPlugin(ScrollTrigger);
+  ScrollTrigger.getAll().forEach(t => t.kill());
+  const cards = document.querySelectorAll("#grid .card");
+  if (!cards.length) return;
+  gsap.set(cards, { opacity: 0, y: 12 });
+  ScrollTrigger.batch(cards, {
+    interval: 0.1, batchMax: 6, start: "top 90%", once: true,
+    onEnter: batch => gsap.to(batch, { opacity: 1, y: 0, duration: 0.45, stagger: 0.04, overwrite: true, ease: "power1.out" }),
+  });
+  ScrollTrigger.refresh();
+}
+
+/* ---------- aliran data ---------- */
+function topMemberRows(stats) {
+  const rows = stats.topMembers.map(([name, sold]) => ({ name, sold, t0: state.memberSoldout[name] }));
+  if (state.memberSort === "first") {
+    rows.sort((a, b) => {
+      if (a.t0 && b.t0) return a.t0.localeCompare(b.t0);
+      if (a.t0 && !b.t0) return -1;
+      if (!a.t0 && b.t0) return 1;
+      return b.sold - a.sold;
+    });
+  }
+  return rows.slice(0, 8);
+}
+
+function histSig(h) { return (h.ts || "") + "|" + (h.member || "") + "|" + (h.prev ?? "") + "|" + (h.now ?? ""); }
+function histRowHtml(h, flash) {
+  const cls = h.delta > 0 ? "up" : h.delta < 0 ? "down" : "flat";
+  const sign = h.delta > 0 ? "+" : "";
+  const jalur = h.jalur ? ` · <span class="h-jalur">${esc(h.jalur)}</span>` : "";
+  return `<div class="hist-row${flash ? " flash" : ""}">
+    <span class="h-ts">${esc(h.ts ? h.ts.slice(11, 19) : "—")}</span>
+    <span class="h-what"><span class="h-code">${esc(h.code)}</span> · <span class="h-member">${esc(h.member || "—")}</span> · ${esc(h.session || "Sesi —")}${jalur} · <span class="h-date">${esc(h.date || "")}</span></span>
+    <span class="h-delta ${cls}">${esc(h.prev)} → ${esc(h.now)} (${sign}${esc(h.delta)})</span>
+  </div>`;
+}
+function histFiltered() {
+  const q = state.search.trim().toLowerCase();
+  if (!q) return state.history;
+  return state.history.filter(h => (h.member || "").toLowerCase().includes(q));
+}
+function histCountLabel(n) {
+  if (!state.search) return n + " perubahan";
+  return `${n} dari ${state.history.length} cocok`;
+}
+function renderHistory() {
+  const box = $("hist");
+  // shell statis dibuat sekali agar input pencarian & tombol tidak kehilangan fokus saat polling
+  if (!box.dataset.built) {
+    box.innerHTML = `<div class="hist-box">
+      <div class="hist-bar">
+        <span class="hist-title" id="histTitle" title="Klik untuk tampilan penuh per hari">Riwayat perubahan kuota</span>
+        <input class="hist-search" id="histSearch" type="search" placeholder="Cari nama member…">
+        <span class="hist-count" id="histCount"></span>
+        <span class="hist-spacer"></span>
+        <button class="hist-toggle" id="histToggle" type="button" title="Ciutkan">▾</button>
+      </div>
+      <div id="histBody"></div>
+    </div>`;
+    box.dataset.built = "1";
+  }
+  const body = $("histBody");
+  if (!state.history.length) {
+    lastHistSig = null;
+    body.innerHTML = '<div class="hist-empty">Belum ada perubahan kuota tercatat — setiap perubahan jumlah tiket akan muncul di sini.</div>';
+    $("histCount").textContent = "";
+    return;
+  }
+  const rows = histFiltered();
+  $("histCount").textContent = histCountLabel(rows.length);
+  const sig = histSig(state.history[0]);
+  const isNew = lastHistSig !== null && sig !== lastHistSig && !state.search;
+  lastHistSig = sig;
+  $("histToggle").textContent = state.collapsed ? "▸" : "▾";
+  $("histToggle").title = state.collapsed ? "Perluas" : "Ciutkan";
+  if (state.collapsed) {
+    body.innerHTML = `<div class="hist-ticker">${histRowHtml(state.history[0], false)}</div>`;
+  } else {
+    body.innerHTML = `<div class="hist-scroll">${rows.map((h, i) => histRowHtml(h, i === 0 && isNew)).join("") || '<div class="hist-empty">Tidak ada perubahan yang cocok.</div>'}</div>`;
+  }
+}
+const FULL_PAGE = 200;
+const full = { entries: [], total: 0, page: 0, totalPages: 0, loading: false, loaded: false };
+
+async function fetchHistoryPage(page, q) {
+  const params = new URLSearchParams({ page, per_page: FULL_PAGE });
+  if (q) params.set("q", q);
+  const r = await fetch("/api/history?" + params, { cache: "no-store" });
+  if (!r.ok) throw new Error("HTTP " + r.status);
+  return r.json();
+}
+
+async function reloadFull() {
+  full.loading = true;
+  full.loaded = false;
+  renderHistoryFull();
+  try {
+    const data = await fetchHistoryPage(1, state.search.trim());
+    full.entries = data.entries; full.total = data.total;
+    full.page = data.page; full.totalPages = data.total_pages;
+  } catch (e) {
+    full.entries = []; full.total = 0; full.page = 0; full.totalPages = 0;
+    $("hfBody").innerHTML = '<div class="hf-empty">Gagal memuat riwayat: ' + esc(e.message) + '</div>';
+    $("hfCount").textContent = "";
+  }
+  full.loading = false;
+  full.loaded = true;
+  renderHistoryFull();
+}
+
+async function loadMoreFull() {
+  if (full.loading || full.page >= full.totalPages) return;
+  full.loading = true;
+  renderHistoryFull();
+  try {
+    const data = await fetchHistoryPage(full.page + 1, state.search.trim());
+    full.entries = full.entries.concat(data.entries);
+    full.page = data.page; full.total = data.total; full.totalPages = data.total_pages;
+  } catch (e) {
+    $("hfLoadMore").textContent = "Gagal memuat — coba lagi";
+  }
+  full.loading = false;
+  renderHistoryFull();
+}
+
+function renderHistoryFull(openNow) {
+  const ov = $("histFull");
+  if (openNow) {
+    ov.classList.add("open");
+    document.body.style.overflow = "hidden";
+  }
+  if (!ov.dataset.built) {
+    ov.innerHTML = `<div class="hf-bar">
+      <span class="hf-title">Riwayat perubahan kuota — semua perubahan</span>
+      <input class="hf-search" id="hfSearch" type="search" placeholder="Cari nama member…">
+      <span class="hf-count" id="hfCount"></span>
+      <button class="hf-close" id="hfClose" type="button" title="Tutup (Esc)">×</button>
+    </div>
+    <div class="hf-wrap">
+      <div id="hfBody"><div class="hf-empty">Memuat riwayat…</div></div>
+      <button class="hf-more" id="hfLoadMore" type="button">Muat lagi</button>
+    </div>`;
+    ov.dataset.built = "1";
+  }
+  $("hfSearch").value = state.search;
+  if (!full.loaded) {
+    $("hfCount").textContent = "…";
+    $("hfLoadMore").style.display = "none";
+    return;
+  }
+  $("hfCount").textContent = full.total ? `${full.total} perubahan${state.search ? " (filter member)" : ""}` : "0 perubahan";
+  const hasMore = full.page < full.totalPages;
+  $("hfLoadMore").style.display = hasMore ? "" : "none";
+  $("hfLoadMore").disabled = full.loading;
+  $("hfLoadMore").textContent = full.loading ? "Memuat…" : `Muat lagi (${full.total - full.entries.length} tersisa)`;
+  $("hfBody").innerHTML = !full.entries.length
+    ? '<div class="hf-empty">Tidak ada perubahan yang cocok.</div>'
+    : groupByDay(full.entries).map(([d, rs]) => `
+        <div class="hf-day">
+          <div class="hf-dayhead">${esc(d)} <span class="hf-daycount">${rs.length} perubahan</span></div>
+          ${rs.map(h => histRowHtml(h, false)).join("")}
+        </div>`).join("");
+}
+
+async function openHistoryFull() {
+  state.full = true;
+  renderHistoryFull(true);
+  await reloadFull();
+}
+function groupByDay(rows) {
+  const groups = new Map();
+  for (const h of rows) {
+    const d = h.date || "Tanpa tanggal";
+    if (!groups.has(d)) groups.set(d, []);
+    groups.get(d).push(h);
+  }
+  return [...groups.entries()];
+}
+
+function applyFilters() {
+  const exs = (state.data?.exclusives || []).map(enrich);
+  const catExs = exs.filter(e => !state.category || e.category === state.category);
+  renderToolbar(exs, catExs);
+  const filtered = catExs.filter(e => !state.event || eventOf(e) === state.event);
+  state.stats = buildStats(filtered);
+  renderStats(state.stats);
+  renderGrid(filtered);
+  renderHistory();
+  revealCards();
+}
+
+function process(data) {
+  state.data = data;
+  state.history = data.history || [];
+  state.memberSoldout = data.member_first_soldout || {};
+  applyFilters();
+  $("tsline").textContent = "data API: " + (data.generated_at || "—");
+}
+
+let paused = false, countdownLeft = POLL_MS;
+function tick() {
+  $("countdown").textContent = paused ? "refresh dijeda" : `refresh berikutnya dalam ${Math.max(0, Math.round(countdownLeft / 1000))}s`;
+  if (!paused) countdownLeft = Math.max(0, countdownLeft - 1000);
+}
+
+async function load() {
+  $("errline").textContent = "";
+  try {
+    const r = await fetch(API, { cache: "no-store" });
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    const data = await r.json();
+    if (data.error) throw new Error(data.error);
+    process(data);
+    $("live").className = "live";
+    $("live").textContent = "aktif";
+    $("updated").textContent = "diperbarui " + new Date().toLocaleTimeString("id-ID");
+  } catch (e) {
+    $("live").className = "live off";
+    $("live").textContent = "terputus";
+    $("errline").classList.add("err");
+    $("errline").textContent = "Gagal memuat data: " + e.message;
+    if (!$("grid").children.length || $("grid").children[0].classList.contains("empty"))
+      $("grid").innerHTML = '<div class="empty">Tidak bisa mengambil data.<br><small>Periksa koneksi atau tunggu sebentar.</small></div>';
+  } finally { countdownLeft = POLL_MS; }
+}
+
+$("refreshBtn").onclick = load;
+$("pauseBtn").onclick = () => {
+  paused = !paused;
+  $("pauseBtn").textContent = paused ? "Lanjut" : "Jeda";
+  if (!paused) load();
+};
+$("catFilter").onchange = (e) => { state.category = e.target.value; state.event = ""; applyFilters(); };
+$("evFilter").onchange = (e) => { state.event = e.target.value; applyFilters(); };
+$("hideDone").onchange = (e) => { state.hideDone = e.target.checked; applyFilters(); };
+$("tabs").addEventListener("click", (ev) => {
+  const b = ev.target.closest(".tab");
+  if (!b) return;
+  document.querySelectorAll(".tab").forEach(t => t.classList.toggle("active", t === b));
+  const t = b.dataset.tab;
+  $("stats").hidden = t !== "stats";
+  $("grid").hidden = t !== "grid";
+  if (t === "grid") revealCards();
+});
+function syncHeaderTop() {
+  const h = document.querySelector("header");
+  if (h) document.documentElement.style.setProperty("--header-h", h.offsetHeight + "px");
+}
+window.addEventListener("resize", syncHeaderTop);
+$("stats").addEventListener("click", (ev) => {
+  const b = ev.target.closest("[data-sort]");
+  if (!b) return;
+  state.memberSort = b.dataset.sort;
+  if (state.stats) renderStats(state.stats);
+});
+$("hist").addEventListener("input", (ev) => {
+  if (ev.target.id === "histSearch") {
+    state.search = ev.target.value;
+    renderHistory();
+  }
+});
+$("hist").addEventListener("click", (ev) => {
+  const tg = ev.target.closest("#histToggle");
+  if (tg) { state.collapsed = !state.collapsed; renderHistory(); return; }
+  const tt = ev.target.closest("#histTitle");
+  if (tt) { openHistoryFull(); }
+});
+let hfDebounce = null;
+$("histFull").addEventListener("input", (ev) => {
+  if (ev.target.id !== "hfSearch") return;
+  state.search = ev.target.value;
+  clearTimeout(hfDebounce);
+  hfDebounce = setTimeout(reloadFull, 300);
+});
+$("histFull").addEventListener("click", (ev) => {
+  if (ev.target.closest("#hfClose")) {
+    state.full = false;
+    $("histFull").classList.remove("open");
+    document.body.style.overflow = "";
+    renderHistory();
+    return;
+  }
+  if (ev.target.closest("#hfLoadMore")) loadMoreFull();
+});
+document.addEventListener("keydown", (ev) => {
+  if (ev.key === "Escape" && $("histFull").classList.contains("open")) {
+    state.full = false;
+    $("histFull").classList.remove("open");
+    document.body.style.overflow = "";
+    renderHistory();
+  }
+});
+
+syncHeaderTop();
+
+const isDemo = new URLSearchParams(location.search).has("demo");
+if (isDemo) {
+  process({ generated_at: new Date().toISOString(), exclusives: DEMO });
+  $("updated").textContent = "mode demo";
+  $("tsline").textContent = "mode demo — data contoh";
+  $("refreshBtn").disabled = $("pauseBtn").disabled = true;
+  $("live").className = "live"; $("live").textContent = "demo";
+} else {
+  load();
+  setInterval(() => { if (!paused) load(); }, POLL_MS);
+  setInterval(tick, 1000);
+}
+</script>
+</body>
+</html>

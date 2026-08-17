@@ -1,0 +1,62 @@
+1	ABIGAIL_RACHEL	Abigail Rachel	PASSION	https://jkt48.com/api/v1/storages/media/jkt48-member/abigail_rachel.jpg	Aralie_JKT48	jkt48.aralie	jkt48.aralie
+2	ADELINE_WIJAYA	Adeline Wijaya	DREAM	https://jkt48.com/api/v1/storages/media/jkt48-member/adeline_wijaya.jpg	Delynn_JKT48	jkt48.delynn	jkt48.delynn
+6	AFERA_THALIA	Afera Thalia	TRAINEE	https://jkt48.com/api/v1/storages/media/jkt48-member/afera_thalia.jpg			
+13	ALYA_AMANDA	Alya Amanda	LOVE	https://jkt48.com/api/v1/storages/media/jkt48-member/alya_amanda.jpg	AA_AlyaJKT48	jkt48.alya_	alyajkt48
+22	ANGELINA_CHRISTY	Angelina Christy	PASSION	https://jkt48.com/api/v1/storages/media/jkt48-member/angelina_christy.jpg	A_ChristyJKT48	jkt48.christy	christyjkt48
+26	ANINDYA_RAMADHANI	Anindya Ramadhani	LOVE	https://jkt48.com/api/v1/storages/media/jkt48-member/anindya_ramadhani.jpg	AR_AnindyaJKT48	jkt48.anindya_	anindyajkt48
+28	ASTRELLA_VIRGIANANDA	Astrella Virgiananda	TRAINEE	https://jkt48.com/api/v1/storages/media/jkt48-member/Astrella_Virgiananda.jpg	A_VirgiJKT48	virgi.jkt48	jkt48.virgi
+30	AULIA_RIZA	Aulia Riza	TRAINEE	https://jkt48.com/api/v1/storages/media/jkt48-member/Aulia_Riza.jpg	Auwia_JKT48	 auwia.jkt48	jkt48.auwia
+31	AURELLIA	Aurellia	LOVE	https://jkt48.com/api/v1/storages/media/jkt48-member/aurellia.jpg	AU_LiaJKT48	jkt48.aurellia_	jkt48.aurellia_
+33	AURHEL_ALANA	Aurhel Alana	LOVE	https://jkt48.com/api/v1/storages/media/jkt48-member/aurhel_alana.jpg	AR_LanaJKT48	jkt48.lana.a	jkt48.lana
+39	BONG_APRILLI	Bong Aprilli	TRAINEE	https://jkt48.com/api/v1/storages/media/jkt48-member/Bong_Aprilli.jpg	Rilly_JKT48	rilly.jkt48_	jkt48.rilly
+43	CARISSA_DINI	Carissa Dini	TRAINEE	https://jkt48.com/api/v1/storages/media/jkt48-member/carissa_dini.jpg			
+44	CATHERINA_VALLENCIA	Catherina Vallencia	PASSION	https://jkt48.com/api/v1/storages/media/jkt48-member/catherina_vallencia.jpg	CErine_JKT48	jkt48.erine	jkt48.erine_
+46	CELLINE_THEFANI	Celline Thefani	LOVE	https://jkt48.com/api/v1/storages/media/jkt48-member/celline_thefani.jpg	Elin_JKT48	jkt48.elin_	elinjkt48
+52	CHRISTABELLA_BONITA	Christabella Bonita	TRAINEE	https://jkt48.com/api/v1/storages/media/jkt48-member/christabella_bonita.jpg			
+59	CORNELIA_VANISA	Cornelia Vanisa	PASSION	https://jkt48.com/api/v1/storages/media/jkt48-member/cornelia_vanisa.jpg	C_OnielJKT48	jkt48.oniel	onieljkt48
+60	CYNTHIA_YAPUTERA	Cynthia Yaputera	LOVE	https://jkt48.com/api/v1/storages/media/jkt48-member/cynthia_yaputera.jpg	Y_CynthiaJKT48	jkt48.cynthia	cynthiajkt48
+64	DENA_NATALIA	Dena Natalia	PASSION	https://jkt48.com/api/v1/storages/media/jkt48-member/dena_natalia.jpg	Danella_JKT48	jkt48.danella	danellajkt48
+67	DESY_NATALIA	Desy Natalia	PASSION	https://jkt48.com/api/v1/storages/media/jkt48-member/desy_natalia.jpg	Daisy_JKT48	jkt48.daisy	daisyjkt48
+82	FAHIRA_PUTRI	Fahira Putri	TRAINEE	https://jkt48.com/api/v1/storages/media/jkt48-member/fahira_putri.jpg			
+85	FATIMAH_AZZAHRA	Fatimah Azzahra	TRAINEE	https://jkt48.com/api/v1/storages/media/jkt48-member/fatimah_azzahra.jpg			
+88	FEBRIOLA_SINAMBELA	Febriola Sinambela	DREAM	https://jkt48.com/api/v1/storages/media/jkt48-member/febriola_sinambela.jpg	F_OllaJKT48	jkt48.olla	ollajkt48
+89	FENI_FITRIYANTI	Feni Fitriyanti	PASSION	https://jkt48.com/api/v1/storages/media/jkt48-member/feni_fitriyanti.jpg	F_FeniJKT48	jkt48feni	fenijkt48
+91	FIONY_ALVERIA	Fiony Alveria	LOVE	https://jkt48.com/api/v1/storages/media/jkt48-member/fiony_alveria.jpg	A_FionyJKT48	jkt48.fiony	fionyjkt48
+94	FREYA_JAYAWARDANA	Freya Jayawardana	DREAM	https://jkt48.com/api/v1/storages/media/jkt48-member/freya_jayawardana.jpg	Freya_JKT48	jkt48.freya	freyajkt48
+96	FRITZY_ROSMERIAN	Fritzy Rosmerian	LOVE	https://jkt48.com/api/v1/storages/media/jkt48-member/fritzy_rosmerian.jpg	RFritzy_JKT48	jkt48.fritzy.r	jkt48.fritzy
+97	GABRIELA_ABIGAIL	Gabriela Abigail	DREAM	https://jkt48.com/api/v1/storages/media/jkt48-member/gabriela_abigail.jpg	AM_EllaJKT48	jkt48.ella.a	jkt48.ella.a
+104	GITA_SEKAR_ANDARINI	Gita Sekar Andarini	DREAM	https://jkt48.com/api/v1/storages/media/jkt48-member/gita_sekar_andarini.jpg	A_GitaJKT48	jkt48gita	gitajkt48
+105	GRACE_OCTAVIANI	Grace Octaviani	LOVE	https://jkt48.com/api/v1/storages/media/jkt48-member/grace_octaviani.jpg	Gracie_JKT48	jkt48.gracie	graciejkt48
+107	GREESELLA_ADHALIA	Greesella Adhalia	DREAM	https://jkt48.com/api/v1/storages/media/jkt48-member/greesella_adhalia.jpg	Greesel_JKT48	jkt48.greesel	greeseljkt48
+108	HAGIA_SOPIA	Hagia Sopia	TRAINEE	https://jkt48.com/api/v1/storages/media/jkt48-member/Hagia_Sopia.jpg	Giaa_JKT48	giaa.jkt48	giaa.jkt48
+111	HEIDI_SUYANGGA	Heidi Suyangga	TRAINEE	https://jkt48.com/api/v1/storages/media/jkt48-member/heidi_suyangga.jpg			
+112	HELISMA_PUTRI	Helisma Putri	DREAM	https://jkt48.com/api/v1/storages/media/jkt48-member/helisma_putri.jpg	H_EliJKT48	jkt48.eli	elijkt48
+114	HILLARY_ABIGAIL	Hillary Abigail	LOVE	https://jkt48.com/api/v1/storages/media/jkt48-member/hillary_abigail.jpg	Lily_JKT48	jkt48.lily_	jkt48.lily
+115	HUMAIRA_RAMADHANI	Humaira Ramadhani	TRAINEE	https://jkt48.com/api/v1/storages/media/jkt48-member/Humaira_Ramadhani.jpg	Maira_JKT48	maira.jkt48	jkt48.maira
+116	INDAH_CAHYA	Indah Cahya	LOVE	https://jkt48.com/api/v1/storages/media/jkt48-member/indah_cahya.jpg	C_IndahJKT48	jkt48indah_	indahjkt48
+119	ISHA_KIRANA	Isha Kirana	JKT48_VIRTUAL	https://jkt48.com/api/v1/storages/media/jkt48-member/isha_kirana.png			
+120	JACQUELINE_IMMANUELA	Jacqueline Immanuela	TRAINEE	https://jkt48.com/api/v1/storages/media/jkt48-member/Jacqueline_Immanuela.jpg	Ekin_JKT48	ekin.jkt48	jkt48.ekin
+121	JAZZLYN_TRISHA	Jazzlyn Trisha	LOVE	https://jkt48.com/api/v1/storages/media/jkt48-member/jazzlyn_trisha.jpg	JTrisha_JKT48	jkt48.trisha	jkt48.trisha
+123	JEMIMA_EVODIE	Jemima Evodie	TRAINEE	https://jkt48.com/api/v1/storages/media/jkt48-member/Jemima_Evodie.jpg	JE_JemimaJKT48	jemima.jkt48	jkt48.jemima
+127	JESSICA_CHANDRA	Jessica Chandra	PASSION	https://jkt48.com/api/v1/storages/media/jkt48-member/jessica_chandra.jpg	C_JessiJKT48	jkt48.jessi	jessijkt48
+131	JESSLYN_ELLY	Jesslyn Elly	DREAM	https://jkt48.com/api/v1/storages/media/jkt48-member/jesslyn_elly.jpg	SE_LynJKT48	jkt48.lyn.s	jkt48.lyn.s
+143	KATHRINA_IRENE	Kathrina Irene	PASSION	https://jkt48.com/api/v1/storages/media/jkt48-member/kathrina_irene.jpg	I_KathrinaJKT48	jkt48.kathrina	kathrinjkt48
+148	LULU_SALSABILA	Lulu Salsabila	PASSION	https://jkt48.com/api/v1/storages/media/jkt48-member/lulu_salsabila.jpg	A_LuluJKT48	jkt48.lulu	lulu_jkt48
+152	MARSHA_LENATHEA	Marsha Lenathea	DREAM	https://jkt48.com/api/v1/storages/media/jkt48-member/marsha_lenathea.jpg	L_MarshaJKT48	jkt48.marsha	marsha.jkt48
+155	MAXINE_FAYE	Maxine Faye	TRAINEE	https://jkt48.com/api/v1/storages/media/jkt48-member/maxine_faye_lee.jpg			
+159	MICHELLE_ALEXANDRA	Michelle Alexandra	LOVE	https://jkt48.com/api/v1/storages/media/jkt48-member/michelle_alexandra.jpg	Michie_JKT48	jkt48.michie_	michiejkt48
+161	MICHELLE_LEVIA	Michelle Levia	PASSION	https://jkt48.com/api/v1/storages/media/jkt48-member/michelle_levia.jpg	Levi_JKT48	jkt48.levi	jkt48.levi
+162	MIKAELA_KUSJANTO	Mikaela Kusjanto	TRAINEE	https://jkt48.com/api/v1/storages/media/jkt48-member/Mikaela_Kusjanto.jpg	M_MikaelaJKT48	mikaela.jkt48	jkt48.mikaela
+166	MUTIARA_AZZAHRA	Mutiara Azzahra	PASSION	https://jkt48.com/api/v1/storages/media/jkt48-member/mutiara_azzahra.jpg	A_MutheJKT48	jkt48.muthe_	muthejkt48
+175	NAYLA_SUJI	Nayla Suji	LOVE	https://jkt48.com/api/v1/storages/media/jkt48-member/nayla_suji.jpg	SNayla_JKT48	jkt48.nayla.s	jkt48.nayla
+178	NINA_TUTACHIA	Nina Tutachia	DREAM	https://jkt48.com/api/v1/storages/media/jkt48-member/nina_tutachia.jpg	Nachia_JKT48	jkt48.nachia.t	jkt48.nachia
+182	NUR_INTAN	Nur Intan	TRAINEE	https://jkt48.com/api/v1/storages/media/jkt48-member/Nur_Intan.jpg	N_IntanJKT48	intan.jkt48	jkt48.intan
+185	OLINE_MANUEL	Oline Manuel	DREAM	https://jkt48.com/api/v1/storages/media/jkt48-member/oline_manuel.jpg	M_OlineJKT48	jkt48.oline	jkt48.oline
+187	PIA_MERALEO	Pia Meraleo	JKT48_VIRTUAL	https://jkt48.com/api/v1/storages/media/jkt48-member/pia_meraleo.jpg	pia_jkt48v	jkt48v.pia/	jkt48v.pia/
+194	PUTRY_JAZYTA	Putry Jazyta	TRAINEE	https://jkt48.com/api/v1/storages/media/jkt48-member/putry_jazyta.jpg			
+195	RAISHA_SYIFA	Raisha Syifa	PASSION	https://jkt48.com/api/v1/storages/media/jkt48-member/raisha_syifa.jpg	SW_RaishaJKT48	jkt48.raisha.s	jkt48.raisha.s
+196	RALYNE_VAN_IRWAN	Ralyne Van Irwan	TRAINEE	https://jkt48.com/api/v1/storages/media/jkt48-member/ralyne_van_irwan.jpg			
+204	RIBKA_BUDIMAN	Ribka Budiman	PASSION	https://jkt48.com/api/v1/storages/media/jkt48-member/ribka_budiman.jpg	Ribka_JKT48	jkt48.ribka	jkt48.ribka
+221	SHABILQIS_NAILA	Shabilqis Naila	DREAM	https://jkt48.com/api/v1/storages/media/jkt48-member/shabilqis_naila.jpg	Nala_JKT48	jkt48.nala	jkt48.nala
+231	SONA_KALYANA	Sona Kalyana	TRAINEE	https://jkt48.com/api/v1/storages/media/jkt48-member/sona_kalyana.jpg			
+244	VICTORIA_KIMBERLY	Victoria Kimberly	PASSION	https://jkt48.com/api/v1/storages/media/jkt48-member/victoria_kimberly.jpg	Kimmy_JKT48	jkt48.kimmy	jkt48.kimmy

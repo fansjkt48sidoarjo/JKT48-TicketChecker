@@ -1,0 +1,30 @@
+{
+  "base": "https://jkt48.com",
+  "seed_urls": 134,
+  "sitemap_urls": 536,
+  "route_map_urls": 134,
+  "pages": 9133,
+  "news_articles": 1842,
+  "api_endpoints": 65,
+  "assets": 0,
+  "external": 27,
+  "blocked_403": 16,
+  "js_bundles_scanned": 57,
+  "http_stats": {
+    "200": 215,
+    "404": 2,
+    "403": 32,
+    "errors": 12
+  },
+  "params": {
+    "max_pages": 250,
+    "depth": 2,
+    "delay": 0.5
+  },
+  "schedule_events": 2595,
+  "schedule_urls_merged": 5190,
+  "exclusives": 16,
+  "exclusive_media_urls": 32,
+  "member_details": 62,
+  "member_socials": 153
+}
